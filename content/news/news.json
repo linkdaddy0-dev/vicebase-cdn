@@ -1,0 +1,34 @@
+{
+  "metadata": {
+    "dataset": "news",
+    "version": "1.0.0",
+    "generatedAt": "2026-06-27T00:00:00Z",
+    "language": "en",
+    "region": "global",
+    "verified": true,
+    "source": "Rockstar Newswire"
+  },
+  "items": [
+    {
+      "id": "news_release_date",
+      "slug": "official-announcement-news",
+      "title": "Rockstar Games Announces Grand Theft Auto VI",
+      "description": "Rockstar Games announced that Grand Theft Auto VI is coming in 2025 to PlayStation 5 and Xbox Series X|S systems.",
+      "status": "official",
+      "tags": ["announcement", "platforms", "console"],
+      "relationships": {
+        "locations": ["location_leonida"]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire Announcement",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/o3a32k39o88382/grand-theft-auto-vi-official-announcement",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "publishDate": "2023-12-05",
+      "author": "Rockstar Games Newswire Editor",
+      "summary": "Rockstar Games details the official announcement of Grand Theft Auto VI, confirming the state of Leonida, PS5 and Xbox Series X|S support."
+    }
+  ]
+}

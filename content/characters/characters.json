@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "dataset": "characters",
+    "version": "1.0.0",
+    "generatedAt": "2026-06-27T00:00:00Z",
+    "language": "en",
+    "region": "global",
+    "verified": true,
+    "source": "Rockstar Games Trailer 1 & Visual Analysis"
+  },
+  "items": [
+    {
+      "id": "character_lucia",
+      "slug": "lucia",
+      "title": "Lucia",
+      "description": "One of the two main playable protagonists of Grand Theft Auto VI, seen in Trailer 1 wearing prison attire and cooperating with Jason.",
+      "status": "official",
+      "tags": ["protagonist", "female", "playable"],
+      "relationships": {
+        "locations": ["location_vice_city"]
+      },
+      "verified": true,
+      "source": "Rockstar Games Trailer 1",
+      "sourceUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "female",
+      "role": "protagonist",
+      "voiceActor": null
+    },
+    {
+      "id": "character_jason",
+      "slug": "jason",
+      "title": "Jason",
+      "description": "The second main playable protagonist of Grand Theft Auto VI, shown in Trailer 1 partnering with Lucia in robberies.",
+      "status": "official",
+      "tags": ["protagonist", "male", "playable"],
+      "relationships": {
+        "locations": ["location_vice_city"]
+      },
+      "verified": true,
+      "source": "Rockstar Games Trailer 1",
+      "sourceUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "protagonist",
+      "voiceActor": null
+    }
+  ]
+}

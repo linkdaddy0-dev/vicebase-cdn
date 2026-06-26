@@ -1,0 +1,106 @@
+[
+  {
+    "id": "location_leonida",
+    "slug": "state-of-leonida",
+    "title": "Leonida",
+    "description": "The fictional state in which Grand Theft Auto VI is set, designed to resemble Florida, containing Neon-soaked streets of Vice City and beyond.",
+    "type": "location",
+    "tags": [
+      "state",
+      "leonida",
+      "world_map"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_vice_city",
+    "slug": "vice-city",
+    "title": "Vice City",
+    "description": "A metropolitan city located within the State of Leonida, returning as the main location in Grand Theft Auto VI.",
+    "type": "location",
+    "tags": [
+      "city",
+      "vice_city",
+      "main_location"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_lucia",
+    "slug": "lucia",
+    "title": "Lucia",
+    "description": "One of the two main playable protagonists of Grand Theft Auto VI, seen in Trailer 1 wearing prison attire and cooperating with Jason.",
+    "type": "character",
+    "tags": [
+      "protagonist",
+      "female",
+      "playable"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_jason",
+    "slug": "jason",
+    "title": "Jason",
+    "description": "The second main playable protagonist of Grand Theft Auto VI, shown in Trailer 1 partnering with Lucia in robberies.",
+    "type": "character",
+    "tags": [
+      "protagonist",
+      "male",
+      "playable"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_cheetah",
+    "slug": "grotti-cheetah",
+    "title": "Grotti Cheetah",
+    "description": "A recurring high-performance supercar in the Grand Theft Auto series, confirmed visually via Trailer 1 cruising in Vice City.",
+    "type": "vehicle",
+    "tags": [
+      "supercar",
+      "sports",
+      "returning"
+    ],
+    "status": "confirmed"
+  },
+  {
+    "id": "weapon_pistol",
+    "slug": "pistol-9mm",
+    "title": "9mm Pistol",
+    "description": "Standard semi-automatic handgun, confirmed to be usable by Lucia and Jason in Trailer 1 during store robberies.",
+    "type": "weapon",
+    "tags": [
+      "handgun",
+      "pistol",
+      "basic"
+    ],
+    "status": "confirmed"
+  },
+  {
+    "id": "timeline_trailer_01",
+    "slug": "trailer-1-release",
+    "title": "Trailer 1 Premiere",
+    "description": "Rockstar Games officially released the first trailer for Grand Theft Auto VI, revealing Leonida, Vice City, Lucia, and a Fall 2025 release target.",
+    "type": "timelin",
+    "tags": [
+      "trailer",
+      "premiere",
+      "announcement"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "news_release_date",
+    "slug": "official-announcement-news",
+    "title": "Rockstar Games Announces Grand Theft Auto VI",
+    "description": "Rockstar Games announced that Grand Theft Auto VI is coming in 2025 to PlayStation 5 and Xbox Series X|S systems.",
+    "type": "new",
+    "tags": [
+      "announcement",
+      "platforms",
+      "console"
+    ],
+    "status": "official"
+  }
+]

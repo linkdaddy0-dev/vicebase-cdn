@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "dataset": "locations",
+    "version": "1.0.0",
+    "generatedAt": "2026-06-27T00:00:00Z",
+    "language": "en",
+    "region": "global",
+    "verified": true,
+    "source": "Rockstar Games Trailer 1 & Announcements"
+  },
+  "items": [
+    {
+      "id": "location_leonida",
+      "slug": "state-of-leonida",
+      "title": "Leonida",
+      "description": "The fictional state in which Grand Theft Auto VI is set, designed to resemble Florida, containing Neon-soaked streets of Vice City and beyond.",
+      "status": "official",
+      "tags": ["state", "leonida", "world_map"],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games press release",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/o3a32k39o88382/grand-theft-auto-vi-official-announcement",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "state"
+    },
+    {
+      "id": "location_vice_city",
+      "slug": "vice-city",
+      "title": "Vice City",
+      "description": "A metropolitan city located within the State of Leonida, returning as the main location in Grand Theft Auto VI.",
+      "status": "official",
+      "tags": ["city", "vice_city", "main_location"],
+      "relationships": {
+        "locations": ["location_leonida"]
+      },
+      "verified": true,
+      "source": "Rockstar Games Trailer 1 Description",
+      "sourceUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "city"
+    }
+  ]
+}

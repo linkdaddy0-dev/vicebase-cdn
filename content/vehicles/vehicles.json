@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "dataset": "vehicles",
+    "version": "1.0.0",
+    "generatedAt": "2026-06-27T00:00:00Z",
+    "language": "en",
+    "region": "global",
+    "verified": true,
+    "source": "Trailer 1 Analysis"
+  },
+  "items": [
+    {
+      "id": "vehicle_cheetah",
+      "slug": "grotti-cheetah",
+      "title": "Grotti Cheetah",
+      "description": "A recurring high-performance supercar in the Grand Theft Auto series, confirmed visually via Trailer 1 cruising in Vice City.",
+      "status": "confirmed",
+      "tags": ["supercar", "sports", "returning"],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Trailer 1 Visuals",
+      "sourceUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "super",
+      "manufacturer": "Grotti"
+    }
+  ]
+}

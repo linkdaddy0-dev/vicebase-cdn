@@ -1,0 +1,58 @@
+{
+  "datasets": [
+    {
+      "id": "locations",
+      "title": "Locations",
+      "category": "core",
+      "enabled": true,
+      "version": "1.0.0",
+      "path": "content/locations/locations.json",
+      "dependsOn": []
+    },
+    {
+      "id": "characters",
+      "title": "Characters",
+      "category": "core",
+      "enabled": true,
+      "version": "1.0.0",
+      "path": "content/characters/characters.json",
+      "dependsOn": []
+    },
+    {
+      "id": "vehicles",
+      "title": "Vehicles",
+      "category": "core",
+      "enabled": true,
+      "version": "1.0.0",
+      "path": "content/vehicles/vehicles.json",
+      "dependsOn": []
+    },
+    {
+      "id": "weapons",
+      "title": "Weapons",
+      "category": "core",
+      "enabled": true,
+      "version": "1.0.0",
+      "path": "content/weapons/weapons.json",
+      "dependsOn": []
+    },
+    {
+      "id": "timeline",
+      "title": "Timeline",
+      "category": "meta",
+      "enabled": true,
+      "version": "1.0.0",
+      "path": "content/timeline/timeline.json",
+      "dependsOn": ["characters", "locations"]
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "category": "meta",
+      "enabled": true,
+      "version": "1.0.0",
+      "path": "content/news/news.json",
+      "dependsOn": ["characters", "locations"]
+    }
+  ]
+}

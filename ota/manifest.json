@@ -1,0 +1,61 @@
+{
+  "contentVersion": "1.0.0",
+  "generatedAt": "2026-06-26T19:45:33.124Z",
+  "minimumAppVersion": "1.0.0",
+  "datasets": [
+    {
+      "id": "locations",
+      "version": "1.0.0",
+      "file": "content/locations/locations.json",
+      "checksum": "fe05a2e9bc658f11bb66ca7958193745f607807217253c89568961b31088aa9b",
+      "records": 2,
+      "dependsOn": []
+    },
+    {
+      "id": "characters",
+      "version": "1.0.0",
+      "file": "content/characters/characters.json",
+      "checksum": "c556216554e38061ac87d226ec00a2bf126f2f7ee519f1a73da61946d2d0f687",
+      "records": 2,
+      "dependsOn": []
+    },
+    {
+      "id": "vehicles",
+      "version": "1.0.0",
+      "file": "content/vehicles/vehicles.json",
+      "checksum": "4f65bc171d0efac6e8ec9755a15efb5df4f21ad65190eb75fb6ca765e8f88af6",
+      "records": 1,
+      "dependsOn": []
+    },
+    {
+      "id": "weapons",
+      "version": "1.0.0",
+      "file": "content/weapons/weapons.json",
+      "checksum": "78362d1310c8dbcca133ac59bcecc4c911c7d2cf030fac018dbaf47274eb7145",
+      "records": 1,
+      "dependsOn": []
+    },
+    {
+      "id": "timeline",
+      "version": "1.0.0",
+      "file": "content/timeline/timeline.json",
+      "checksum": "04548e79c873d6514d8cd1b2b0e6f1855881c6b2c171f3f028a5eeb4fa9f2def",
+      "records": 1,
+      "dependsOn": [
+        "characters",
+        "locations"
+      ]
+    },
+    {
+      "id": "news",
+      "version": "1.0.0",
+      "file": "content/news/news.json",
+      "checksum": "5ed0be2342df74318a4392cf49fcd70b8abe8815852abe1df8d986bd092ec8ee",
+      "records": 1,
+      "dependsOn": [
+        "characters",
+        "locations"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "assets": [
+    {
+      "id": "character_lucia",
+      "type": "character",
+      "path": "media/characters/lucia",
+      "thumbnail": "media/characters/lucia/thumb.webp",
+      "card": "media/characters/lucia/card.webp",
+      "hero": "media/characters/lucia/hero.webp",
+      "gallery": [
+        "media/characters/lucia/gallery/1.webp",
+        "media/characters/lucia/gallery/2.webp"
+      ]
+    },
+    {
+      "id": "character_jason",
+      "type": "character",
+      "path": "media/characters/jason",
+      "thumbnail": "media/characters/jason/thumb.webp",
+      "card": "media/characters/jason/card.webp",
+      "hero": "media/characters/jason/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_cheetah",
+      "type": "vehicle",
+      "path": "media/vehicles/cheetah",
+      "thumbnail": "media/vehicles/cheetah/thumb.webp",
+      "card": "media/vehicles/cheetah/card.webp",
+      "hero": "media/vehicles/cheetah/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "weapon_pistol",
+      "type": "weapon",
+      "path": "media/weapons/pistol",
+      "thumbnail": "media/weapons/pistol/thumb.webp",
+      "card": "media/weapons/pistol/card.webp",
+      "hero": "media/weapons/pistol/hero.webp",
+      "gallery": []
+    }
+  ]
+}
