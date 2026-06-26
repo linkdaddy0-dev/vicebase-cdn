@@ -1,38 +1,38 @@
 {
   "contentVersion": "1.0.0",
-  "generatedAt": "2026-06-26T20:17:14.320Z",
+  "generatedAt": "2026-06-26T21:01:21.762Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
       "id": "locations",
       "version": "1.0.0",
       "file": "content/locations/locations.json",
-      "checksum": "02025cdab0386ce57c280192819daa982ac2b59602791556d987092c67b945b5",
-      "records": 2,
+      "checksum": "846e21ef02de1ef1119a9dcd40fd1a2cb8bc2343f8e0d1d7b806baa63f52a198",
+      "records": 7,
       "dependsOn": []
     },
     {
       "id": "characters",
       "version": "1.0.0",
       "file": "content/characters/characters.json",
-      "checksum": "2b51fab16bbf576aafd64b8a1c7da3d333506f15567baf3a0245b25968dd6215",
-      "records": 2,
+      "checksum": "6b021b05f0bce659188e5315b5ef8d7bdedbc6b2851d1759c42f4b18bf0755cf",
+      "records": 12,
       "dependsOn": []
     },
     {
       "id": "vehicles",
       "version": "1.0.0",
       "file": "content/vehicles/vehicles.json",
-      "checksum": "1c54a76de535225974351e42b8167ecdac57bce79b5619b9989d1d1083ba358b",
-      "records": 1,
+      "checksum": "12b6429a6258b8b8532fc58c738ddcc3ad8d68a5de621eb6f888a42a850c1a06",
+      "records": 8,
       "dependsOn": []
     },
     {
       "id": "weapons",
       "version": "1.0.0",
       "file": "content/weapons/weapons.json",
-      "checksum": "146b14ac274a462f4f2d264aa982c3d46d19e8bc17737276c0e54438d1f104bd",
-      "records": 1,
+      "checksum": "d4dec79aa051597d69ff25cf7ed4256019c9070e40d9ff4c55e1124efcd84daf",
+      "records": 3,
       "dependsOn": []
     },
     {
@@ -50,8 +50,8 @@
       "id": "news",
       "version": "1.0.0",
       "file": "content/news/news.json",
-      "checksum": "5ed0be2342df74318a4392cf49fcd70b8abe8815852abe1df8d986bd092ec8ee",
-      "records": 1,
+      "checksum": "e02af4af852bb7818db166139ce0ec021631118cf42b226d5b368c4369e0b9d4",
+      "records": 3,
       "dependsOn": [
         "characters",
         "locations"

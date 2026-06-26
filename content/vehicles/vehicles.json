@@ -32,6 +32,201 @@
       "manufacturer": "Grotti",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_stanier_55",
+      "slug": "vapid-stanier-55",
+      "title": "'55 Vapid Stanier",
+      "description": "A timeless two-tone classic sedan included in the Vintage Vice City Pack pre-order bonus.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "vintage",
+        "sedan"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "sedan",
+      "manufacturer": "Vapid",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/stanier_55/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_dominator_buggy",
+      "slug": "vapid-dominator-buggy",
+      "title": "'67 Vapid Dominator Buggy",
+      "description": "An off-road muscle buggy built for high-performance mud trail driving, included in the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "offroad",
+        "buggy"
+      ],
+      "relationships": {
+        "characters": [
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "muscle",
+      "manufacturer": "Vapid",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dominator_buggy/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_shitzu_squalo",
+      "slug": "shitzu-squalo",
+      "title": "Shitzu Squalo",
+      "description": "A high-speed speed boat included in the Ultimate Edition, representing classic Vice City watercraft.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "boat"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "boat",
+      "manufacturer": "Shitzu",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/shitzu_squalo/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_dinka_enduro",
+      "slug": "dinka-enduro",
+      "title": "Dinka Enduro",
+      "description": "A classic green off-road motorcycle parked outside Jason's safehouse, included in the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "motorcycle"
+      ],
+      "relationships": {
+        "characters": [
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "motorcycle",
+      "manufacturer": "Dinka",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dinka_enduro/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_ganado_retro",
+      "slug": "vapid-ganado-retro",
+      "title": "Vapid Ganado Retro Build",
+      "description": "An off-road SUV from the Ganado series featuring a custom modkit, included in the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "suv",
+        "modkit"
+      ],
+      "relationships": {
+        "characters": [
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "suv",
+      "manufacturer": "Vapid",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/ganado_retro/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_crest_kayak",
+      "slug": "crest-kayak",
+      "title": "Crest Kayak",
+      "description": "An orange kayak suited for navigating Lake Leonida and river networks, included in the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "boat"
+      ],
+      "relationships": {
+        "characters": [
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "boat",
+      "manufacturer": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/crest_kayak/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "vehicle_cheetah_95",
+      "slug": "grotti-cheetah-95",
+      "title": "'95 Grotti Cheetah",
+      "description": "A classic '95 model of the legendary Grotti Cheetah supercar, included in the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "super"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "super",
+      "manufacturer": "Grotti",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah_95/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]
 }

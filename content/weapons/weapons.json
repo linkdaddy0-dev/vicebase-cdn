@@ -37,6 +37,64 @@
       "class": "Handgun",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/pistol/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "weapon_revolver_morgan",
+      "slug": "revolver-morgan",
+      "title": "Hawk & Little Morgan Revolver",
+      "description": "A powerful double-action revolver with classic Vice City engraving designs, included in the pre-order / Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "revolver",
+        "handgun"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "pistol",
+      "class": "Handgun",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/revolver_morgan/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "weapon_skin_tropical",
+      "slug": "skin-tropical",
+      "title": "Tropical Weapon Skin",
+      "description": "An iconic tropical-pattern weapon skin, echoing Vice City's classic styling, included in the Vintage Vice City Pack pre-order bonus.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "skin",
+        "customization"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "unknown",
+      "class": "Customization",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/skin_tropical/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]
 }

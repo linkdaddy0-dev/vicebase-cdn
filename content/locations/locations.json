@@ -56,7 +56,142 @@
       "verifiedAt": "2026-06-27T00:00:00Z",
       "version": "1.0.0",
       "type": "city",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/vice/card.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/vice_city/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_ambrosia",
+      "slug": "ambrosia",
+      "title": "Ambrosia",
+      "description": "An agricultural zone known for its crop fields, country roads, local biker clubs, and mud-washing salons.",
+      "status": "official",
+      "tags": [
+        "district",
+        "farming",
+        "ambrosia"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "district",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/ambrosia/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_port_gellhorn",
+      "slug": "port-gellhorn",
+      "title": "Port Gellhorn",
+      "description": "A rural town located in the State of Leonida, containing warehouses, grow houses, and local establishments.",
+      "status": "official",
+      "tags": [
+        "city",
+        "town",
+        "port_gellhorn"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "city",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/port_gellhorn/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_kalaga",
+      "slug": "mount-kalaga",
+      "title": "Mount Kalaga",
+      "description": "A national landmark and state park situated against Leonida's northern border, offering hunting, fishing, and off-road dirt bike trails.",
+      "status": "official",
+      "tags": [
+        "landmark",
+        "park",
+        "mount_kalaga"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "landmark",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/kalaga/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_leonida_keys",
+      "slug": "leonida-keys",
+      "title": "Leonida Keys",
+      "description": "A scenic coastal island district in southern Leonida, known for marine activities, local drug smuggling, and local wildlife.",
+      "status": "official",
+      "tags": [
+        "district",
+        "islands",
+        "leonida_keys"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "district",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/leonida_keys/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_grassrivers",
+      "slug": "grassrivers",
+      "title": "Grassrivers",
+      "description": "A vast swampy wilderness zone populated by wildlife, alligators, and traversed by airboat operators and local influencers.",
+      "status": "official",
+      "tags": [
+        "district",
+        "swamp",
+        "grassrivers"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "district",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/grassrivers/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]

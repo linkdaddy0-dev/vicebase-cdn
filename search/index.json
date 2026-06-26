@@ -26,9 +26,74 @@
     "status": "official"
   },
   {
+    "id": "location_ambrosia",
+    "slug": "ambrosia",
+    "title": "Ambrosia",
+    "description": "An agricultural zone known for its crop fields, country roads, local biker clubs, and mud-washing salons.",
+    "type": "location",
+    "tags": [
+      "district",
+      "farming",
+      "ambrosia"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_port_gellhorn",
+    "slug": "port-gellhorn",
+    "title": "Port Gellhorn",
+    "description": "A rural town located in the State of Leonida, containing warehouses, grow houses, and local establishments.",
+    "type": "location",
+    "tags": [
+      "city",
+      "town",
+      "port_gellhorn"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_kalaga",
+    "slug": "mount-kalaga",
+    "title": "Mount Kalaga",
+    "description": "A national landmark and state park situated against Leonida's northern border, offering hunting, fishing, and off-road dirt bike trails.",
+    "type": "location",
+    "tags": [
+      "landmark",
+      "park",
+      "mount_kalaga"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_leonida_keys",
+    "slug": "leonida-keys",
+    "title": "Leonida Keys",
+    "description": "A scenic coastal island district in southern Leonida, known for marine activities, local drug smuggling, and local wildlife.",
+    "type": "location",
+    "tags": [
+      "district",
+      "islands",
+      "leonida_keys"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_grassrivers",
+    "slug": "grassrivers",
+    "title": "Grassrivers",
+    "description": "A vast swampy wilderness zone populated by wildlife, alligators, and traversed by airboat operators and local influencers.",
+    "type": "location",
+    "tags": [
+      "district",
+      "swamp",
+      "grassrivers"
+    ],
+    "status": "official"
+  },
+  {
     "id": "character_lucia",
     "slug": "lucia",
-    "title": "Lucia",
+    "title": "Lucia Caminos",
     "description": "One of the two main playable protagonists of Grand Theft Auto VI, seen in Trailer 1 wearing prison attire and cooperating with Jason.",
     "type": "character",
     "tags": [
@@ -41,13 +106,142 @@
   {
     "id": "character_jason",
     "slug": "jason",
-    "title": "Jason",
-    "description": "The second main playable protagonist of Grand Theft Auto VI, shown in Trailer 1 partnering with Lucia in robberies.",
+    "title": "Jason Duval",
+    "description": "Jason knows how he'd like it to turn out but right now, it's hard to tell. Jason wants an easy life, but things just keep getting harder.",
     "type": "character",
     "tags": [
       "protagonist",
       "male",
       "playable"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_lucia_retro_dress",
+    "slug": "lucia-retro-dress",
+    "title": "Lucia (Retro Dress)",
+    "description": "Lucia wearing the Retro Sequined Mini Dress from the Vintage Vice City Pack pre-order bonus.",
+    "type": "character",
+    "tags": [
+      "preorder",
+      "female",
+      "outfit"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_jason_retro_suit",
+    "slug": "jason-retro-suit",
+    "title": "Jason (Retro Suit)",
+    "description": "Jason wearing the Retro Linen Suit from the Vintage Vice City Pack pre-order bonus.",
+    "type": "character",
+    "tags": [
+      "preorder",
+      "male",
+      "outfit"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_lucia_macca_gear",
+    "slug": "lucia-macca-gear",
+    "title": "Lucia (Macca Gear)",
+    "description": "Lucia dressed in the custom Macca the Gator capsule collection apparel.",
+    "type": "character",
+    "tags": [
+      "preorder",
+      "female",
+      "outfit"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_jason_macca_gear",
+    "slug": "jason-macca-gear",
+    "title": "Jason (Macca Gear)",
+    "description": "Jason dressed in the custom Macca the Gator capsule collection apparel.",
+    "type": "character",
+    "tags": [
+      "preorder",
+      "male",
+      "outfit"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_cal_hampton",
+    "slug": "cal-hampton",
+    "title": "Cal Hampton",
+    "description": "Jason's friend and associate of Brian Heder. Cal feels safest hanging at home, snooping on Coast Guard communications with a few beers.",
+    "type": "character",
+    "tags": [
+      "npc",
+      "male",
+      "keys"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_boobie_ike",
+    "slug": "boobie-ike",
+    "title": "Boobie Ike",
+    "description": "A local Vice City legend who built a business empire of real estate, a strip club, and Only Raw Records recording studio.",
+    "type": "character",
+    "tags": [
+      "npc",
+      "male",
+      "vice_city"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_raul_bautista",
+    "slug": "raul-bautista",
+    "title": "Raul Bautista",
+    "description": "Confidence, charm, and cunning – Raul's a seasoned bank robber always on the hunt for talent ready to take the risks that bring the biggest rewards. Raul's recklessness raises the stakes with every score.",
+    "type": "character",
+    "tags": [
+      "npc",
+      "male"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_brian_heder",
+    "slug": "brian-heder",
+    "title": "Brian Heder",
+    "description": "A classic drug runner from the golden age of smuggling in the Keys. Still runs product through his boat yard and lets Jason live rent-free.",
+    "type": "character",
+    "tags": [
+      "npc",
+      "male",
+      "keys"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_real_dimez",
+    "slug": "real-dimez",
+    "title": "Real Dimez",
+    "description": "Bae-Luxe and Roxy, high school friends turned local rap duo and social media influencers who leverage spicy tracks and social media.",
+    "type": "character",
+    "tags": [
+      "npc",
+      "female",
+      "music"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "character_drequan_priest",
+    "slug": "drequan-priest",
+    "title": "Dre'Quan Priest",
+    "description": "An aspiring music mogul who signed the Real Dimez to Only Raw Records, looking to break into the main Vice City scene.",
+    "type": "character",
+    "tags": [
+      "npc",
+      "male",
+      "music"
     ],
     "status": "official"
   },
@@ -65,6 +259,93 @@
     "status": "confirmed"
   },
   {
+    "id": "vehicle_stanier_55",
+    "slug": "vapid-stanier-55",
+    "title": "'55 Vapid Stanier",
+    "description": "A timeless two-tone classic sedan included in the Vintage Vice City Pack pre-order bonus.",
+    "type": "vehicle",
+    "tags": [
+      "preorder",
+      "vintage",
+      "sedan"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_dominator_buggy",
+    "slug": "vapid-dominator-buggy",
+    "title": "'67 Vapid Dominator Buggy",
+    "description": "An off-road muscle buggy built for high-performance mud trail driving, included in the Ultimate Edition.",
+    "type": "vehicle",
+    "tags": [
+      "ultimate",
+      "offroad",
+      "buggy"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_shitzu_squalo",
+    "slug": "shitzu-squalo",
+    "title": "Shitzu Squalo",
+    "description": "A high-speed speed boat included in the Ultimate Edition, representing classic Vice City watercraft.",
+    "type": "vehicle",
+    "tags": [
+      "ultimate",
+      "boat"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_dinka_enduro",
+    "slug": "dinka-enduro",
+    "title": "Dinka Enduro",
+    "description": "A classic green off-road motorcycle parked outside Jason's safehouse, included in the Ultimate Edition.",
+    "type": "vehicle",
+    "tags": [
+      "ultimate",
+      "motorcycle"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_ganado_retro",
+    "slug": "vapid-ganado-retro",
+    "title": "Vapid Ganado Retro Build",
+    "description": "An off-road SUV from the Ganado series featuring a custom modkit, included in the Ultimate Edition.",
+    "type": "vehicle",
+    "tags": [
+      "ultimate",
+      "suv",
+      "modkit"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_crest_kayak",
+    "slug": "crest-kayak",
+    "title": "Crest Kayak",
+    "description": "An orange kayak suited for navigating Lake Leonida and river networks, included in the Ultimate Edition.",
+    "type": "vehicle",
+    "tags": [
+      "ultimate",
+      "boat"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "vehicle_cheetah_95",
+    "slug": "grotti-cheetah-95",
+    "title": "'95 Grotti Cheetah",
+    "description": "A classic '95 model of the legendary Grotti Cheetah supercar, included in the Ultimate Edition.",
+    "type": "vehicle",
+    "tags": [
+      "ultimate",
+      "super"
+    ],
+    "status": "official"
+  },
+  {
     "id": "weapon_pistol",
     "slug": "pistol-9mm",
     "title": "9mm Pistol",
@@ -76,6 +357,32 @@
       "basic"
     ],
     "status": "confirmed"
+  },
+  {
+    "id": "weapon_revolver_morgan",
+    "slug": "revolver-morgan",
+    "title": "Hawk & Little Morgan Revolver",
+    "description": "A powerful double-action revolver with classic Vice City engraving designs, included in the pre-order / Ultimate Edition.",
+    "type": "weapon",
+    "tags": [
+      "preorder",
+      "revolver",
+      "handgun"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "weapon_skin_tropical",
+    "slug": "skin-tropical",
+    "title": "Tropical Weapon Skin",
+    "description": "An iconic tropical-pattern weapon skin, echoing Vice City's classic styling, included in the Vintage Vice City Pack pre-order bonus.",
+    "type": "weapon",
+    "tags": [
+      "preorder",
+      "skin",
+      "customization"
+    ],
+    "status": "official"
   },
   {
     "id": "timeline_trailer_01",
@@ -100,6 +407,31 @@
       "announcement",
       "platforms",
       "console"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "news_pre_orders",
+    "slug": "pre-orders-live",
+    "title": "Grand Theft Auto VI Pre-Orders Now Live",
+    "description": "Pre-orders for Grand Theft Auto VI are now available worldwide, featuring the Standard Edition, Special Edition, and the Ultimate Edition with exclusive pre-order bonuses.",
+    "type": "new",
+    "tags": [
+      "pre-order",
+      "editions",
+      "announcement"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "news_launch_date",
+    "slug": "release-date-revealed",
+    "title": "Grand Theft Auto VI Launches November 19, 2026",
+    "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI will launch worldwide on November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
+    "type": "new",
+    "tags": [
+      "release-date",
+      "announcement"
     ],
     "status": "official"
   }

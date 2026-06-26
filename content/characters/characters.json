@@ -12,7 +12,7 @@
     {
       "id": "character_lucia",
       "slug": "lucia",
-      "title": "Lucia",
+      "title": "Lucia Caminos",
       "description": "One of the two main playable protagonists of Grand Theft Auto VI, seen in Trailer 1 wearing prison attire and cooperating with Jason.",
       "status": "official",
       "tags": [
@@ -41,8 +41,8 @@
     {
       "id": "character_jason",
       "slug": "jason",
-      "title": "Jason",
-      "description": "The second main playable protagonist of Grand Theft Auto VI, shown in Trailer 1 partnering with Lucia in robberies.",
+      "title": "Jason Duval",
+      "description": "Jason knows how he'd like it to turn out but right now, it's hard to tell. Jason wants an easy life, but things just keep getting harder.",
       "status": "official",
       "tags": [
         "protagonist",
@@ -65,6 +65,295 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_lucia_retro_dress",
+      "slug": "lucia-retro-dress",
+      "title": "Lucia (Retro Dress)",
+      "description": "Lucia wearing the Retro Sequined Mini Dress from the Vintage Vice City Pack pre-order bonus.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "female",
+        "outfit"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "female",
+      "role": "protagonist",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_jason_retro_suit",
+      "slug": "jason-retro-suit",
+      "title": "Jason (Retro Suit)",
+      "description": "Jason wearing the Retro Linen Suit from the Vintage Vice City Pack pre-order bonus.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "male",
+        "outfit"
+      ],
+      "relationships": {
+        "characters": [
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "protagonist",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_lucia_macca_gear",
+      "slug": "lucia-macca-gear",
+      "title": "Lucia (Macca Gear)",
+      "description": "Lucia dressed in the custom Macca the Gator capsule collection apparel.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "female",
+        "outfit"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "female",
+      "role": "protagonist",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_macca_gear/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_jason_macca_gear",
+      "slug": "jason-macca-gear",
+      "title": "Jason (Macca Gear)",
+      "description": "Jason dressed in the custom Macca the Gator capsule collection apparel.",
+      "status": "official",
+      "tags": [
+        "preorder",
+        "male",
+        "outfit"
+      ],
+      "relationships": {
+        "characters": [
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Pre-Order Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "protagonist",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_macca_gear/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_cal_hampton",
+      "slug": "cal-hampton",
+      "title": "Cal Hampton",
+      "description": "Jason's friend and associate of Brian Heder. Cal feels safest hanging at home, snooping on Coast Guard communications with a few beers.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "male",
+        "keys"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida_keys"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/cal_hampton/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_boobie_ike",
+      "slug": "boobie-ike",
+      "title": "Boobie Ike",
+      "description": "A local Vice City legend who built a business empire of real estate, a strip club, and Only Raw Records recording studio.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "male",
+        "vice_city"
+      ],
+      "relationships": {
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/boobie_ike/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_raul_bautista",
+      "slug": "raul-bautista",
+      "title": "Raul Bautista",
+      "description": "Confidence, charm, and cunning – Raul's a seasoned bank robber always on the hunt for talent ready to take the risks that bring the biggest rewards. Raul's recklessness raises the stakes with every score.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "male"
+      ],
+      "relationships": {
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/raul_bautista/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_brian_heder",
+      "slug": "brian-heder",
+      "title": "Brian Heder",
+      "description": "A classic drug runner from the golden age of smuggling in the Keys. Still runs product through his boat yard and lets Jason live rent-free.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "male",
+        "keys"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida_keys"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/brian_heder/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_real_dimez",
+      "slug": "real-dimez",
+      "title": "Real Dimez",
+      "description": "Bae-Luxe and Roxy, high school friends turned local rap duo and social media influencers who leverage spicy tracks and social media.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "female",
+        "music"
+      ],
+      "relationships": {
+        "locations": [
+          "location_grassrivers"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "female",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/real_dimez/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "character_drequan_priest",
+      "slug": "drequan-priest",
+      "title": "Dre'Quan Priest",
+      "description": "An aspiring music mogul who signed the Real Dimez to Only Raw Records, looking to break into the main Vice City scene.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "male",
+        "music"
+      ],
+      "relationships": {
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "gender": "male",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/drequan_priest/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]

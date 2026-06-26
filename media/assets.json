@@ -1,12 +1,39 @@
 {
   "assets": [
     {
-      "id": "character_lucia",
+      "id": "character_boobie_ike",
       "type": "character",
-      "path": "media/characters/lucia",
-      "thumbnail": "media/characters/lucia/thumb.webp",
-      "card": "media/characters/lucia/card.webp",
-      "hero": "media/characters/lucia/hero.webp",
+      "path": "media/characters/boobie_ike",
+      "thumbnail": "media/characters/boobie_ike/thumb.webp",
+      "card": "media/characters/boobie_ike/card.webp",
+      "hero": "media/characters/boobie_ike/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_brian_heder",
+      "type": "character",
+      "path": "media/characters/brian_heder",
+      "thumbnail": "media/characters/brian_heder/thumb.webp",
+      "card": "media/characters/brian_heder/card.webp",
+      "hero": "media/characters/brian_heder/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_cal_hampton",
+      "type": "character",
+      "path": "media/characters/cal_hampton",
+      "thumbnail": "media/characters/cal_hampton/thumb.webp",
+      "card": "media/characters/cal_hampton/card.webp",
+      "hero": "media/characters/cal_hampton/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_drequan_priest",
+      "type": "character",
+      "path": "media/characters/drequan_priest",
+      "thumbnail": "media/characters/drequan_priest/thumb.webp",
+      "card": "media/characters/drequan_priest/card.webp",
+      "hero": "media/characters/drequan_priest/hero.webp",
       "gallery": []
     },
     {
@@ -19,21 +46,93 @@
       "gallery": []
     },
     {
-      "id": "vehicle_cheetah",
-      "type": "vehicle",
-      "path": "media/vehicles/cheetah",
-      "thumbnail": "media/vehicles/cheetah/thumb.webp",
-      "card": "media/vehicles/cheetah/card.webp",
-      "hero": "media/vehicles/cheetah/hero.webp",
+      "id": "character_jason_macca_gear",
+      "type": "character",
+      "path": "media/characters/jason_macca_gear",
+      "thumbnail": "media/characters/jason_macca_gear/thumb.webp",
+      "card": "media/characters/jason_macca_gear/card.webp",
+      "hero": "media/characters/jason_macca_gear/hero.webp",
       "gallery": []
     },
     {
-      "id": "weapon_pistol",
-      "type": "weapon",
-      "path": "media/weapons/pistol",
-      "thumbnail": "media/weapons/pistol/thumb.webp",
-      "card": "media/weapons/pistol/card.webp",
-      "hero": "media/weapons/pistol/hero.webp",
+      "id": "character_jason_retro_suit",
+      "type": "character",
+      "path": "media/characters/jason_retro_suit",
+      "thumbnail": "media/characters/jason_retro_suit/thumb.webp",
+      "card": "media/characters/jason_retro_suit/card.webp",
+      "hero": "media/characters/jason_retro_suit/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_lucia",
+      "type": "character",
+      "path": "media/characters/lucia",
+      "thumbnail": "media/characters/lucia/thumb.webp",
+      "card": "media/characters/lucia/card.webp",
+      "hero": "media/characters/lucia/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_lucia_macca_gear",
+      "type": "character",
+      "path": "media/characters/lucia_macca_gear",
+      "thumbnail": "media/characters/lucia_macca_gear/thumb.webp",
+      "card": "media/characters/lucia_macca_gear/card.webp",
+      "hero": "media/characters/lucia_macca_gear/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_lucia_retro_dress",
+      "type": "character",
+      "path": "media/characters/lucia_retro_dress",
+      "thumbnail": "media/characters/lucia_retro_dress/thumb.webp",
+      "card": "media/characters/lucia_retro_dress/card.webp",
+      "hero": "media/characters/lucia_retro_dress/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_raul_bautista",
+      "type": "character",
+      "path": "media/characters/raul_bautista",
+      "thumbnail": "media/characters/raul_bautista/thumb.webp",
+      "card": "media/characters/raul_bautista/card.webp",
+      "hero": "media/characters/raul_bautista/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "character_real_dimez",
+      "type": "character",
+      "path": "media/characters/real_dimez",
+      "thumbnail": "media/characters/real_dimez/thumb.webp",
+      "card": "media/characters/real_dimez/card.webp",
+      "hero": "media/characters/real_dimez/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "location_ambrosia",
+      "type": "location",
+      "path": "media/locations/ambrosia",
+      "thumbnail": "media/locations/ambrosia/thumb.webp",
+      "card": "media/locations/ambrosia/card.webp",
+      "hero": "media/locations/ambrosia/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "location_grassrivers",
+      "type": "location",
+      "path": "media/locations/grassrivers",
+      "thumbnail": "media/locations/grassrivers/thumb.webp",
+      "card": "media/locations/grassrivers/card.webp",
+      "hero": "media/locations/grassrivers/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "location_kalaga",
+      "type": "location",
+      "path": "media/locations/kalaga",
+      "thumbnail": "media/locations/kalaga/thumb.webp",
+      "card": "media/locations/kalaga/card.webp",
+      "hero": "media/locations/kalaga/hero.webp",
       "gallery": []
     },
     {
@@ -46,12 +145,129 @@
       "gallery": []
     },
     {
+      "id": "location_leonida_keys",
+      "type": "location",
+      "path": "media/locations/leonida_keys",
+      "thumbnail": "media/locations/leonida_keys/thumb.webp",
+      "card": "media/locations/leonida_keys/card.webp",
+      "hero": "media/locations/leonida_keys/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "location_port_gellhorn",
+      "type": "location",
+      "path": "media/locations/port_gellhorn",
+      "thumbnail": "media/locations/port_gellhorn/thumb.webp",
+      "card": "media/locations/port_gellhorn/card.webp",
+      "hero": "media/locations/port_gellhorn/hero.webp",
+      "gallery": []
+    },
+    {
       "id": "location_vice_city",
       "type": "location",
       "path": "media/locations/vice_city",
       "thumbnail": "media/locations/vice_city/thumb.webp",
       "card": "media/locations/vice_city/card.webp",
       "hero": "media/locations/vice_city/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_cheetah",
+      "type": "vehicle",
+      "path": "media/vehicles/cheetah",
+      "thumbnail": "media/vehicles/cheetah/thumb.webp",
+      "card": "media/vehicles/cheetah/card.webp",
+      "hero": "media/vehicles/cheetah/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_cheetah_95",
+      "type": "vehicle",
+      "path": "media/vehicles/cheetah_95",
+      "thumbnail": "media/vehicles/cheetah_95/thumb.webp",
+      "card": "media/vehicles/cheetah_95/card.webp",
+      "hero": "media/vehicles/cheetah_95/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_crest_kayak",
+      "type": "vehicle",
+      "path": "media/vehicles/crest_kayak",
+      "thumbnail": "media/vehicles/crest_kayak/thumb.webp",
+      "card": "media/vehicles/crest_kayak/card.webp",
+      "hero": "media/vehicles/crest_kayak/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_dinka_enduro",
+      "type": "vehicle",
+      "path": "media/vehicles/dinka_enduro",
+      "thumbnail": "media/vehicles/dinka_enduro/thumb.webp",
+      "card": "media/vehicles/dinka_enduro/card.webp",
+      "hero": "media/vehicles/dinka_enduro/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_dominator_buggy",
+      "type": "vehicle",
+      "path": "media/vehicles/dominator_buggy",
+      "thumbnail": "media/vehicles/dominator_buggy/thumb.webp",
+      "card": "media/vehicles/dominator_buggy/card.webp",
+      "hero": "media/vehicles/dominator_buggy/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_ganado_retro",
+      "type": "vehicle",
+      "path": "media/vehicles/ganado_retro",
+      "thumbnail": "media/vehicles/ganado_retro/thumb.webp",
+      "card": "media/vehicles/ganado_retro/card.webp",
+      "hero": "media/vehicles/ganado_retro/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_shitzu_squalo",
+      "type": "vehicle",
+      "path": "media/vehicles/shitzu_squalo",
+      "thumbnail": "media/vehicles/shitzu_squalo/thumb.webp",
+      "card": "media/vehicles/shitzu_squalo/card.webp",
+      "hero": "media/vehicles/shitzu_squalo/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "vehicle_stanier_55",
+      "type": "vehicle",
+      "path": "media/vehicles/stanier_55",
+      "thumbnail": "media/vehicles/stanier_55/thumb.webp",
+      "card": "media/vehicles/stanier_55/card.webp",
+      "hero": "media/vehicles/stanier_55/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "weapon_pistol",
+      "type": "weapon",
+      "path": "media/weapons/pistol",
+      "thumbnail": "media/weapons/pistol/thumb.webp",
+      "card": "media/weapons/pistol/card.webp",
+      "hero": "media/weapons/pistol/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "weapon_revolver_morgan",
+      "type": "weapon",
+      "path": "media/weapons/revolver_morgan",
+      "thumbnail": "media/weapons/revolver_morgan/thumb.webp",
+      "card": "media/weapons/revolver_morgan/card.webp",
+      "hero": "media/weapons/revolver_morgan/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "weapon_skin_tropical",
+      "type": "weapon",
+      "path": "media/weapons/skin_tropical",
+      "thumbnail": "media/weapons/skin_tropical/thumb.webp",
+      "card": "media/weapons/skin_tropical/card.webp",
+      "hero": "media/weapons/skin_tropical/hero.webp",
       "gallery": []
     }
   ]

@@ -18,28 +18,28 @@ VIDEO_ID = "QdBZY2fkU-0"
 
 TARGETS = {
     "character_lucia": {
-        "time": 68.0,
+        "time": 8.0,
         "folder": os.path.join(MEDIA_DIR, 'characters', 'lucia'),
         "type": "character",
         "json_path": os.path.join(CONTENT_DIR, 'characters', 'characters.json'),
         "id": "character_lucia"
     },
     "character_jason": {
-        "time": 60.0,
+        "time": 81.0,
         "folder": os.path.join(MEDIA_DIR, 'characters', 'jason'),
         "type": "character",
         "json_path": os.path.join(CONTENT_DIR, 'characters', 'characters.json'),
         "id": "character_jason"
     },
     "vehicle_cheetah": {
-        "time": 34.0,
+        "time": 33.0,
         "folder": os.path.join(MEDIA_DIR, 'vehicles', 'cheetah'),
         "type": "vehicle",
         "json_path": os.path.join(CONTENT_DIR, 'vehicles', 'vehicles.json'),
         "id": "vehicle_cheetah"
     },
     "weapon_pistol": {
-        "time": 72.0,
+        "time": 77.0,
         "folder": os.path.join(MEDIA_DIR, 'weapons', 'pistol'),
         "type": "weapon",
         "json_path": os.path.join(CONTENT_DIR, 'weapons', 'weapons.json'),
@@ -134,7 +134,7 @@ def extract_frames(video_path):
             # Save metadata.json
             metadata = {
                 "id": target['id'],
-                "name": name.split('_')[1].capitalize(),
+                "name": os.path.basename(target['folder']).replace('_', ' ').title(),
                 "thumbnail": "thumb.webp",
                 "card": "card.webp",
                 "hero": "hero.webp",
@@ -173,21 +173,35 @@ def update_dataset_json(target_id, json_path, card_url, video_url):
 def update_assets_manifest():
     manifest_path = os.path.join(MEDIA_DIR, 'assets.json')
     assets = []
-    for name, target in TARGETS.items():
-        rel_folder = os.path.relpath(target['folder'], CDN_DIR).replace('\\', '/')
-        assets.append({
-            "id": target['id'],
-            "type": target['type'],
-            "path": rel_folder,
-            "thumbnail": f"{rel_folder}/thumb.webp",
-            "card": f"{rel_folder}/card.webp",
-            "hero": f"{rel_folder}/hero.webp",
-            "gallery": []
-        })
+    # Walk the media directory and find metadata.json files
+    for root, dirs, files in os.walk(MEDIA_DIR):
+        if 'metadata.json' in files:
+            meta_path = os.path.join(root, 'metadata.json')
+            try:
+                with open(meta_path, 'r', encoding='utf-8') as f:
+                    meta = json.load(f)
+                
+                rel_folder = os.path.relpath(root, CDN_DIR).replace('\\', '/')
+                parent_folder = os.path.basename(os.path.dirname(root))
+                asset_type = parent_folder.rstrip('s')
+                
+                assets.append({
+                    "id": meta['id'],
+                    "type": asset_type,
+                    "path": rel_folder,
+                    "thumbnail": f"{rel_folder}/thumb.webp",
+                    "card": f"{rel_folder}/card.webp",
+                    "hero": f"{rel_folder}/hero.webp",
+                    "gallery": meta.get('gallery', [])
+                })
+            except Exception as e:
+                print(f"Error reading metadata at {meta_path}: {e}")
+                
     manifest = {"assets": assets}
+    manifest["assets"].sort(key=lambda x: x["id"])
     with open(manifest_path, 'w', encoding='utf-8') as f:
         json.dump(manifest, f, indent=2)
-    print("Updated media/assets.json")
+    print("Updated media/assets.json dynamically from metadata.json files.")
 
 def sync_to_app_assets():
     print("\nSyncing updated datasets to Android app assets...")
@@ -225,7 +239,7 @@ def main():
     # 5. Update JSON files with CDN links
     print("\nUpdating dataset JSON files with CDN URLs...")
     for name, target in TARGETS.items():
-        card_url = f"https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/{target['type']}s/{name.split('_')[1]}/card.webp"
+        card_url = f"https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/{target['type']}s/{os.path.basename(target['folder'])}/card.webp"
         video_url = f"https://www.youtube.com/watch?v={VIDEO_ID}"
         update_dataset_json(target['id'], target['json_path'], card_url, video_url)
 
