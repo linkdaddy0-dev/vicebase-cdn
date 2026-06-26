@@ -15,9 +15,15 @@
       "title": "Lucia",
       "description": "One of the two main playable protagonists of Grand Theft Auto VI, seen in Trailer 1 wearing prison attire and cooperating with Jason.",
       "status": "official",
-      "tags": ["protagonist", "female", "playable"],
+      "tags": [
+        "protagonist",
+        "female",
+        "playable"
+      ],
       "relationships": {
-        "locations": ["location_vice_city"]
+        "locations": [
+          "location_vice_city"
+        ]
       },
       "verified": true,
       "source": "Rockstar Games Trailer 1",
@@ -28,7 +34,9 @@
       "version": "1.0.0",
       "gender": "female",
       "role": "protagonist",
-      "voiceActor": null
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     },
     {
       "id": "character_jason",
@@ -36,9 +44,15 @@
       "title": "Jason",
       "description": "The second main playable protagonist of Grand Theft Auto VI, shown in Trailer 1 partnering with Lucia in robberies.",
       "status": "official",
-      "tags": ["protagonist", "male", "playable"],
+      "tags": [
+        "protagonist",
+        "male",
+        "playable"
+      ],
       "relationships": {
-        "locations": ["location_vice_city"]
+        "locations": [
+          "location_vice_city"
+        ]
       },
       "verified": true,
       "source": "Rockstar Games Trailer 1",
@@ -49,7 +63,9 @@
       "version": "1.0.0",
       "gender": "male",
       "role": "protagonist",
-      "voiceActor": null
+      "voiceActor": null,
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]
 }

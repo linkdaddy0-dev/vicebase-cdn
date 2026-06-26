@@ -7,10 +7,7 @@
       "thumbnail": "media/characters/lucia/thumb.webp",
       "card": "media/characters/lucia/card.webp",
       "hero": "media/characters/lucia/hero.webp",
-      "gallery": [
-        "media/characters/lucia/gallery/1.webp",
-        "media/characters/lucia/gallery/2.webp"
-      ]
+      "gallery": []
     },
     {
       "id": "character_jason",
@@ -37,6 +34,24 @@
       "thumbnail": "media/weapons/pistol/thumb.webp",
       "card": "media/weapons/pistol/card.webp",
       "hero": "media/weapons/pistol/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "location_leonida",
+      "type": "location",
+      "path": "media/locations/leonida",
+      "thumbnail": "media/locations/leonida/thumb.webp",
+      "card": "media/locations/leonida/card.webp",
+      "hero": "media/locations/leonida/hero.webp",
+      "gallery": []
+    },
+    {
+      "id": "location_vice_city",
+      "type": "location",
+      "path": "media/locations/vice_city",
+      "thumbnail": "media/locations/vice_city/thumb.webp",
+      "card": "media/locations/vice_city/card.webp",
+      "hero": "media/locations/vice_city/hero.webp",
       "gallery": []
     }
   ]

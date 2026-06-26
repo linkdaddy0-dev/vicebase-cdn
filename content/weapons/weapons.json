@@ -15,9 +15,16 @@
       "title": "9mm Pistol",
       "description": "Standard semi-automatic handgun, confirmed to be usable by Lucia and Jason in Trailer 1 during store robberies.",
       "status": "confirmed",
-      "tags": ["handgun", "pistol", "basic"],
+      "tags": [
+        "handgun",
+        "pistol",
+        "basic"
+      ],
       "relationships": {
-        "characters": ["character_lucia", "character_jason"]
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
       },
       "verified": true,
       "source": "Rockstar Games Trailer 1 Visuals",
@@ -27,7 +34,9 @@
       "verifiedAt": "2026-06-27T00:00:00Z",
       "version": "1.0.0",
       "type": "pistol",
-      "class": "Handgun"
+      "class": "Handgun",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/pistol/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]
 }

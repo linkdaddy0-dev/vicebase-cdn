@@ -4,8 +4,5 @@
   "thumbnail": "thumb.webp",
   "card": "card.webp",
   "hero": "hero.webp",
-  "gallery": [
-    "gallery/1.webp",
-    "gallery/2.webp"
-  ]
+  "gallery": []
 }
