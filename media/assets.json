@@ -7,7 +7,12 @@
       "thumbnail": "media/characters/boobie_ike/thumb.webp",
       "card": "media/characters/boobie_ike/card.webp",
       "hero": "media/characters/boobie_ike/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/boobie_ike/gallery/1.webp",
+        "media/characters/boobie_ike/gallery/2.webp",
+        "media/characters/boobie_ike/gallery/3.webp",
+        "media/characters/boobie_ike/gallery/4.webp"
+      ]
     },
     {
       "id": "character_brian_heder",
