@@ -15,10 +15,19 @@
       "title": "Trailer 1 Premiere",
       "description": "Rockstar Games officially released the first trailer for Grand Theft Auto VI, revealing Leonida, Vice City, Lucia, and a Fall 2025 release target.",
       "status": "official",
-      "tags": ["trailer", "premiere", "announcement"],
+      "tags": [
+        "trailer",
+        "premiere",
+        "announcement"
+      ],
       "relationships": {
-        "characters": ["character_lucia", "character_jason"],
-        "locations": ["location_vice_city"]
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ],
+        "locations": [
+          "location_vice_city"
+        ]
       },
       "verified": true,
       "source": "Official YouTube Premiere",
@@ -28,6 +37,33 @@
       "verifiedAt": "2026-06-27T00:00:00Z",
       "version": "1.0.0",
       "eventDate": "2023-12-05",
+      "eventType": "trailer"
+    },
+    {
+      "id": "timeline_trailer_02",
+      "slug": "trailer-2-release",
+      "title": "Trailer 2 Premiere",
+      "description": "Rockstar Games officially released the second trailer for Grand Theft Auto VI, offering a deeper look into Leonida's high-stakes crime networks, vehicle customization, and new campaign details.",
+      "status": "official",
+      "tags": [
+        "trailer",
+        "premiere",
+        "announcement"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Official YouTube Premiere",
+      "sourceUrl": "https://youtu.be/VQRLujxTm3c?si=Ggsw5DtzgJ9dM4XM",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "eventDate": "2026-06-27",
       "eventType": "trailer"
     }
   ]

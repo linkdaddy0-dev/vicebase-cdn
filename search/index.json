@@ -489,6 +489,19 @@
     "status": "official"
   },
   {
+    "id": "timeline_trailer_02",
+    "slug": "trailer-2-release",
+    "title": "Trailer 2 Premiere",
+    "description": "Rockstar Games officially released the second trailer for Grand Theft Auto VI, offering a deeper look into Leonida's high-stakes crime networks, vehicle customization, and new campaign details.",
+    "type": "timelin",
+    "tags": [
+      "trailer",
+      "premiere",
+      "announcement"
+    ],
+    "status": "official"
+  },
+  {
     "id": "news_release_date",
     "slug": "official-announcement-news",
     "title": "Rockstar Games Announces Grand Theft Auto VI",
@@ -535,6 +548,19 @@
     "tags": [
       "ultimate",
       "editions",
+      "announcement"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "news_trailer_2",
+    "slug": "trailer-2-released",
+    "title": "Grand Theft Auto VI Official Trailer 2 Out Now",
+    "description": "Watch the second official trailer for Grand Theft Auto VI now. Get a closer look at the state of Leonida, character interactions, and the crime-ridden streets of Vice City.",
+    "type": "new",
+    "tags": [
+      "trailer",
+      "news",
       "announcement"
     ],
     "status": "official"

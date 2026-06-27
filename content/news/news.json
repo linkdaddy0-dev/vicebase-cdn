@@ -117,6 +117,34 @@
       "publishDate": "2026-06-27",
       "author": "Rockstar Games Newswire Editor",
       "summary": "Dive into the details of the GTA VI Ultimate Edition, highlighting exclusive salons, mod shops, outfits, and classic car commissions."
+    },
+    {
+      "id": "news_trailer_2",
+      "slug": "trailer-2-released",
+      "title": "Grand Theft Auto VI Official Trailer 2 Out Now",
+      "description": "Watch the second official trailer for Grand Theft Auto VI now. Get a closer look at the state of Leonida, character interactions, and the crime-ridden streets of Vice City.",
+      "status": "official",
+      "tags": [
+        "trailer",
+        "news",
+        "announcement"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://youtu.be/VQRLujxTm3c?si=Ggsw5DtzgJ9dM4XM",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "publishDate": "2026-06-27",
+      "author": "Rockstar Games Newswire Editor",
+      "summary": "Watch the second official trailer for GTA VI, showing off high-octane gameplay, custom modifications, and new story details."
     }
   ]
 }
