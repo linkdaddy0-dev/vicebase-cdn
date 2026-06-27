@@ -80,7 +80,9 @@
       "thumbnail": "media/characters/jason_macca_gear/thumb.webp",
       "card": "media/characters/jason_macca_gear/card.webp",
       "hero": "media/characters/jason_macca_gear/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/jason_macca_gear/gallery/1.webp"
+      ]
     },
     {
       "id": "character_jason_retro_suit",
@@ -89,7 +91,13 @@
       "thumbnail": "media/characters/jason_retro_suit/thumb.webp",
       "card": "media/characters/jason_retro_suit/card.webp",
       "hero": "media/characters/jason_retro_suit/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/jason_retro_suit/gallery/1.webp",
+        "media/characters/jason_retro_suit/gallery/2.webp",
+        "media/characters/jason_retro_suit/gallery/3.webp",
+        "media/characters/jason_retro_suit/gallery/4.webp",
+        "media/characters/jason_retro_suit/gallery/5.webp"
+      ]
     },
     {
       "id": "character_lucia",
@@ -115,7 +123,9 @@
       "thumbnail": "media/characters/lucia_macca_gear/thumb.webp",
       "card": "media/characters/lucia_macca_gear/card.webp",
       "hero": "media/characters/lucia_macca_gear/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/lucia_macca_gear/gallery/1.webp"
+      ]
     },
     {
       "id": "character_lucia_retro_dress",
@@ -124,7 +134,13 @@
       "thumbnail": "media/characters/lucia_retro_dress/thumb.webp",
       "card": "media/characters/lucia_retro_dress/card.webp",
       "hero": "media/characters/lucia_retro_dress/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/lucia_retro_dress/gallery/1.webp",
+        "media/characters/lucia_retro_dress/gallery/2.webp",
+        "media/characters/lucia_retro_dress/gallery/3.webp",
+        "media/characters/lucia_retro_dress/gallery/4.webp",
+        "media/characters/lucia_retro_dress/gallery/5.webp"
+      ]
     },
     {
       "id": "character_raul_bautista",
@@ -273,7 +289,12 @@
       "thumbnail": "media/vehicles/cheetah_95/thumb.webp",
       "card": "media/vehicles/cheetah_95/card.webp",
       "hero": "media/vehicles/cheetah_95/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/cheetah_95/gallery/1.webp",
+        "media/vehicles/cheetah_95/gallery/2.webp",
+        "media/vehicles/cheetah_95/gallery/3.webp",
+        "media/vehicles/cheetah_95/gallery/4.webp"
+      ]
     },
     {
       "id": "vehicle_crest_kayak",
@@ -282,7 +303,11 @@
       "thumbnail": "media/vehicles/crest_kayak/thumb.webp",
       "card": "media/vehicles/crest_kayak/card.webp",
       "hero": "media/vehicles/crest_kayak/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/crest_kayak/gallery/1.webp",
+        "media/vehicles/crest_kayak/gallery/2.webp",
+        "media/vehicles/crest_kayak/gallery/3.webp"
+      ]
     },
     {
       "id": "vehicle_dinka_enduro",
@@ -291,7 +316,11 @@
       "thumbnail": "media/vehicles/dinka_enduro/thumb.webp",
       "card": "media/vehicles/dinka_enduro/card.webp",
       "hero": "media/vehicles/dinka_enduro/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/dinka_enduro/gallery/1.webp",
+        "media/vehicles/dinka_enduro/gallery/2.webp",
+        "media/vehicles/dinka_enduro/gallery/3.webp"
+      ]
     },
     {
       "id": "vehicle_dominator_buggy",
@@ -300,7 +329,12 @@
       "thumbnail": "media/vehicles/dominator_buggy/thumb.webp",
       "card": "media/vehicles/dominator_buggy/card.webp",
       "hero": "media/vehicles/dominator_buggy/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/dominator_buggy/gallery/1.webp",
+        "media/vehicles/dominator_buggy/gallery/2.webp",
+        "media/vehicles/dominator_buggy/gallery/3.webp",
+        "media/vehicles/dominator_buggy/gallery/4.webp"
+      ]
     },
     {
       "id": "vehicle_ganado_retro",
@@ -309,7 +343,9 @@
       "thumbnail": "media/vehicles/ganado_retro/thumb.webp",
       "card": "media/vehicles/ganado_retro/card.webp",
       "hero": "media/vehicles/ganado_retro/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/ganado_retro/gallery/1.webp"
+      ]
     },
     {
       "id": "vehicle_shitzu_squalo",
@@ -318,7 +354,12 @@
       "thumbnail": "media/vehicles/shitzu_squalo/thumb.webp",
       "card": "media/vehicles/shitzu_squalo/card.webp",
       "hero": "media/vehicles/shitzu_squalo/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/shitzu_squalo/gallery/1.webp",
+        "media/vehicles/shitzu_squalo/gallery/2.webp",
+        "media/vehicles/shitzu_squalo/gallery/3.webp",
+        "media/vehicles/shitzu_squalo/gallery/4.webp"
+      ]
     },
     {
       "id": "vehicle_stanier_55",
@@ -345,7 +386,10 @@
       "thumbnail": "media/weapons/revolver_morgan/thumb.webp",
       "card": "media/weapons/revolver_morgan/card.webp",
       "hero": "media/weapons/revolver_morgan/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/weapons/revolver_morgan/gallery/1.webp",
+        "media/weapons/revolver_morgan/gallery/2.webp"
+      ]
     },
     {
       "id": "weapon_skin_tropical",
@@ -354,7 +398,103 @@
       "thumbnail": "media/weapons/skin_tropical/thumb.webp",
       "card": "media/weapons/skin_tropical/card.webp",
       "hero": "media/weapons/skin_tropical/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/weapons/skin_tropical/gallery/1.webp"
+      ]
+    },
+    {
+      "id": "location_rideout_customs",
+      "type": "location",
+      "path": "media/locations/rideout_customs",
+      "thumbnail": "media/locations/rideout_customs/thumb.webp",
+      "card": "media/locations/rideout_customs/card.webp",
+      "hero": "media/locations/rideout_customs/hero.webp",
+      "gallery": [
+        "media/locations/rideout_customs/gallery/1.webp",
+        "media/locations/rideout_customs/gallery/2.webp",
+        "media/locations/rideout_customs/gallery/3.webp"
+      ]
+    },
+    {
+      "id": "location_sara_salon",
+      "type": "location",
+      "path": "media/locations/sara_salon",
+      "thumbnail": "media/locations/sara_salon/thumb.webp",
+      "card": "media/locations/sara_salon/card.webp",
+      "hero": "media/locations/sara_salon/hero.webp",
+      "gallery": [
+        "media/locations/sara_salon/gallery/1.webp",
+        "media/locations/sara_salon/gallery/2.webp",
+        "media/locations/sara_salon/gallery/3.webp"
+      ]
+    },
+    {
+      "id": "location_stock_305",
+      "type": "location",
+      "path": "media/locations/stock_305",
+      "thumbnail": "media/locations/stock_305/thumb.webp",
+      "card": "media/locations/stock_305/card.webp",
+      "hero": "media/locations/stock_305/hero.webp",
+      "gallery": [
+        "media/locations/stock_305/gallery/1.webp",
+        "media/locations/stock_305/gallery/2.webp",
+        "media/locations/stock_305/gallery/3.webp",
+        "media/locations/stock_305/gallery/4.webp"
+      ]
+    },
+    {
+      "id": "location_electric_fang_tattoo",
+      "type": "location",
+      "path": "media/locations/electric_fang_tattoo",
+      "thumbnail": "media/locations/electric_fang_tattoo/thumb.webp",
+      "card": "media/locations/electric_fang_tattoo/card.webp",
+      "hero": "media/locations/electric_fang_tattoo/hero.webp",
+      "gallery": [
+        "media/locations/electric_fang_tattoo/gallery/1.webp",
+        "media/locations/electric_fang_tattoo/gallery/2.webp",
+        "media/locations/electric_fang_tattoo/gallery/3.webp",
+        "media/locations/electric_fang_tattoo/gallery/4.webp"
+      ]
+    },
+    {
+      "id": "location_one_eyed_willies",
+      "type": "location",
+      "path": "media/locations/one_eyed_willies",
+      "thumbnail": "media/locations/one_eyed_willies/thumb.webp",
+      "card": "media/locations/one_eyed_willies/card.webp",
+      "hero": "media/locations/one_eyed_willies/hero.webp",
+      "gallery": [
+        "media/locations/one_eyed_willies/gallery/1.webp",
+        "media/locations/one_eyed_willies/gallery/2.webp",
+        "media/locations/one_eyed_willies/gallery/3.webp"
+      ]
+    },
+    {
+      "id": "location_ptt_youngins_store",
+      "type": "location",
+      "path": "media/locations/ptt_youngins_store",
+      "thumbnail": "media/locations/ptt_youngins_store/thumb.webp",
+      "card": "media/locations/ptt_youngins_store/card.webp",
+      "hero": "media/locations/ptt_youngins_store/hero.webp",
+      "gallery": [
+        "media/locations/ptt_youngins_store/gallery/1.webp"
+      ]
+    },
+    {
+      "id": "location_classic_car_collection",
+      "type": "location",
+      "path": "media/locations/classic_car_collection",
+      "thumbnail": "media/locations/classic_car_collection/thumb.webp",
+      "card": "media/locations/classic_car_collection/card.webp",
+      "hero": "media/locations/classic_car_collection/hero.webp",
+      "gallery": [
+        "media/locations/classic_car_collection/gallery/1.webp",
+        "media/locations/classic_car_collection/gallery/2.webp",
+        "media/locations/classic_car_collection/gallery/3.webp",
+        "media/locations/classic_car_collection/gallery/4.webp",
+        "media/locations/classic_car_collection/gallery/5.webp",
+        "media/locations/classic_car_collection/gallery/6.webp"
+      ]
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "contentVersion": "1.0.0",
-  "generatedAt": "2026-06-27T14:18:09.389Z",
+  "generatedAt": "2026-06-27T14:50:18.875Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
       "id": "locations",
       "version": "1.0.0",
       "file": "content/locations/locations.json",
-      "checksum": "846e21ef02de1ef1119a9dcd40fd1a2cb8bc2343f8e0d1d7b806baa63f52a198",
-      "records": 7,
+      "checksum": "9c5fa1948441ed00c74eb50a358e25758d2c5ec7931b3ef4ef9cca0208fefee1",
+      "records": 14,
       "dependsOn": []
     },
     {
@@ -50,8 +50,8 @@
       "id": "news",
       "version": "1.0.0",
       "file": "content/news/news.json",
-      "checksum": "e02af4af852bb7818db166139ce0ec021631118cf42b226d5b368c4369e0b9d4",
-      "records": 3,
+      "checksum": "fab5c05898ed7816f5cdb6b7c3faacca15ab1e0dbf6096522c788a88be10a491",
+      "records": 4,
       "dependsOn": [
         "characters",
         "locations"

@@ -15,9 +15,15 @@
       "title": "Rockstar Games Announces Grand Theft Auto VI",
       "description": "Rockstar Games announced that Grand Theft Auto VI is coming in 2025 to PlayStation 5 and Xbox Series X|S systems.",
       "status": "official",
-      "tags": ["announcement", "platforms", "console"],
+      "tags": [
+        "announcement",
+        "platforms",
+        "console"
+      ],
       "relationships": {
-        "locations": ["location_leonida"]
+        "locations": [
+          "location_leonida"
+        ]
       },
       "verified": true,
       "source": "Rockstar Games Newswire Announcement",
@@ -36,9 +42,16 @@
       "title": "Grand Theft Auto VI Pre-Orders Now Live",
       "description": "Pre-orders for Grand Theft Auto VI are now available worldwide, featuring the Standard Edition, Special Edition, and the Ultimate Edition with exclusive pre-order bonuses.",
       "status": "official",
-      "tags": ["pre-order", "editions", "announcement"],
+      "tags": [
+        "pre-order",
+        "editions",
+        "announcement"
+      ],
       "relationships": {
-        "characters": ["character_lucia", "character_jason"]
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
       },
       "verified": true,
       "source": "Rockstar Games Newswire",
@@ -57,9 +70,14 @@
       "title": "Grand Theft Auto VI Launches November 19, 2026",
       "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI will launch worldwide on November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
       "status": "official",
-      "tags": ["release-date", "announcement"],
+      "tags": [
+        "release-date",
+        "announcement"
+      ],
       "relationships": {
-        "locations": ["location_leonida"]
+        "locations": [
+          "location_leonida"
+        ]
       },
       "verified": true,
       "source": "Rockstar Games Newswire",
@@ -71,6 +89,34 @@
       "publishDate": "2026-05-15",
       "author": "Rockstar Games Newswire Editor",
       "summary": "Rockstar Games reveals the official worldwide launch date of November 19, 2026 for Grand Theft Auto VI."
+    },
+    {
+      "id": "news_ultimate_edition",
+      "slug": "ultimate-edition-details",
+      "title": "Ultimate Edition Content Details",
+      "description": "Welcome to Leonida, the state where anything goes. Seize everything this massive world has to offer with the Grand Theft Auto VI: Ultimate Edition, an exclusive collection of premium vehicles, weapons, apparel, and action around every corner.\n\nUltimate Edition bonuses are threaded across all aspects of Jason and Lucia’s story, with new items uncovered behind each chapter.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "editions",
+        "announcement"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "publishDate": "2026-06-27",
+      "author": "Rockstar Games Newswire Editor",
+      "summary": "Dive into the details of the GTA VI Ultimate Edition, highlighting exclusive salons, mod shops, outfits, and classic car commissions."
     }
   ]
 }

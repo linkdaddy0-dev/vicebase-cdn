@@ -193,6 +193,167 @@
       "type": "district",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/grassrivers/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_rideout_customs",
+      "slug": "rideout-customs",
+      "title": "Rideout Customs",
+      "description": "Transform vanilla vehicles into magnificent works of art with detailed interiors, exquisite rims, and donk stylings. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "shop",
+        "mod_shop"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "mod shop",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/rideout_customs/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_sara_salon",
+      "slug": "saras-unisex-salon",
+      "title": "Sara's Unisex Salon",
+      "description": "Get signature salon styles for both Jason and Lucia, including facial hair for Jason and makeup and nails for Lucia. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "shop",
+        "salon"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "salon",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/sara_salon/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_stock_305",
+      "slug": "stock-305",
+      "title": "Stock 305",
+      "description": "Style various unique and exclusive looks for Jason and Lucia at Stockyard’s premier destination for elevated streetwear. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "shop",
+        "clothing"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "clothing store",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/stock_305/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_electric_fang_tattoo",
+      "slug": "electric-fang-tattoo",
+      "title": "Electric Fang Tattoo",
+      "description": "Stockyard’s most iconic ink bar, with over 50 signature tattoos for both Jason and Lucia — all designed by the artist collective FAILE. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "shop",
+        "tattoo"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "tattoo shop",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/electric_fang_tattoo/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_one_eyed_willies",
+      "slug": "one-eyed-willies",
+      "title": "One-Eyed Willie’s",
+      "description": "This mod shop in Lake Leonida specializes in off-road modifications and hand-painted automotive artistry. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "shop",
+        "mod_shop"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "mod shop",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/one_eyed_willies/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_ptt_youngins_store",
+      "slug": "ptt-youngins-illegal-goods-store",
+      "title": "PTT YOUNGIN$ Illegal Goods Store",
+      "description": "Raid the compound of one of Southside Vice City’s loudest and most socially active gangs and escape safely to score some special items and distinct contraband. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "activity",
+        "compound"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "activity",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/ptt_youngins_store/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+    },
+    {
+      "id": "location_classic_car_collection",
+      "slug": "classic-car-collection",
+      "title": "Classic Car Collection",
+      "description": "Track down a variety of abandoned classic and work-in-progress project cars and revitalize them to their former glory in this special commission from eccentric collector and local fixer, Wyman. Only open for business with the Ultimate Edition.",
+      "status": "official",
+      "tags": [
+        "ultimate",
+        "activity",
+        "commission"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Ultimate Edition Details",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-06-27T00:00:00Z",
+      "verifiedAt": "2026-06-27T00:00:00Z",
+      "version": "1.0.0",
+      "type": "activity",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/locations/classic_car_collection/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
     }
   ]
 }

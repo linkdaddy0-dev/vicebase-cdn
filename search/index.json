@@ -91,6 +91,97 @@
     "status": "official"
   },
   {
+    "id": "location_rideout_customs",
+    "slug": "rideout-customs",
+    "title": "Rideout Customs",
+    "description": "Transform vanilla vehicles into magnificent works of art with detailed interiors, exquisite rims, and donk stylings. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "shop",
+      "mod_shop"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_sara_salon",
+    "slug": "saras-unisex-salon",
+    "title": "Sara's Unisex Salon",
+    "description": "Get signature salon styles for both Jason and Lucia, including facial hair for Jason and makeup and nails for Lucia. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "shop",
+      "salon"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_stock_305",
+    "slug": "stock-305",
+    "title": "Stock 305",
+    "description": "Style various unique and exclusive looks for Jason and Lucia at Stockyard’s premier destination for elevated streetwear. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "shop",
+      "clothing"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_electric_fang_tattoo",
+    "slug": "electric-fang-tattoo",
+    "title": "Electric Fang Tattoo",
+    "description": "Stockyard’s most iconic ink bar, with over 50 signature tattoos for both Jason and Lucia — all designed by the artist collective FAILE. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "shop",
+      "tattoo"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_one_eyed_willies",
+    "slug": "one-eyed-willies",
+    "title": "One-Eyed Willie’s",
+    "description": "This mod shop in Lake Leonida specializes in off-road modifications and hand-painted automotive artistry. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "shop",
+      "mod_shop"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_ptt_youngins_store",
+    "slug": "ptt-youngins-illegal-goods-store",
+    "title": "PTT YOUNGIN$ Illegal Goods Store",
+    "description": "Raid the compound of one of Southside Vice City’s loudest and most socially active gangs and escape safely to score some special items and distinct contraband. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "activity",
+      "compound"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "location_classic_car_collection",
+    "slug": "classic-car-collection",
+    "title": "Classic Car Collection",
+    "description": "Track down a variety of abandoned classic and work-in-progress project cars and revitalize them to their former glory in this special commission from eccentric collector and local fixer, Wyman. Only open for business with the Ultimate Edition.",
+    "type": "location",
+    "tags": [
+      "ultimate",
+      "activity",
+      "commission"
+    ],
+    "status": "official"
+  },
+  {
     "id": "character_lucia",
     "slug": "lucia",
     "title": "Lucia Caminos",
@@ -431,6 +522,19 @@
     "type": "new",
     "tags": [
       "release-date",
+      "announcement"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "news_ultimate_edition",
+    "slug": "ultimate-edition-details",
+    "title": "Ultimate Edition Content Details",
+    "description": "Welcome to Leonida, the state where anything goes. Seize everything this massive world has to offer with the Grand Theft Auto VI: Ultimate Edition, an exclusive collection of premium vehicles, weapons, apparel, and action around every corner.\n\nUltimate Edition bonuses are threaded across all aspects of Jason and Lucia’s story, with new items uncovered behind each chapter.",
+    "type": "new",
+    "tags": [
+      "ultimate",
+      "editions",
       "announcement"
     ],
     "status": "official"
