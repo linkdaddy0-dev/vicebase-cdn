@@ -207,7 +207,13 @@
       "thumbnail": "media/locations/port_gellhorn/thumb.webp",
       "card": "media/locations/port_gellhorn/card.webp",
       "hero": "media/locations/port_gellhorn/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/locations/port_gellhorn/gallery/1.webp",
+        "media/locations/port_gellhorn/gallery/2.webp",
+        "media/locations/port_gellhorn/gallery/3.webp",
+        "media/locations/port_gellhorn/gallery/4.webp",
+        "media/locations/port_gellhorn/gallery/5.webp"
+      ]
     },
     {
       "id": "location_vice_city",
