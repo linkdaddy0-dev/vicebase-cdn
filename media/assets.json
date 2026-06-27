@@ -128,7 +128,12 @@
       "thumbnail": "media/characters/raul_bautista/thumb.webp",
       "card": "media/characters/raul_bautista/card.webp",
       "hero": "media/characters/raul_bautista/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/raul_bautista/gallery/1.webp",
+        "media/characters/raul_bautista/gallery/2.webp",
+        "media/characters/raul_bautista/gallery/3.webp",
+        "media/characters/raul_bautista/gallery/4.webp"
+      ]
     },
     {
       "id": "character_real_dimez",
