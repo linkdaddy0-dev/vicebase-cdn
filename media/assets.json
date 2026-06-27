@@ -44,7 +44,12 @@
       "thumbnail": "media/characters/drequan_priest/thumb.webp",
       "card": "media/characters/drequan_priest/card.webp",
       "hero": "media/characters/drequan_priest/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/drequan_priest/gallery/1.webp",
+        "media/characters/drequan_priest/gallery/2.webp",
+        "media/characters/drequan_priest/gallery/3.webp",
+        "media/characters/drequan_priest/gallery/4.webp"
+      ]
     },
     {
       "id": "character_jason",
