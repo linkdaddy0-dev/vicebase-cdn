@@ -368,7 +368,12 @@
       "thumbnail": "media/vehicles/stanier_55/thumb.webp",
       "card": "media/vehicles/stanier_55/card.webp",
       "hero": "media/vehicles/stanier_55/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/vehicles/stanier_55/gallery/1.webp",
+        "media/vehicles/stanier_55/gallery/2.webp",
+        "media/vehicles/stanier_55/gallery/3.webp",
+        "media/vehicles/stanier_55/gallery/4.webp"
+      ]
     },
     {
       "id": "weapon_pistol",

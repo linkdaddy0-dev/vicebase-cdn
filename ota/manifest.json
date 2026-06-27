@@ -1,6 +1,6 @@
 {
   "contentVersion": "1.0.0",
-  "generatedAt": "2026-06-27T14:50:18.875Z",
+  "generatedAt": "2026-06-27T15:00:25.598Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
@@ -50,7 +50,7 @@
       "id": "news",
       "version": "1.0.0",
       "file": "content/news/news.json",
-      "checksum": "fab5c05898ed7816f5cdb6b7c3faacca15ab1e0dbf6096522c788a88be10a491",
+      "checksum": "c83bebdc4c071749efac62ddf4f427484f821d56582198fd5d22ea0e3217ae02",
       "records": 4,
       "dependsOn": [
         "characters",
