@@ -190,7 +190,14 @@
       "thumbnail": "media/locations/kalaga/thumb.webp",
       "card": "media/locations/kalaga/card.webp",
       "hero": "media/locations/kalaga/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/locations/kalaga/gallery/1.webp",
+        "media/locations/kalaga/gallery/2.webp",
+        "media/locations/kalaga/gallery/3.webp",
+        "media/locations/kalaga/gallery/4.webp",
+        "media/locations/kalaga/gallery/5.webp",
+        "media/locations/kalaga/gallery/6.webp"
+      ]
     },
     {
       "id": "location_leonida",
