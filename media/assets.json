@@ -21,7 +21,12 @@
       "thumbnail": "media/characters/brian_heder/thumb.webp",
       "card": "media/characters/brian_heder/card.webp",
       "hero": "media/characters/brian_heder/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/brian_heder/gallery/1.webp",
+        "media/characters/brian_heder/gallery/2.webp",
+        "media/characters/brian_heder/gallery/3.webp",
+        "media/characters/brian_heder/gallery/4.webp"
+      ]
     },
     {
       "id": "character_cal_hampton",
