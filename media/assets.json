@@ -155,7 +155,12 @@
       "thumbnail": "media/locations/grassrivers/thumb.webp",
       "card": "media/locations/grassrivers/card.webp",
       "hero": "media/locations/grassrivers/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/locations/grassrivers/gallery/1.webp",
+        "media/locations/grassrivers/gallery/2.webp",
+        "media/locations/grassrivers/gallery/3.webp",
+        "media/locations/grassrivers/gallery/4.webp"
+      ]
     },
     {
       "id": "location_kalaga",
