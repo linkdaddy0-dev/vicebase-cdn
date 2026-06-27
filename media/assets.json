@@ -137,7 +137,12 @@
       "thumbnail": "media/characters/real_dimez/thumb.webp",
       "card": "media/characters/real_dimez/card.webp",
       "hero": "media/characters/real_dimez/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/real_dimez/gallery/1.webp",
+        "media/characters/real_dimez/gallery/2.webp",
+        "media/characters/real_dimez/gallery/3.webp",
+        "media/characters/real_dimez/gallery/4.webp"
+      ]
     },
     {
       "id": "location_ambrosia",
