@@ -43,7 +43,15 @@
       "thumbnail": "media/characters/jason/thumb.webp",
       "card": "media/characters/jason/card.webp",
       "hero": "media/characters/jason/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/jason/gallery/1.webp",
+        "media/characters/jason/gallery/2.webp",
+        "media/characters/jason/gallery/3.webp",
+        "media/characters/jason/gallery/4.webp",
+        "media/characters/jason/gallery/5.webp",
+        "media/characters/jason/gallery/6.webp",
+        "media/characters/jason/gallery/7.webp"
+      ]
     },
     {
       "id": "character_jason_macca_gear",
