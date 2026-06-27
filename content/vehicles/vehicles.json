@@ -30,7 +30,7 @@
       "version": "1.0.0",
       "type": "super",
       "manufacturer": "Grotti",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/cheetah/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/cheetah/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": []
     },
@@ -60,13 +60,13 @@
       "version": "1.0.0",
       "type": "sedan",
       "manufacturer": "Vapid",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/stanier_55/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/stanier_55/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/stanier_55/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/stanier_55/gallery/2.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/stanier_55/gallery/3.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/stanier_55/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/stanier_55/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/stanier_55/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/stanier_55/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/stanier_55/gallery/4.webp"
       ]
     },
     {
@@ -94,13 +94,13 @@
       "version": "1.0.0",
       "type": "muscle",
       "manufacturer": "Vapid",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dominator_buggy/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dominator_buggy/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dominator_buggy/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dominator_buggy/gallery/2.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dominator_buggy/gallery/3.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dominator_buggy/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dominator_buggy/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dominator_buggy/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dominator_buggy/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dominator_buggy/gallery/4.webp"
       ]
     },
     {
@@ -128,13 +128,13 @@
       "version": "1.0.0",
       "type": "boat",
       "manufacturer": "Shitzu",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/shitzu_squalo/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/shitzu_squalo/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/shitzu_squalo/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/shitzu_squalo/gallery/2.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/shitzu_squalo/gallery/3.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/shitzu_squalo/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/shitzu_squalo/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/shitzu_squalo/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/shitzu_squalo/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/shitzu_squalo/gallery/4.webp"
       ]
     },
     {
@@ -161,12 +161,12 @@
       "version": "1.0.0",
       "type": "motorcycle",
       "manufacturer": "Dinka",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dinka_enduro/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dinka_enduro/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dinka_enduro/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dinka_enduro/gallery/2.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/dinka_enduro/gallery/3.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dinka_enduro/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dinka_enduro/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/dinka_enduro/gallery/3.webp"
       ]
     },
     {
@@ -194,10 +194,10 @@
       "version": "1.0.0",
       "type": "suv",
       "manufacturer": "Vapid",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/ganado_retro/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/ganado_retro/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/ganado_retro/gallery/1.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/ganado_retro/gallery/1.webp"
       ]
     },
     {
@@ -224,12 +224,12 @@
       "version": "1.0.0",
       "type": "boat",
       "manufacturer": null,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/crest_kayak/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/crest_kayak/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/crest_kayak/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/crest_kayak/gallery/2.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/crest_kayak/gallery/3.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/crest_kayak/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/crest_kayak/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/crest_kayak/gallery/3.webp"
       ]
     },
     {
@@ -257,13 +257,13 @@
       "version": "1.0.0",
       "type": "super",
       "manufacturer": "Grotti",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/cheetah_95/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/cheetah_95/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/cheetah_95/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/cheetah_95/gallery/2.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/cheetah_95/gallery/3.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/vehicles/cheetah_95/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/cheetah_95/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/cheetah_95/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/cheetah_95/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/vehicles/cheetah_95/gallery/4.webp"
       ]
     }
   ]
