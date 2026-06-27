@@ -35,7 +35,7 @@
       "version": "1.0.0",
       "type": "pistol",
       "class": "Handgun",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.20/media/weapons/pistol/card.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/weapons/pistol/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": []
     },
@@ -65,11 +65,11 @@
       "version": "1.0.0",
       "type": "pistol",
       "class": "Handgun",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.20/media/weapons/revolver_morgan/card.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/weapons/revolver_morgan/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.20/media/weapons/revolver_morgan/gallery/1.webp",
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.20/media/weapons/revolver_morgan/gallery/2.webp"
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/weapons/revolver_morgan/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/weapons/revolver_morgan/gallery/2.webp"
       ]
     },
     {
@@ -98,10 +98,10 @@
       "version": "1.0.0",
       "type": "unknown",
       "class": "Customization",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.20/media/weapons/skin_tropical/card.webp",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/weapons/skin_tropical/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.20/media/weapons/skin_tropical/gallery/1.webp"
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@v1.0.21/media/weapons/skin_tropical/gallery/1.webp"
       ]
     }
   ]

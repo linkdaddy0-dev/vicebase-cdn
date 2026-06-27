@@ -1,13 +1,13 @@
 {
-  "contentVersion": "2.0.0",
-  "generatedAt": "2026-06-27T18:50:08.591Z",
+  "contentVersion": "3.0.0",
+  "generatedAt": "2026-06-27T18:56:02.688Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
       "id": "locations",
       "version": "1.0.0",
       "file": "content/locations/locations.json",
-      "checksum": "ac8bef42b4b2bafa74e3a7b783068099bd852d154b23bc9abf5b3d6a7c1d70d4",
+      "checksum": "b747a08d8df95913dcd370b6def759d009487bb1b576f2d1c9ec0e26de92b4a5",
       "records": 14,
       "dependsOn": []
     },
@@ -15,7 +15,7 @@
       "id": "characters",
       "version": "1.0.0",
       "file": "content/characters/characters.json",
-      "checksum": "8acd08d6a93f4871fa6d5070ddd440c56a81928f827325ba57f106134618e4a8",
+      "checksum": "e1c3d73075767f1154b2a6fd182328669c8c3439818cb2f901f27f89eb812d3e",
       "records": 12,
       "dependsOn": []
     },
@@ -23,7 +23,7 @@
       "id": "vehicles",
       "version": "1.0.0",
       "file": "content/vehicles/vehicles.json",
-      "checksum": "cf706e9243c6aaf32d06d2622ceb40b1f73f8b1574c93224214b1c00913d9745",
+      "checksum": "c5e9d43c3dcb3e491ea8de40e5b725825d9f27f697f67726fdb577ca32791c70",
       "records": 8,
       "dependsOn": []
     },
@@ -31,7 +31,7 @@
       "id": "weapons",
       "version": "1.0.0",
       "file": "content/weapons/weapons.json",
-      "checksum": "ca59d3b9decadd588c39a592e2e7725f8ccce734c490411ad2e6777bd01f7ec6",
+      "checksum": "6cf43e6f1a85ef71babc4e87a7f52acc89d006451bb26b4f70f32656bcebcb85",
       "records": 3,
       "dependsOn": []
     },
