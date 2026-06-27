@@ -408,6 +408,17 @@
       ]
     },
     {
+      "id": "weapon_k17_pistol",
+      "type": "weapon",
+      "path": "media/weapons/k17_pistol",
+      "thumbnail": "media/weapons/k17_pistol/thumb.webp",
+      "card": "media/weapons/k17_pistol/card.webp",
+      "hero": "media/weapons/k17_pistol/hero.webp",
+      "gallery": [
+        "media/weapons/k17_pistol/gallery/1.webp"
+      ]
+    },
+    {
       "id": "location_rideout_customs",
       "type": "location",
       "path": "media/locations/rideout_customs",

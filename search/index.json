@@ -453,10 +453,10 @@
     "id": "weapon_revolver_morgan",
     "slug": "revolver-morgan",
     "title": "Hawk & Little Morgan Revolver",
-    "description": "A powerful double-action revolver with classic Vice City engraving designs, included in the pre-order / Ultimate Edition.",
+    "description": "A powerful double-action revolver with classic Vice City engraving designs, included as a Special Sidearm in the Grand Theft Auto VI: Ultimate Edition.",
     "type": "weapon",
     "tags": [
-      "preorder",
+      "ultimate",
       "revolver",
       "handgun"
     ],
@@ -472,6 +472,19 @@
       "preorder",
       "skin",
       "customization"
+    ],
+    "status": "official"
+  },
+  {
+    "id": "weapon_k17_pistol",
+    "slug": "k17-pistol",
+    "title": "K17 Pistol",
+    "description": "A modern high-precision semi-automatic pistol, included as a Special Sidearm in the Grand Theft Auto VI: Ultimate Edition.",
+    "type": "weapon",
+    "tags": [
+      "ultimate",
+      "pistol",
+      "handgun"
     ],
     "status": "official"
   },
