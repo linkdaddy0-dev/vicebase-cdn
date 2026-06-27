@@ -31,7 +31,8 @@
       "type": "super",
       "manufacturer": "Grotti",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": []
     },
     {
       "id": "vehicle_stanier_55",
@@ -60,7 +61,13 @@
       "type": "sedan",
       "manufacturer": "Vapid",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/stanier_55/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/stanier_55/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/stanier_55/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/stanier_55/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/stanier_55/gallery/4.webp"
+      ]
     },
     {
       "id": "vehicle_dominator_buggy",
@@ -88,7 +95,13 @@
       "type": "muscle",
       "manufacturer": "Vapid",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dominator_buggy/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dominator_buggy/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dominator_buggy/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dominator_buggy/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dominator_buggy/gallery/4.webp"
+      ]
     },
     {
       "id": "vehicle_shitzu_squalo",
@@ -116,7 +129,13 @@
       "type": "boat",
       "manufacturer": "Shitzu",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/shitzu_squalo/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/shitzu_squalo/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/shitzu_squalo/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/shitzu_squalo/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/shitzu_squalo/gallery/4.webp"
+      ]
     },
     {
       "id": "vehicle_dinka_enduro",
@@ -143,7 +162,12 @@
       "type": "motorcycle",
       "manufacturer": "Dinka",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dinka_enduro/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dinka_enduro/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dinka_enduro/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/dinka_enduro/gallery/3.webp"
+      ]
     },
     {
       "id": "vehicle_ganado_retro",
@@ -171,7 +195,10 @@
       "type": "suv",
       "manufacturer": "Vapid",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/ganado_retro/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/ganado_retro/gallery/1.webp"
+      ]
     },
     {
       "id": "vehicle_crest_kayak",
@@ -198,7 +225,12 @@
       "type": "boat",
       "manufacturer": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/crest_kayak/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/crest_kayak/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/crest_kayak/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/crest_kayak/gallery/3.webp"
+      ]
     },
     {
       "id": "vehicle_cheetah_95",
@@ -226,7 +258,13 @@
       "type": "super",
       "manufacturer": "Grotti",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah_95/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah_95/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah_95/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah_95/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/vehicles/cheetah_95/gallery/4.webp"
+      ]
     }
   ]
 }

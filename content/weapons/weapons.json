@@ -36,7 +36,8 @@
       "type": "pistol",
       "class": "Handgun",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/pistol/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": []
     },
     {
       "id": "weapon_revolver_morgan",
@@ -65,7 +66,11 @@
       "type": "pistol",
       "class": "Handgun",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/revolver_morgan/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/revolver_morgan/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/revolver_morgan/gallery/2.webp"
+      ]
     },
     {
       "id": "weapon_skin_tropical",
@@ -94,7 +99,10 @@
       "type": "unknown",
       "class": "Customization",
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/skin_tropical/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/weapons/skin_tropical/gallery/1.webp"
+      ]
     }
   ]
 }

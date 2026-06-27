@@ -36,7 +36,16 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/4.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/5.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/6.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia/gallery/7.webp"
+      ]
     },
     {
       "id": "character_jason",
@@ -65,7 +74,16 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/4.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/5.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/6.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason/gallery/7.webp"
+      ]
     },
     {
       "id": "character_lucia_retro_dress",
@@ -94,7 +112,14 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/gallery/4.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_retro_dress/gallery/5.webp"
+      ]
     },
     {
       "id": "character_jason_retro_suit",
@@ -123,7 +148,14 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/gallery/4.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_retro_suit/gallery/5.webp"
+      ]
     },
     {
       "id": "character_lucia_macca_gear",
@@ -152,7 +184,10 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_macca_gear/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/lucia_macca_gear/gallery/1.webp"
+      ]
     },
     {
       "id": "character_jason_macca_gear",
@@ -181,7 +216,10 @@
       "role": "protagonist",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_macca_gear/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/jason_macca_gear/gallery/1.webp"
+      ]
     },
     {
       "id": "character_cal_hampton",
@@ -210,7 +248,13 @@
       "role": "npc",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/cal_hampton/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/cal_hampton/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/cal_hampton/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/cal_hampton/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/cal_hampton/gallery/4.webp"
+      ]
     },
     {
       "id": "character_boobie_ike",
@@ -239,7 +283,13 @@
       "role": "npc",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/boobie_ike/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/boobie_ike/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/boobie_ike/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/boobie_ike/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/boobie_ike/gallery/4.webp"
+      ]
     },
     {
       "id": "character_raul_bautista",
@@ -267,7 +317,13 @@
       "role": "npc",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/raul_bautista/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/raul_bautista/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/raul_bautista/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/raul_bautista/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/raul_bautista/gallery/4.webp"
+      ]
     },
     {
       "id": "character_brian_heder",
@@ -296,7 +352,13 @@
       "role": "npc",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/brian_heder/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/brian_heder/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/brian_heder/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/brian_heder/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/brian_heder/gallery/4.webp"
+      ]
     },
     {
       "id": "character_real_dimez",
@@ -325,7 +387,13 @@
       "role": "npc",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/real_dimez/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/real_dimez/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/real_dimez/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/real_dimez/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/real_dimez/gallery/4.webp"
+      ]
     },
     {
       "id": "character_drequan_priest",
@@ -354,7 +422,13 @@
       "role": "npc",
       "voiceActor": null,
       "imageUrl": "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/drequan_priest/card.webp",
-      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0"
+      "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
+      "gallery": [
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/drequan_priest/gallery/1.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/drequan_priest/gallery/2.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/drequan_priest/gallery/3.webp",
+        "https://cdn.jsdelivr.net/gh/linkdaddy0-dev/vicebase-cdn@main/media/characters/drequan_priest/gallery/4.webp"
+      ]
     }
   ]
 }
