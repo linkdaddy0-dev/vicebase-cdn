@@ -35,7 +35,7 @@
       "version": "1.0.0",
       "type": "pistol",
       "class": "Handgun",
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/weapons/pistol/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.23/media/weapons/pistol/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": []
     },
@@ -65,11 +65,11 @@
       "version": "1.0.0",
       "type": "pistol",
       "class": "Handgun",
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/weapons/revolver_morgan/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.23/media/weapons/revolver_morgan/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/weapons/revolver_morgan/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/weapons/revolver_morgan/gallery/2.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.23/media/weapons/revolver_morgan/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.23/media/weapons/revolver_morgan/gallery/2.webp"
       ]
     },
     {
@@ -98,10 +98,10 @@
       "version": "1.0.0",
       "type": "unknown",
       "class": "Customization",
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/weapons/skin_tropical/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.23/media/weapons/skin_tropical/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.22/media/weapons/skin_tropical/gallery/1.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.23/media/weapons/skin_tropical/gallery/1.webp"
       ]
     }
   ]

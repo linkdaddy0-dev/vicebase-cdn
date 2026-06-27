@@ -305,7 +305,7 @@ function runValidation() {
       };
     });
 
-    const currentManifestVersion = "4.0.0"; // Semver version for CDN OTA manifest structure
+    const currentManifestVersion = "5.0.0"; // Semver version for CDN OTA manifest structure
     const manifest = {
       contentVersion: currentManifestVersion,
       generatedAt: latestGeneratedAt,
