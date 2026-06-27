@@ -156,7 +156,13 @@
       "thumbnail": "media/locations/ambrosia/thumb.webp",
       "card": "media/locations/ambrosia/card.webp",
       "hero": "media/locations/ambrosia/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/locations/ambrosia/gallery/1.webp",
+        "media/locations/ambrosia/gallery/2.webp",
+        "media/locations/ambrosia/gallery/3.webp",
+        "media/locations/ambrosia/gallery/4.webp",
+        "media/locations/ambrosia/gallery/5.webp"
+      ]
     },
     {
       "id": "location_grassrivers",
