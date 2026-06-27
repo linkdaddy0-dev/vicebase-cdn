@@ -25,7 +25,12 @@
       "thumbnail": "media/characters/cal_hampton/thumb.webp",
       "card": "media/characters/cal_hampton/card.webp",
       "hero": "media/characters/cal_hampton/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/cal_hampton/gallery/1.webp",
+        "media/characters/cal_hampton/gallery/2.webp",
+        "media/characters/cal_hampton/gallery/3.webp",
+        "media/characters/cal_hampton/gallery/4.webp"
+      ]
     },
     {
       "id": "character_drequan_priest",
