@@ -78,7 +78,15 @@
       "thumbnail": "media/characters/lucia/thumb.webp",
       "card": "media/characters/lucia/card.webp",
       "hero": "media/characters/lucia/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/characters/lucia/gallery/1.webp",
+        "media/characters/lucia/gallery/2.webp",
+        "media/characters/lucia/gallery/3.webp",
+        "media/characters/lucia/gallery/4.webp",
+        "media/characters/lucia/gallery/5.webp",
+        "media/characters/lucia/gallery/6.webp",
+        "media/characters/lucia/gallery/7.webp"
+      ]
     },
     {
       "id": "character_lucia_macca_gear",
