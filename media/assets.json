@@ -177,7 +177,13 @@
       "thumbnail": "media/locations/leonida_keys/thumb.webp",
       "card": "media/locations/leonida_keys/card.webp",
       "hero": "media/locations/leonida_keys/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/locations/leonida_keys/gallery/1.webp",
+        "media/locations/leonida_keys/gallery/2.webp",
+        "media/locations/leonida_keys/gallery/3.webp",
+        "media/locations/leonida_keys/gallery/4.webp",
+        "media/locations/leonida_keys/gallery/5.webp"
+      ]
     },
     {
       "id": "location_port_gellhorn",
