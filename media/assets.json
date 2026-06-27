@@ -190,7 +190,17 @@
       "thumbnail": "media/locations/vice_city/thumb.webp",
       "card": "media/locations/vice_city/card.webp",
       "hero": "media/locations/vice_city/hero.webp",
-      "gallery": []
+      "gallery": [
+        "media/locations/vice_city/gallery/1.webp",
+        "media/locations/vice_city/gallery/2.webp",
+        "media/locations/vice_city/gallery/3.webp",
+        "media/locations/vice_city/gallery/4.webp",
+        "media/locations/vice_city/gallery/5.webp",
+        "media/locations/vice_city/gallery/6.webp",
+        "media/locations/vice_city/gallery/7.webp",
+        "media/locations/vice_city/gallery/8.webp",
+        "media/locations/vice_city/gallery/9.webp"
+      ]
     },
     {
       "id": "vehicle_cheetah",
