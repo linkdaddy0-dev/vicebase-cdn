@@ -1,0 +1,62 @@
+name: GTA 6 Speculative News Pipeline
+
+# Runs in the linkdaddy0-dev/vicebase-cdn repository, NOT in the app repository.
+# It publishes ota/speculative_feed.json, which is the file the app fetches at runtime
+# (see SPECULATIVE_FEED_URL in app/build.gradle.kts).
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs daily at 08:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-pipeline
+  cancel-in-progress: false
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Fetch news
+        run: python pipeline/fetch_news.py
+
+      - name: Validate output before publishing
+        # A malformed or empty feed would be served to every installed app, so it is
+        # checked here rather than discovered on device.
+        run: |
+          python - <<'PY'
+          import json, sys
+          with open("ota/speculative_feed.json", encoding="utf-8") as f:
+              data = json.load(f)
+          articles = data.get("articles", [])
+          if not articles:
+              sys.exit("speculative_feed.json contains no articles; refusing to publish.")
+          for a in articles:
+              for field in ("id", "title", "url", "publishedAt"):
+                  if not a.get(field):
+                      sys.exit(f"Article missing required field '{field}': {a.get('id')}")
+          print(f"Validated {len(articles)} articles.")
+          PY
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add ota/speculative_feed.json
+          if git diff --cached --quiet; then
+            echo "No changes in speculative_feed.json. Skipping commit."
+          else
+            git commit -m "auto-update: speculative news feed [skip ci]"
+            git push
+          fi

@@ -1,0 +1,2 @@
+# Keep JSON line endings stable so manifest checksums match the served bytes.
+*.json text eol=lf

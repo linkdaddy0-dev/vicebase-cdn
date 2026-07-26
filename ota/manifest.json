@@ -7,7 +7,7 @@
       "id": "locations",
       "version": "1.0.0",
       "file": "content/locations/locations.json",
-      "checksum": "0aefca207af7e6d1f0e5d1d1d706709536adb89a014eb187b9c4d7f56450eb37",
+      "checksum": "b77e285db8169c796cd9a73d44d3e853c3700c2f62f94db283e863ab02b41f21",
       "records": 14,
       "dependsOn": []
     },
@@ -15,7 +15,7 @@
       "id": "characters",
       "version": "1.0.0",
       "file": "content/characters/characters.json",
-      "checksum": "6a5ba54351a1d6e7158952bfc8efe6a6e7d62afb1f4553d03fbb200f150cf24c",
+      "checksum": "749d442fd402dc662c1c6a6085d773c203c4536a52d77e05c2259898d5ba18ec",
       "records": 12,
       "dependsOn": []
     },
@@ -23,7 +23,7 @@
       "id": "vehicles",
       "version": "1.0.0",
       "file": "content/vehicles/vehicles.json",
-      "checksum": "aa037bf05bf947852df5afb8d2fdd08ee63642b56c45fb82111888086159fb6f",
+      "checksum": "06df875c53467591eb97c146a9fe06fbafdbd5c24ba90065d0ba4f1ffa2b889b",
       "records": 8,
       "dependsOn": []
     },
@@ -31,7 +31,7 @@
       "id": "weapons",
       "version": "1.0.0",
       "file": "content/weapons/weapons.json",
-      "checksum": "9ef106da8d2c114f7fd2a52b209cb0af52e02795c165ec2345dbb3bc3e9b95e8",
+      "checksum": "0bd3c96e4bb8337d3a41cce7979756a470175c37b3832e2d3359c070509a070a",
       "records": 4,
       "dependsOn": []
     },
@@ -39,7 +39,7 @@
       "id": "timeline",
       "version": "1.0.0",
       "file": "content/timeline/timeline.json",
-      "checksum": "8a8543d29ff9529f132ea1557920df801169189bfaa6265b1af6b985d81ee1fb",
+      "checksum": "b4be84730803dc578c103e69d717d8cc6e363da03bca322a4763b1cef13cf61a",
       "records": 2,
       "dependsOn": [
         "characters",
@@ -50,7 +50,7 @@
       "id": "news",
       "version": "1.0.0",
       "file": "content/news/news.json",
-      "checksum": "cb303fc2347c8f2fb897806078714c004062851799a67517f491326f042fb1cc",
+      "checksum": "da27a3a66e62c70439318ecafd51be2db92134358a3ca412e481b157072c1422",
       "records": 5,
       "dependsOn": [
         "characters",
