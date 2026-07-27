@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-26T09:20:43Z",
+  "lastUpdated": "2026-07-27T11:17:07Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "0bd163553f4bf8cf5a40dfa7e1712cb013b7a24eb212496decd67163861b3dd9",
+      "title": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-07-27T08:23:10Z",
+      "description": "When Grand Theft Auto 6 pre-orders initially went live a little over a month ago, a number of retailers posted conflicting messages about which countries and regions the controversial code-in-the-box download code is actually going to work. Read more",
+      "image": "https://assetsio.gnwcdn.com/gta-6-world-map-1.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
+      "confidence": "high"
+    },
     {
       "id": "5e120ba3bc37a6ff58424ee381e8e131132b094d9d29d4b0399550763aadbcd6",
       "title": "There Is No GTA 6 Collector s Edition, and Thousands Are Searching for One Anyway",
@@ -101,19 +113,6 @@
       "image": "https://www.videogameschronicle.com/files/2026/06/image001.jpg",
       "url": "https://www.videogameschronicle.com/news/gta-6-download-codes-expire-only-170-days-after-launch-in-japan/",
       "confidence": "high"
-    },
-    {
-      "id": "559ae539374b67b1604dd18c2e40b335f09211354cf3414841ffe27a10ffb0a8",
-      "title": "NBA 2K27 and EA Sports FC 27 Top Editions Cost More Than GTA 6 Ultimate",
-      "source": "GTABOOM",
-      "sourceId": "gtaboom",
-      "category": "Rumor",
-      "publishedAt": "2026-07-24T02:40:00Z",
-      "description": "Grand Theft Auto VI s $99.99 Ultimate Edition now looks cheap next to NBA 2K27 and EA Sports FC 27, charging $149.99 for their priciest editions.",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/49/cf/two-annual-sports-games-just-made-gta-6-look-like-a-bargain.jpg",
-      "url": "https://www.gtaboom.com/two-annual-sports-games-just-made-gta-6-look-like-a-bargain-0abb",
-      "confidence": "medium",
-      "isFeatured": false
     },
     {
       "id": "1ca0a4b1f01e8328fe17aee449528e89c65417672c47f3ee5de9707c6c159474",
