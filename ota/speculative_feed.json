@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-07-28T10:31:20Z",
+  "lastUpdated": "2026-07-29T10:35:26Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "78bf574a960bed8c13f495a29afc017ea44a2d34f25e7066129f13083bcd4b82",
+      "title": "Ex-GTA dev believes Rockstar won’t be adding anything new to GTA 6 right now",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-07-29T10:01:25Z",
+      "description": "Former Rockstar Games developer Mike York has explained where in the development process Rockstar will be right now with GTA 6.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/29/gta-6.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/ex-gta-dev-believes-rockstar-wont-be-adding-anything-new-to-gta-6-right-now-3392186/",
+      "confidence": "medium"
+    },
+    {
+      "id": "c98624022a139746e7c75ae45401b5cae9ea41c7569aeabbd33eec8699755a32",
+      "title": "Rockstar To Show A Lot About GTA 6 Next Month Says Insider",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-07-29T08:40:17Z",
+      "description": "GTA 6 is still on track to release on November 19th later year and news should come next month. That&#8217;s according to an extremely reliable gaming insider. To some people this is obvious although for others there is still a lot of apprehension that the game will make its current release date ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/Image-1-1.webp",
+      "url": "https://rockstarintel.com/rockstar-to-show-a-lot-about-gta-6-next-month-says-insider/",
+      "confidence": "high"
+    },
     {
       "id": "282b22e506f797f22a1ef8fc1599c224ec1c1f469d511aba85651d42e4c955ea",
       "title": "Physical 'Copies' of GTA 6 Will Expire 170 Days After Launch Date in Japan",
@@ -199,18 +223,6 @@
       "confidence": "high"
     },
     {
-      "id": "d3a3b3611404ea91bf79881534bcb0c3b916f63f22613de4d2a13991e96a6b6c",
-      "title": "GTA 6 predicted to make up to $5.2 billion during launch week",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-07-16T18:14:16Z",
-      "description": "GTA 6 is predicted to generate between $3.25 billion and $5.2 billion in sales by the end of its launch week.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/21/gta-6-price-leaks.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-predicted-to-make-up-to-5-2-billion-during-launch-week-3388183/",
-      "confidence": "medium"
-    },
-    {
       "id": "df1bd41b3b5701aa0ad8f349365250ca7cf09214ab4293ece7b0549b90992ed1",
       "title": "GTA 6 Pre-Orders Make $260 Million, Launch Week Set For $5 Billion Says Report",
       "source": "RockstarINTEL",
@@ -232,18 +244,6 @@
       "description": "The hacker behind the gigantic GTA 6 gameplay leak has been removed from a secure hospital and transferred to a standard prison following his sentencing late 2023. Arion Kurtaj was found guilty of numerous charges such as hacking and fraud after a spree of cybercrime. It ended with him accessing ...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03_1280.webp",
       "url": "https://rockstarintel.com/gta-6-hacker-moved-to-prison-ahead-of-criminal-trial/",
-      "confidence": "high"
-    },
-    {
-      "id": "e6d3bfa0de86ed16e1b74f9e2ac81421596798f325d15739ed210f9956482fbd",
-      "title": "GTA 6 News Watch: Date Confirmed For Take-Two Report Next Month With A Twist",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-07-10T09:51:17Z",
-      "description": "An expected but key date in GTA 6&#8217;s news and marketing timeline has been announced. Take-Two Interactive, the parent company of Rockstar Games, announced on Thursday morning a specific a date and time for their next quarterly earnings report. This is the first report following the GTA VI pr...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/07/ULTIMATE_EDITION_02-copy.webp",
-      "url": "https://rockstarintel.com/gta-6-news-watch-date-confirmed-for-take-two-report-next-month-with-a-twist/",
       "confidence": "high"
     }
   ]
