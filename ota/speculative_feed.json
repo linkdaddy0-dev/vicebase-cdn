@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-29T10:35:26Z",
+  "lastUpdated": "2026-07-30T10:22:03Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "b8602717259d6575a84ef2208289b97ffe77b67c1a77ec241b840c876b803a93",
+      "title": "New GTA 6 Info Coming Soon, It Seems",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-07-29T13:00:23Z",
+      "description": "According to a reputable insider, new information about Rockstar's GTA 6 could arrive very soon. NateTheHate, who has accurately reported unannounced details about upcoming games before, recently said he expects to see \"a fair bit\" of GTA 6 in August.\n\n\n\nHe went on to push back against the narrat...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/new-gta-6-info-coming-soon-it-seems/",
+      "confidence": "high"
+    },
     {
       "id": "78bf574a960bed8c13f495a29afc017ea44a2d34f25e7066129f13083bcd4b82",
       "title": "Ex-GTA dev believes Rockstar won’t be adding anything new to GTA 6 right now",
@@ -232,18 +244,6 @@
       "description": "GTA 6 has reportedly sold around a quarter of a billion in pre-orders alone so far according to a new report. It is also estimated Rockstar&#8217;s new title is on track for upwards of making $5 billion during its release week. Reputable games industry analysis firm Newzoo (trusted by game publis...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/06/vi_cover_1280.webp",
       "url": "https://rockstarintel.com/gta-6-pre-orders-make-260-million-launch-week-set-for-5-billion-says-report/",
-      "confidence": "high"
-    },
-    {
-      "id": "34ae21edfde028d0b3fe6597397a10ac8200820df1863a0d1fe45f3310966140",
-      "title": "GTA 6 Hacker Moved To Prison Ahead Of Criminal Trial",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-07-16T12:58:05Z",
-      "description": "The hacker behind the gigantic GTA 6 gameplay leak has been removed from a secure hospital and transferred to a standard prison following his sentencing late 2023. Arion Kurtaj was found guilty of numerous charges such as hacking and fraud after a spree of cybercrime. It ended with him accessing ...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03_1280.webp",
-      "url": "https://rockstarintel.com/gta-6-hacker-moved-to-prison-ahead-of-criminal-trial/",
       "confidence": "high"
     }
   ]
