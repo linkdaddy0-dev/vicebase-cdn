@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-07-30T10:22:03Z",
+  "lastUpdated": "2026-07-31T10:35:50Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "52c16af675744ae394ffe4b0ce3250201abd1887f4f3e13382a87e5656f8ae45",
+      "title": "GTA 6 news coming in August, leaker says, as more evidence points to the game's official website getting a backend update",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-07-30T11:50:27Z",
+      "description": "It looks like we're getting some sort of Grand Theft Auto 6 news very soon, according to one insider and some convenient circumstantial evidence. NateTheHate, a reliable industry insider, was asked about the highly-anticipated game as part of a recent Q&A on X. Read more",
+      "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_02.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-news-august-insider-official-website-backend-updates",
+      "confidence": "high"
+    },
     {
       "id": "b8602717259d6575a84ef2208289b97ffe77b67c1a77ec241b840c876b803a93",
       "title": "New GTA 6 Info Coming Soon, It Seems",
@@ -221,18 +233,6 @@
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/24/gta-6-editions.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/long-time-gta-dev-says-scrapped-gta-5-content-might-be-in-gta-6-3389725/",
       "confidence": "medium"
-    },
-    {
-      "id": "fb1a953e85ef34235cf2dc0694c30b67caeb0cc1437d5a2b0265ba26be2d5032",
-      "title": "Claims about GTA 6 pre-orders are incorrect and \"absurd\", analyst firm says, but it's still had the \"strongest pre-order campaign ever recorded\"",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-07-17T13:06:16Z",
-      "description": "We all knew that GTA 6 was going to be big, but new data from a video game market data analyst group suggests Rockstar's upcoming sandbox game has already earned in excess of $260m for the company. Read more",
-      "image": "https://assetsio.gnwcdn.com/gta-boxed.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-pre-order-numbers-record",
-      "confidence": "high"
     },
     {
       "id": "df1bd41b3b5701aa0ad8f349365250ca7cf09214ab4293ece7b0549b90992ed1",
