@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-03T11:18:53Z",
+  "lastUpdated": "2026-08-04T10:34:47Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "c17a729b127a014533bd9d8645128c93433214846e280599649e72cd25c28e34",
+      "title": "Attack on Titan 3 Avoids the GTA 6 Chaos on PS5, Locks in December Release Date",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-03T16:15:00Z",
+      "description": "Beyond the walls.Attack on Titan 3 will indeed release this year — but it's not going to get into a fight with GTA 6, or any of the many PS5 games that are launching in September and October.Instead, it's opted for a 10th December date, which seems like a pretty wise decision to me.Read the full ...",
+      "image": "https://images.pushsquare.com/81c887d46cdb8/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/attack-on-titan-3-avoids-the-gta-6-chaos-on-ps5-locks-in-december-release-date",
+      "confidence": "medium"
+    },
+    {
+      "id": "465f307900be5cdf99a13e81ca01091f6825fcfcc905fd151878da0d89906e46",
+      "title": "The Last Of Us Co-Director Asks Why You Even Care About GTA 6, And The Internet Has Thoughts",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-03T14:02:11Z",
+      "description": "Bruce Straley, the Naughty Dog veteran who worked on the Jak, Uncharted, and The Last of Us franchises before leaving to start his own studio, is asking his followers why they are excited for GTA 6. \n\n\n\nPosting on social media, Straley said he's asking this question out of genuine curiosity, and ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/the-last-of-us-co-director-asks-why-you-even-care-about-gta-6-and-the-internet-has-thoughts/",
+      "confidence": "high"
+    },
     {
       "id": "78edaf777a08138df828e9e10e03fe58bca8d3b943bf27a8aca824933e13bbdd",
       "title": "Here’s Why People Think The Ocarina Of Time Remake Will Launch A Week Before GTA 6",
@@ -220,30 +244,6 @@
       "description": "We're about four months from the launch of the biggest game of the year: Grand Theft Auto 6. The hype is no doubt through the roof, but if you're in Japan, you'll need to turn that excitement into immediate action because you'll have a limited amount of time to redeem the code that comes in the g...",
       "image": null,
       "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/",
-      "confidence": "high"
-    },
-    {
-      "id": "e062beff7547aefa8cd74b569248e7f887b99b82372be1d8186595733be6c1a3",
-      "title": "GTA 6's Physical PS5 Download Codes Expire After Just 170 Days in Japan",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-07-24T17:00:00Z",
-      "description": "Due to \"regional regulations\".Those planning to buy GTA 6’s physical edition in Japan – which consists of a code in the box if you recall – will have just 170 days to redeem their voucher, otherwise it’ll expire.What’s particularly remarkable here is that the text on Rockstar’s website appears to...",
-      "image": "https://images.pushsquare.com/14b8271433f67/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/07/gta-6s-physical-ps5-download-codes-expire-after-just-170-days-in-japan",
-      "confidence": "medium"
-    },
-    {
-      "id": "1832fdfbab93999d0da5d06bc2e82d93e0ddc32d099cdb568efbca5d678dc696",
-      "title": "GTA 6 download codes expire only 170 days after launch in Japan",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-07-24T16:38:08Z",
-      "description": "Japanese digital download codes for GTA 6 expire less than six months after launch",
-      "image": "https://www.videogameschronicle.com/files/2026/06/image001.jpg",
-      "url": "https://www.videogameschronicle.com/news/gta-6-download-codes-expire-only-170-days-after-launch-in-japan/",
       "confidence": "high"
     }
   ]
