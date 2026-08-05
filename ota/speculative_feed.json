@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-04T10:34:47Z",
+  "lastUpdated": "2026-08-05T10:31:16Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "38c8d4be1355f28ea087fb7478d48ee089f400dd556e062fd83d3d9b99165904",
+      "title": "Danganronpa creator delayed his own game because he wants to play GTA 6 instead",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-04T17:38:25Z",
+      "description": "Danganronpa 2×2 got delayed to 2027, and creator Kazutaka Kodaka blames GTA 6, sort of.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/04/Monokuma-GTA-6.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/danganronpa-creator-delayed-his-own-game-because-he-wants-to-play-gta-6-instead-3394756/",
+      "confidence": "medium"
+    },
+    {
+      "id": "52c4a53a47017ec228c452900266fa711da7f596606a5b6c15540855de7498e4",
+      "title": "Reminder: The PS5 Release Schedule Is About to Become the Busiest It's Ever Been",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-04T16:30:00Z",
+      "description": "GTA 6 is to blame.We're now a few days into August 2026, which means that the pre-GTA 6 games avalanche is underway. It only gets more and more insane from here, folks.I've written about this before, but now that it's actually here, I think it's worth reiterating just how mental the PS5 release s...",
+      "image": "https://images.pushsquare.com/78713381eec9f/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/reminder-the-ps5-release-schedule-is-about-to-become-the-busiest-its-ever-been",
+      "confidence": "medium"
+    },
     {
       "id": "c17a729b127a014533bd9d8645128c93433214846e280599649e72cd25c28e34",
       "title": "Attack on Titan 3 Avoids the GTA 6 Chaos on PS5, Locks in December Release Date",
@@ -221,30 +245,6 @@
       "url": "https://www.gtaboom.com/no-jason-schreier-did-not-say-gta-6-is-almost-complete-5bd4",
       "confidence": "medium",
       "isFeatured": false
-    },
-    {
-      "id": "1048b6c83e203af337a477ae8e5d0d3078e7e27a0c430e6282224f9e0a002d89",
-      "title": "GTA 6 digital codes have an expiration date in this one country",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-07-24T17:35:48Z",
-      "description": "Rockstar confirms Grand Theft Auto 6 download codes in Japan expire just 170 days after launch",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/27/gta-6-phiscial-copies.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-digital-codes-have-an-expiration-date-in-this-one-country-3391005/",
-      "confidence": "medium"
-    },
-    {
-      "id": "5a2d631670af7a76f934e0f316f7d5daf0ac5805037a1f7ad7edadd8c00bbf9a",
-      "title": "GTA 6 Is The First Game I’ve Seen With A Best-Before Date",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-07-24T17:34:40Z",
-      "description": "We're about four months from the launch of the biggest game of the year: Grand Theft Auto 6. The hype is no doubt through the roof, but if you're in Japan, you'll need to turn that excitement into immediate action because you'll have a limited amount of time to redeem the code that comes in the g...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-is-the-first-game-ive-seen-with-a-best-before-date/",
-      "confidence": "high"
     }
   ]
 }
