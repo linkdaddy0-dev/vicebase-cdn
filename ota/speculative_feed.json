@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-08-05T10:31:16Z",
+  "lastUpdated": "2026-08-06T10:35:24Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "f5ee8c5ce2a38a8c1df309545cd80406d93ab42d1884d5ea2be5406c64ff46b4",
+      "title": "GTA 5 Actor Auditioned for 60 Roles in GTA 6, But Heard Nothing from Rockstar",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-05T22:00:09Z",
+      "description": "Actor Robert Bogue, who played FIB agent Steve Haines in Grand Theft Auto 5, says he auditioned for 60 roles in GTA 6, but he was ultimately ignored by Rockstar Games.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/05/gta-steve-haines-1785966835318.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-5-actor-auditioned-for-60-roles-in-gta-6-but-heard-nothing-from-rockstar",
+      "confidence": "high"
+    },
+    {
+      "id": "fbeded00a81c0d2333a65cca82473598d16ae8f304cb6aed630c31c575d3ef38",
+      "title": "GTA 5 actor says he auditioned for 60 roles in GTA 6 but Rockstar didn’t respond",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-05T15:11:49Z",
+      "description": "Actor Robert Bogue, who appeared in Grand Theft Auto 5, is disappointed that Rockstar didn’t consider him for a role in GTA 6.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/05/28/Jason-GTA-6.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-5-actor-says-he-auditioned-for-60-roles-in-gta-6-but-rockstar-didnt-respond-3395180/",
+      "confidence": "medium"
+    },
+    {
+      "id": "6c16e68964c27f86ac2146cff8ea5b349a6ed351e54b81341872ded2ad2c7456",
+      "title": "Why People Think GTA 6 News Is Coming Imminently",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-05T15:06:02Z",
+      "description": "Rockstar owner Take-Two will release its next earnings report on August 7, but instead of coming after the market closes at 4 PM ET, the report is being released before it opens that day at 9:30 AM ET. Another unusual element is that the report is coming on a Friday. What does it all mean? \n\n\n\nWe...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/why-people-think-gta-6-news-is-coming-imminently/",
+      "confidence": "high"
+    },
+    {
+      "id": "c3fa5d28ad56930e38b40a25fef3febaeeb0f7d5ad4b5b79c22a635abd577c9c",
+      "title": "Former Rockstar dev “wouldn’t be shocked at all” if GTA 6 is delayed another six months",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-05T14:47:11Z",
+      "description": "Ex-Rockstar animator Mike York says the studio could push GTA 6 into 2027 if lingering bugs leave even one major mission short of its standards.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/05/gta-6-delay.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/former-rockstar-dev-wouldnt-be-shocked-at-all-if-gta-6-is-delayed-another-six-months-3395159/",
+      "confidence": "medium"
+    },
     {
       "id": "38c8d4be1355f28ea087fb7478d48ee089f400dd556e062fd83d3d9b99165904",
       "title": "Danganronpa creator delayed his own game because he wants to play GTA 6 instead",
@@ -193,58 +241,6 @@
       "image": "https://assetsio.gnwcdn.com/gta-6-world-map-1.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
       "confidence": "high"
-    },
-    {
-      "id": "5e120ba3bc37a6ff58424ee381e8e131132b094d9d29d4b0399550763aadbcd6",
-      "title": "There Is No GTA 6 Collector s Edition, and Thousands Are Searching for One Anyway",
-      "source": "GTABOOM",
-      "sourceId": "gtaboom",
-      "category": "Rumor",
-      "publishedAt": "2026-07-26T05:28:00Z",
-      "description": "No Grand Theft Auto 6 Collector s Edition exists. Rockstar sells only two versions. Any other listing is unofficial or a scam.",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/2a/d0/there-is-no-gta-6-collectors-edition-and-thousands-are-searching-for-one-anyway.jpg",
-      "url": "https://www.gtaboom.com/there-is-no-gta-6-collectors-edition-and-thousands-are-searching-for-one-anyway-93ee",
-      "confidence": "medium",
-      "isFeatured": false
-    },
-    {
-      "id": "0bdf8b9cb35f1d0e32ee4234599fab9674f6488f11ddfb7a60e2defa7a3bf135",
-      "title": "Everything Rockstar Still Has Not Shown About GTA 6",
-      "source": "GTABOOM",
-      "sourceId": "gtaboom",
-      "category": "Rumor",
-      "publishedAt": "2026-07-26T00:34:33Z",
-      "description": "We are roughly four months out from launch with pre-orders live for roughly a month. The cover art is out with around 60 screenshots already...",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/e8/48/everything-rockstar-still-has-not-shown-about-gta-6.jpg",
-      "url": "https://www.gtaboom.com/everything-rockstar-still-has-not-shown-about-gta-6-c9f0",
-      "confidence": "medium",
-      "isFeatured": false
-    },
-    {
-      "id": "4d2bf4cd41a84d3cc3508fc7f50ff87239e7bdd51e5248a6a1f8de1ba8d018f8",
-      "title": "GTA 6 Download Codes Do Not Expire, but the Panic Makes Sense",
-      "source": "GTABOOM",
-      "sourceId": "gtaboom",
-      "category": "Rumor",
-      "publishedAt": "2026-07-25T03:43:34Z",
-      "description": "GTA 6 boxed game codes do not expire. Only the Vintage Vice City Pack bonus (deadline November 20) and the bundled GTA+ trial have real time limits.",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/cc/94/gta-6-download-codes-do-not-expire-but-the-panic-makes-sense.jpg",
-      "url": "https://www.gtaboom.com/gta-6-download-codes-do-not-expire-but-the-panic-makes-sense-0df5",
-      "confidence": "medium",
-      "isFeatured": false
-    },
-    {
-      "id": "229ca004669d48c18c0cdd5a13f39823ebada291bf5ee7859b19cd939628fb34",
-      "title": "No, Jason Schreier Did Not Say GTA 6 Is Almost Complete",
-      "source": "GTABOOM",
-      "sourceId": "gtaboom",
-      "category": "Rumor",
-      "publishedAt": "2026-07-24T21:59:31Z",
-      "description": "Jason Schreier never said GTA 6 is 90 percent done. He said he s 90 percent confident in its release date, a claim already backed by official sources.",
-      "image": "https://media.gtaboom.com/variants/1920/media/images/aa/7b/no-jason-schreier-did-not-say-gta-6-is-almost-complete.jpg",
-      "url": "https://www.gtaboom.com/no-jason-schreier-did-not-say-gta-6-is-almost-complete-5bd4",
-      "confidence": "medium",
-      "isFeatured": false
     }
   ]
 }
