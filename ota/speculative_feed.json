@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-08T08:35:59Z",
+  "lastUpdated": "2026-08-09T08:37:42Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "814c9f1921a4c4d2f1e7028239ddd06ba9b69da4b21bb6310bbec6bc353be2d3",
+      "title": "Video: 2027 Is Already a Stacked Year for PS5",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-08T15:00:00Z",
+      "description": "Delays, delays, delays.I know we’re only in August 2026, but I’ve been thinking a lot about 2027.After a bunch of delays to avoid GTA 6, 2027 is already steadily becoming a massively stacked year for PS5. I mean we’re getting a new God of War game six weeks into the new year.Read the full article...",
+      "image": "https://images.pushsquare.com/127e11d60d6fb/small.jpg",
+      "url": "https://www.pushsquare.com/features/video-2027-is-already-a-stacked-year-for-ps5",
+      "confidence": "medium"
+    },
     {
       "id": "15b740d34f22f33e8adc3892724fd76503c30dd0e69c72effbbcadb148e9ee52",
       "title": "GTA 6’s Netflix special will ‘feel like a show’ and target people who aren’t buying it day one",
@@ -228,18 +240,6 @@
       "description": "Rockstar Games announced what is effectively GTA 6 Trailer 3 on Thursday and what came with the news was all new artwork for the game. We have all of the various versions The company has made the hugely surprising move of putting the Grand Theft Auto VI: An Extended Look first on Netflix. We repo...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/08/featured.0y5yxwenpsgc3-copy-1280-scaled.webp",
       "url": "https://rockstarintel.com/new-gta-6-artwork-released-ahead-of-trailer-3/",
-      "confidence": "high"
-    },
-    {
-      "id": "dfa6e0dfce09953a636d92fdbc4a0ae24f38091dedfc319ac3bc35d3a5cc8e1d",
-      "title": "New GTA 6 Gameplay Trailer Announced By Rockstar And Netflix Gets It First",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-08-06T12:25:30Z",
-      "description": "Rockstar Games have announced the next look at GTA 6 is coming very soon.&#160;The company have finally revealed a release date for a new gameplay video after so many weeks of silence. There is also brand new artwork and more to take a look at. Plus, the announcement comes with quite a surprise. ...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/jason-netflix-lucia-copy.webp",
-      "url": "https://rockstarintel.com/new-gta-6-gameplay-trailer-announced-by-rockstar-and-netflix-gets-it-first/",
       "confidence": "high"
     }
   ]
