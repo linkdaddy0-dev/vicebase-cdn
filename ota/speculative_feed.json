@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-08-09T08:37:42Z",
+  "lastUpdated": "2026-08-10T09:16:19Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "c2a979ca765407be016e60b4803cb818981b40c076651f0b4afd87e05dd4e85e",
+      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-09T10:25:54Z",
+      "description": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
+      "confidence": "high"
+    },
     {
       "id": "814c9f1921a4c4d2f1e7028239ddd06ba9b69da4b21bb6310bbec6bc353be2d3",
       "title": "Video: 2027 Is Already a Stacked Year for PS5",
@@ -180,18 +192,6 @@
       "description": "While most of Take-Two Interactive's games are priced at $70--which became a much more common MSRP for new releases from 2020 onwards--GTA 6 is one of a handful of titles that will retail for $80--a price that the publisher believes is \"phenomenal value\" for the open-world game.\n\n\n\nSpeaking to in...",
       "image": null,
       "url": "https://www.gamespot.com/articles/take-two-defends-gta-6s-80-price-calls-it-phenomenal-value/",
-      "confidence": "high"
-    },
-    {
-      "id": "0ab62d7cd699748739a6f34f0d8aa123b24be375eb534ac3d0f4e8fa617909b1",
-      "title": "Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-07T13:22:39Z",
-      "description": "Strauss Zelnick, boss of Rockstar parent company Take-Two, has defended the company’s decision not to release GTA 6 on a physical disc, insisting when it comes to big games, discs “don’t really make sense for the consumer.”",
-      "image": "https://assets-prd.ignimgs.com/2026/06/24/ultimate-edition-01-1782295792416.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/take-two-boss-defends-no-disc-version-of-gta-6-equates-physical-releases-to-vinyl-records",
       "confidence": "high"
     },
     {
