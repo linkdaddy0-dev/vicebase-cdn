@@ -1,7 +1,103 @@
 {
-  "lastUpdated": "2026-08-11T08:50:44Z",
+  "lastUpdated": "2026-08-12T09:08:12Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "5d661baba2e8e8e1d7b6ef49042381a010545b07cd4ea6b97b16561bbb078e14",
+      "title": "Rockstar Games boss says $100 GTA 6 Ultimate Edition is outselling the $80 standard version",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-11T17:28:52Z",
+      "description": "Take-Two CEO Strauss Zelnick says GTA 6 players are choosing the $99.99 Ultimate Edition over the $79.99 standard version.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/11/gta-6-ultimate-pre-orders-outsell.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/rockstar-games-boss-says-100-gta-6-ultimate-edition-is-outselling-the-80-standard-version-3397246/",
+      "confidence": "medium"
+    },
+    {
+      "id": "b2371cc8f7271bec9715eeb122d959dd2a4388071ea9a7c18a4808e382c532be",
+      "title": "GTA 6 Owner Take-Two Is Not Interested In Selling To Netflix Or Anyone Right Now",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-11T15:04:00Z",
+      "description": "Take-Two, which owns Rockstar and Grand Theft Auto, is not interested in selling. The company's top boss, Strauss Zelnick, appeared on CNBC recently where he was asked if Take-Two's partnership with Netflix for the next GTA 6 trailer might be the first step toward a buyout. It is not, he said, ad...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-to-netflix-or-anyone-right-now/",
+      "confidence": "high"
+    },
+    {
+      "id": "8389c865f3fc9d08f28b2c36ec17dc3b69024a12c112187a9416f30380aeadb1",
+      "title": "How Students Can Get GTA 6 For $64",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-11T13:22:12Z",
+      "description": "Rockstar's GTA 6 is priced at $80 for the standard edition, but if you're a student who shops at Target and you meet certain eligibility requirements, you can potentially get the game for a nice discount.\n\n\n\nTarget Circle Students members can save 20% on the game's code-in-the-box version, bringi...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/how-students-can-get-gta-6-for-64/",
+      "confidence": "high"
+    },
+    {
+      "id": "e3cc66a5ddaf7b9a0a2c667a9b5fef83e08fa3e79c6324ccd989d4de72e3b4c2",
+      "title": "Most People Have Pre-Ordered The GTA 6 Ultimate Edition Say Take-Two",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-08-11T12:40:03Z",
+      "description": "More people have pre-ordered the $100 GTA 6 Ultimate Edition than the base game. That&#8217;s according to Take-Two Interactive (Rockstar&#8217;s parent company) CEO Strauss Zelnick. Late last week Take-Two became the world&#8217;s largest publicly traded video game publisher and shared with inve...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01-copy.webp",
+      "url": "https://rockstarintel.com/most-people-have-pre-ordered-the-gta-6-ultimate-edition-say-take-two/",
+      "confidence": "high"
+    },
+    {
+      "id": "7fd8e3cb4d0f6eaa5fcf132367d1c7cffd95903771ff2a23aba00af309fd9b93",
+      "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-11T12:23:57Z",
+      "description": "Take-Two boss Strauss Zelnick has acknowledged that the company could have charged more for Grand Theft Auto 6, but it declined to do so to ensure pricing felt fair. He also shared new insight into how GTA 6 preorders are going so far, saying they're skewing toward the $100 edition early on.\n\n\n\nS...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-could-have-had-an-even-higher-price-as-100-edition-proves-popular/",
+      "confidence": "high"
+    },
+    {
+      "id": "de8a93a6475729f121832761e079ddfac90c3a376b5b847c49969799587f7eee",
+      "title": "GTA 6 leaker claims it has “next level” gameplay unlike anything in previous GTA games",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "Rumor",
+      "publishedAt": "2026-08-11T11:17:28Z",
+      "description": "An apparent GTA 6 insider claims that the gameplay in the new game will be “next level” as he’s opened up on some new details.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/18/GTA-6-is-so-big-one-company-is-shutting-down-for-launch-day.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-leaker-claims-it-has-next-level-gameplay-unlike-anything-in-previous-gta-games-3397117/",
+      "confidence": "medium"
+    },
+    {
+      "id": "e7eb42f8bd071544dc99e3d7ab29e457c8811d734071427e609083fd9aec1ba2",
+      "title": "GTA 6 might not cost $100, but most of the people pre-ordering it are buying it at that price, Take-Two reveals",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-08-11T10:42:09Z",
+      "description": "Though many may baulk at the idea of paying $100 (&pound;90) for a game, a lot of the people who pre-ordered Grand Theft Auto 6 bought the more expensive Ultimate edition rather than the $80 (&pound;70) Standard edition. That's according to Strauss Zelnick, CEO of Rockstar parent company Take-Two...",
+      "image": "https://assetsio.gnwcdn.com/ULTIMATE_EDITION_SARAS_SALON_02.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-pre-orders-ultimate-edition-100-dollars",
+      "confidence": "high"
+    },
+    {
+      "id": "167ffd1b36e979d565b09bbc0d9a9fe733f43d07d6581eb8b9285f9f3e4ead58",
+      "title": "GTA 6's $100 PS5 Ultimate Edition Is Getting More Pre-Orders Than the Cheaper Version",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-11T10:00:00Z",
+      "description": "But that's to be expected.The single biggest game on the horizon is Grand Theft Auto 6, and while it's certainly stirred up some controversy in the run up to launch, it seems many are willing to spend big on it.Strauss Zelnick, CEO of Rockstar's parent company Take-Two Interactive, has not only s...",
+      "image": "https://images.pushsquare.com/5b06e0deba813/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6s-usd100-ps5-ultimate-edition-is-getting-more-pre-orders-than-the-cheaper-version",
+      "confidence": "medium"
+    },
     {
       "id": "d7fd666385fd8fa4ae8d6c9e7996b60c3cc5b73f6990d8176df7681d5a3b4978",
       "title": "GTA 6 Boss Says More People Are Pre-Ordering the $100 Version of the Game",
@@ -87,30 +183,6 @@
       "confidence": "medium"
     },
     {
-      "id": "2817a34f21038391bf82aa4ce41bb3754bb341cc2df9318b2158ac92457fbafa",
-      "title": "GTA 6 Preorder Numbers Won’t Be Revealed Because They Could Be Misleading, Take-Two CEO Says",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-10T13:44:54Z",
-      "description": "Take-Two's Strauss Zelnick recently said GTA 6's preorder numbers are unprecedented in the gaming industry, and that's part of the reason why the company is not revealing actual numbers. Zelnick said in an interview with Bloomberg that GTA 6 preorders \"vastly\" surpassed internal expectations, but...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-preorder-numbers-wont-be-revealed-because-they-could-be-misleading-take-two-ceo-says/",
-      "confidence": "high"
-    },
-    {
-      "id": "672f51d3afe4459e0eb4a4c8b11bb0a17ae4a0ba94318aab2c11e3ee94d8b3b7",
-      "title": "Don’t Expect To Hear About GTA 6’s Online Mode Soon",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-10T13:09:41Z",
-      "description": "GTA Online for GTA 5 has been, and continues to be, a gigantic success for Rockstar and Take-Two. So why hasn't Rockstar divulged any information about how GTA 6 will work with respect to multiplayer and online? We don't know, and a new report claims Rockstar isn't going to reveal anything anytim...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/dont-expect-to-hear-about-gta-6s-online-mode-soon/",
-      "confidence": "high"
-    },
-    {
       "id": "2d5f45cdf21fb32e5e6b50f3e3bdb9daae789ca95a8126146fd50362461c0902",
       "title": "\"I'm sure you're going to watch it because everyone is\" - GTA 6 premiering on Netflix represents Rockstar \"trying new things\", says Take-Two boss",
       "source": "Eurogamer",
@@ -147,30 +219,6 @@
       "confidence": "medium"
     },
     {
-      "id": "15b740d34f22f33e8adc3892724fd76503c30dd0e69c72effbbcadb148e9ee52",
-      "title": "GTA 6’s Netflix special will ‘feel like a show’ and target people who aren’t buying it day one",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-07T20:52:09Z",
-      "description": "Take-Two says GTA 6’s upcoming Netflix special will feel like watching a show as Rockstar attempts to reach beyond its established gaming audience.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/24/GTA-6-price-confirmed.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6s-netflix-special-is-targeting-people-who-arent-buying-it-day-one-3396080/",
-      "confidence": "medium"
-    },
-    {
-      "id": "5d31d9052d259f623a628a2a8c68ff32efdba8cef9776e5574eb8e00edc1b2a9",
-      "title": "AI Tools Aren’t Going To Replace Anyone, Says GTA 6 Publisher Boss",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-07T18:35:00Z",
-      "description": "During the latest investment call for Grand Theft Auto 6's parent company, Take-Two Interactive, CEO Strauss Zelnick weighed in on the future of AI in game development. While Zelnick acknowledges that even his company will utilize AI, he reiterated his belief that the emerging technology won't re...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/ai-tools-arent-going-to-replace-anyone-says-gta-6-publisher-boss/",
-      "confidence": "high"
-    },
-    {
       "id": "81341a8e40910790108215287f6dca3eeb352c1bfbfb744c853ffe9b4f5e28cf",
       "title": "'Discs Don't Really Make Sense': GTA 6 Boss Says 'Sony Understands That' as It Kills Physical Games",
       "source": "Push Square",
@@ -192,54 +240,6 @@
       "description": "The boss of Take-Two has suggested the video game industry will be in “commercial streaming mode” within three years — but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
       "image": "https://assets-prd.ignimgs.com/2023/12/07/gta6-trailer-4k-00-00-38-29-still001-1701962524689.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
-      "confidence": "high"
-    },
-    {
-      "id": "fbb506b09e87e017afbab38a96529ee0043f3188ef9604c5297dd112b0ea1f28",
-      "title": "Take-Two boss \"not in the least\" concerned bad press around Rockstar's employment tribunal will affect GTA 6 launch",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-08-07T16:22:27Z",
-      "description": "Take-Two boss Strauss Zelnick, who heads the company Rockstar belongs to, has said he's \"not in the least\" concerned that bad press over alleged union-busting will affect the launch of Grand Theft Auto 6. Read more",
-      "image": "https://assetsio.gnwcdn.com/strauss-zelnick-gta-6.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/take-two-strauss-zelnick-not-concerned-rockstar-union-busting-gta-6",
-      "confidence": "high"
-    },
-    {
-      "id": "f5d345fb1ea13e27fe76c43f00d009c9eb3c915fa0661de843bd476539ff68ae",
-      "title": "Podcast: Is GTA 6’s Netflix reveal the future of game trailers?",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-07T15:04:51Z",
-      "description": "Plus: Our thoughts on Pokemon Pokopia's DLC",
-      "image": "https://www.videogameschronicle.com/files/2026/08/pod-183.jpg",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-is-gta-6s-netflix-reveal-the-future-of-game-trailers/",
-      "confidence": "high"
-    },
-    {
-      "id": "a4ee0d3be2095d02e71895eb9c9522ea35445448dd7420f0e12b2a4658674555",
-      "title": "Discs ‘don’t really make sense for the consumer’ says Take-Two boss on GTA 6’s digital launch",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-07T14:52:16Z",
-      "description": "Take-Two's CEO is not concerned about the lack of a physical disc for GTA 6",
-      "image": "https://www.videogameschronicle.com/files/2026/06/gta6box.jpg",
-      "url": "https://www.videogameschronicle.com/news/discs-dont-really-make-sense-for-the-consumer-says-take-two-boss-on-gta-6s-digital-launch/",
-      "confidence": "high"
-    },
-    {
-      "id": "e4afd88f875212b37a389a0075e009d5e17f1a451437267852f6fae7da2358f3",
-      "title": "We'll all be streaming our games in about \"three years\", says Take-Two boss, raising some post-release questions about GTA 6",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-08-07T14:35:00Z",
-      "description": "In Take-Two's latest financial report, CEO Strauss Zelnick makes some bold statements about the future of the games industry. As the industry reels from Sony's controversial decision to stop manufacturing physical disc-based games,and to pivot to an 'all-digital future', Zelnick reckons we won't ...",
-      "image": "https://assetsio.gnwcdn.com/zelnick-gta-streaming-final.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/strauss-zelnick-take-two-streaming-gta-6",
       "confidence": "high"
     }
   ]
