@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-08-13T09:08:14Z",
+  "lastUpdated": "2026-08-14T09:04:18Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "3f6dfa15d9b5d66461898bd76aee8ecc7bee0e4a1fb0f68e985e3da35aa2e6fa",
+      "title": "GTA 6’s $100 Ultimate Edition Makes Up 89% of Pre-Orders",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-08-14T00:07:42Z",
+      "description": "Grand Theft Auto 6’s Ultimate Edition reportedly represents 89% of early pre-orders.\nThe post GTA 6’s $100 Ultimate Edition Makes Up 89% of Pre-Orders appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/07/gta-developer-rockstar-games-crunch-scaled.jpg",
+      "url": "https://insider-gaming.com/gta-6s-100-ultimate-edition-makes-up-89-of-pre-orders/",
+      "confidence": "high"
+    },
+    {
+      "id": "7e26a66248d5657a19c9a3373c2c1dc8cae2301eec97927319e06f62ede0f586",
+      "title": "Netflix’s GTA 6 Extended Look could be multiple episodes as Rockstar boss hints at more",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-13T19:37:08Z",
+      "description": "Netflix’s upcoming GTA 6 Extended Look could be split across 3 episodes, with an unverified listing pointing to more than an hour of footage.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/13/gta-6-netflix-multi-part-extended-look-leak.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/netflixs-gta-6-extended-look-could-be-multiple-episodes-as-rockstar-boss-hints-at-more-3398229/",
+      "confidence": "medium"
+    },
+    {
+      "id": "8d5c25b67b3af106536ed80702aa618155c4d04d47ad1d12e3029877adc532c6",
+      "title": "GTA 6 Preorders Alone Could Pay For Production Budget – Expert",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-13T15:56:09Z",
+      "description": "GTA 6 preorders began in late June, and, as expected, there was enormous demand for the game. Take-Two said GTA 6 had unprecedented preorder numbers, but the company is not disclosing a specific figure to avoid misleading investors. Sensor Tower, a research and analytics company for gaming, is, h...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-preorders-alone-could-pay-for-production-budget-expert/",
+      "confidence": "high"
+    },
     {
       "id": "1fe57a936b8a891995477892fe950485d2f93dc201c6c3de2f97eefaad7dccb5",
       "title": "Take-Two CEO Won’t Be In GTA 6 After His Surprise Appearance In WWE 2K26",
@@ -60,18 +96,6 @@
       "description": "More people have pre-ordered the $100 GTA 6 Ultimate Edition than the base game. That&#8217;s according to Take-Two Interactive (Rockstar&#8217;s parent company) CEO Strauss Zelnick. Late last week Take-Two became the world&#8217;s largest publicly traded video game publisher and shared with inve...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_01-copy.webp",
       "url": "https://rockstarintel.com/most-people-have-pre-ordered-the-gta-6-ultimate-edition-say-take-two/",
-      "confidence": "high"
-    },
-    {
-      "id": "7fd8e3cb4d0f6eaa5fcf132367d1c7cffd95903771ff2a23aba00af309fd9b93",
-      "title": "GTA 6 Could Have Had An Even Higher Price, As $100 Edition Proves Popular",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-11T12:23:57Z",
-      "description": "Take-Two boss Strauss Zelnick has acknowledged that the company could have charged more for Grand Theft Auto 6, but it declined to do so to ensure pricing felt fair. He also shared new insight into how GTA 6 preorders are going so far, saying they're skewing toward the $100 edition early on.\n\n\n\nS...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-could-have-had-an-even-higher-price-as-100-edition-proves-popular/",
       "confidence": "high"
     },
     {
@@ -159,18 +183,6 @@
       "confidence": "medium"
     },
     {
-      "id": "311397a9eed33eee51d05c65597c9f8f0d172eca08a71fc804905ddc89ad6ef6",
-      "title": "GTA 6 fans raise $50k for sick fan trying to live long enough to play VI",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-10T14:02:10Z",
-      "description": "Grand Theft Auto fans are rallying around a sick fan who wants to make it to play GTA 6, and have even donated $50,000 towards a GoFundMe for him.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/10/GTA-6-fans-raise-50k-for-sick-fan-trying-to-live-to-play-new-game.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-fans-raise-50k-for-sick-fan-trying-live-long-enough-to-play-vi-3396670/",
-      "confidence": "medium"
-    },
-    {
       "id": "02176d70343194faa50b2e0a6b5d19010c3ce86ff0c709dbc22194c7a0b1f137",
       "title": "Guide: GTA 6 Netflix Extended Look: When and How to Watch",
       "source": "Push Square",
@@ -229,18 +241,6 @@
       "image": "https://images.pushsquare.com/065e37c8cfad9/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/08/discs-dont-really-make-sense-gta-6-boss-says-sony-understands-that-as-it-kills-physical-games",
       "confidence": "medium"
-    },
-    {
-      "id": "59ffd5d552a78f21da901a8dd56f75ff1be3019bda3c2f3de1262f17400ead42",
-      "title": "Take-Two Boss Predicts Actual Good Video Game Streaming Within 3 Years, Says for Streaming to Matter It Would Have to Run GTA 6 as Well as Consoles",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-07T16:28:27Z",
-      "description": "The boss of Take-Two has suggested the video game industry will be in “commercial streaming mode” within three years — but for video game streaming to matter, it will have to run GTA 6 just as well as consoles do.",
-      "image": "https://assets-prd.ignimgs.com/2023/12/07/gta6-trailer-4k-00-00-38-29-still001-1701962524689.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/take-two-boss-predicts-actual-good-video-game-streaming-within-3-years-says-for-streaming-to-matter-it-would-have-to-run-gta-6-as-well-as-consoles",
-      "confidence": "high"
     }
   ]
 }
