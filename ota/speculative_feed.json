@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-14T09:04:18Z",
+  "lastUpdated": "2026-08-15T08:23:32Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "59ac87d2118aec5504a7a969e97b52c3fd43073b59116029099a3c01fda997f5",
+      "title": "Podcast: GTA 6 boss says discs don’t make sense in 2026",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "News",
+      "publishedAt": "2026-08-14T20:03:48Z",
+      "description": "Plus: What's the best special edition console ever?",
+      "image": "https://www.videogameschronicle.com/files/2026/08/pod-184.jpg",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-boss-says-discs-dont-make-sense-in-2026/",
+      "confidence": "high"
+    },
+    {
+      "id": "b6b89c2333684478027d5fa1caaa189b1ce4d0afd38a60a1e4a8fd4302a8569f",
+      "title": "89% Of GTA 6 Pre-Orders Are For The Ultimate Edition",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-08-14T10:10:20Z",
+      "description": "It isn&#8217;t just a slight majority of people pre-ordering the GTA 6 Ultimate Edition. It&#8217;s almost everyone. That&#8217;s according to a new report.  Last week, we learned from Take-Two Interactive CEO Strauss Zelnick that GTA 6&#8217;s $100 version is selling more than the standard one. ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_STOCK_305_02-copy.webp",
+      "url": "https://rockstarintel.com/89-of-gta-6-pre-orders-are-for-the-ultimate-edition/",
+      "confidence": "high"
+    },
     {
       "id": "3f6dfa15d9b5d66461898bd76aee8ecc7bee0e4a1fb0f68e985e3da35aa2e6fa",
       "title": "GTA 6’s $100 Ultimate Edition Makes Up 89% of Pre-Orders",
@@ -217,30 +241,6 @@
       "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
       "confidence": "high"
-    },
-    {
-      "id": "814c9f1921a4c4d2f1e7028239ddd06ba9b69da4b21bb6310bbec6bc353be2d3",
-      "title": "Video: 2027 Is Already a Stacked Year for PS5",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-08-08T15:00:00Z",
-      "description": "Delays, delays, delays.I know we’re only in August 2026, but I’ve been thinking a lot about 2027.After a bunch of delays to avoid GTA 6, 2027 is already steadily becoming a massively stacked year for PS5. I mean we’re getting a new God of War game six weeks into the new year.Read the full article...",
-      "image": "https://images.pushsquare.com/127e11d60d6fb/small.jpg",
-      "url": "https://www.pushsquare.com/features/video-2027-is-already-a-stacked-year-for-ps5",
-      "confidence": "medium"
-    },
-    {
-      "id": "81341a8e40910790108215287f6dca3eeb352c1bfbfb744c853ffe9b4f5e28cf",
-      "title": "'Discs Don't Really Make Sense': GTA 6 Boss Says 'Sony Understands That' as It Kills Physical Games",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-08-07T17:30:00Z",
-      "description": "\"Digital is much more convenient\".Sony’s decision to cease manufacturing physical game discs in January 2028 may have brought the wrath of gaming enthusiasts at large, but major publishers seem largely non-plussed by the decision.Both Capcom and SEGA have indicated they don’t expect to be affecte...",
-      "image": "https://images.pushsquare.com/065e37c8cfad9/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/08/discs-dont-really-make-sense-gta-6-boss-says-sony-understands-that-as-it-kills-physical-games",
-      "confidence": "medium"
     }
   ]
 }
