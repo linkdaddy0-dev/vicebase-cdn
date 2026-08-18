@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-08-17T08:38:37Z",
+  "lastUpdated": "2026-08-18T08:32:13Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "d92112a3df8b3f6d69e25e4a3139944668c0214d80040780050da58bf66ad137",
+      "title": "US Army Battalion Reportedly Giving Soldiers Time Off to Play GTA 6 in Exchange for Reenlisting",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "Rumor",
+      "publishedAt": "2026-08-17T23:10:03Z",
+      "description": "A battalion in the United States Army is reportedly offering soldiers four days off to let them play Grand Theft Auto 6 when it releases this November if they reenlist.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/us-army-battalion-reportedly-giving-soldiers-time-off-to-play-gta-6-in-exchange-for-reenlisting",
+      "confidence": "high"
+    },
+    {
+      "id": "f89e3eaa74ebfa08811c4fa76ec1c7d5ba490159de9643d94d384462972fa9cf",
+      "title": "GTA 6 Does Look A Bit Different In New PS5 Promo",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-17T16:29:08Z",
+      "description": "Sony is flexing its video game muscle with a new \"It Happens On PS5\" ad campaign, and the one-minute video features arguably the most anticipated title ever: Grand Theft Auto VI. Now, to be clear, there are only snippets of old footage for the open-world experience. But you should know by now tha...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-does-look-a-bit-different-in-new-ps5-promo/",
+      "confidence": "high"
+    },
     {
       "id": "59ac87d2118aec5504a7a969e97b52c3fd43073b59116029099a3c01fda997f5",
       "title": "Podcast: GTA 6 boss says discs don’t make sense in 2026",
@@ -96,18 +120,6 @@
       "description": "Take-Two, which owns Rockstar and Grand Theft Auto, is not interested in selling. The company's top boss, Strauss Zelnick, appeared on CNBC recently where he was asked if Take-Two's partnership with Netflix for the next GTA 6 trailer might be the first step toward a buyout. It is not, he said, ad...",
       "image": null,
       "url": "https://www.gamespot.com/articles/gta-6-owner-take-two-is-not-interested-in-selling-to-netflix-or-anyone-right-now/",
-      "confidence": "high"
-    },
-    {
-      "id": "8389c865f3fc9d08f28b2c36ec17dc3b69024a12c112187a9416f30380aeadb1",
-      "title": "How Students Can Get GTA 6 For $64",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-11T13:22:12Z",
-      "description": "Rockstar's GTA 6 is priced at $80 for the standard edition, but if you're a student who shops at Target and you meet certain eligibility requirements, you can potentially get the game for a nice discount.\n\n\n\nTarget Circle Students members can save 20% on the game's code-in-the-box version, bringi...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/how-students-can-get-gta-6-for-64/",
       "confidence": "high"
     },
     {
@@ -228,18 +240,6 @@
       "description": "One of the most surprising things about Rockstar's Grand Theft Auto 6 trailer tease last week was word that it will premiere on subscription-based service Netflix - a move I can't ever remember another game company doing. Read more",
       "image": "https://assetsio.gnwcdn.com/gta-6-netflix-lucia.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/take-two-boss-gta-6-netflix-trailer",
-      "confidence": "high"
-    },
-    {
-      "id": "c2a979ca765407be016e60b4803cb818981b40c076651f0b4afd87e05dd4e85e",
-      "title": "'If You're Not a Netflix Subscriber, You Definitely Should Be' — Take-Two Boss Teases Grand Theft Auto VI: An Extended Look",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-09T10:25:54Z",
-      "description": "Take-Two Boss Strauss Zelnick discusses Grand Theft Auto VI: An Extended Look Netflix reveal.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/08/gta-6-main-1786226105882.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/if-youre-not-a-netflix-subscriber-you-definitely-should-be-take-two-boss-teases-grand-theft-auto-vi-an-extended-look",
       "confidence": "high"
     }
   ]
