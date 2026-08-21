@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-08-20T08:33:53Z",
+  "lastUpdated": "2026-08-21T08:36:15Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "a803be56c450fe09b07b8447cc2187057e3a8ba29a0e4e07f0f69572467ad9ac",
+      "title": "Malware Disguised as Leaked GTA 6 Copies Are Popping Up on Piracy Sites",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "Leak",
+      "publishedAt": "2026-08-20T21:05:00Z",
+      "description": "No, despite claims online, there is not a downloadable and playable build of GTA 6 floating around on piracy sites.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/malware-disguised-as-leaked-gta-6-copies-are-popping-up-on-piracy-sites",
+      "confidence": "high"
+    },
+    {
+      "id": "50a553b6547e62d55192c0269e931b3f9104142d0ba3543c291ac74c3f480737",
+      "title": "All the leaked Music & Radio Stations confirmed in GTA 6 so far",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Leak",
+      "publishedAt": "2026-08-20T20:02:09Z",
+      "description": "Over the last few days, leaked gameplay of Grand Theft Auto VI has been spreading like wildfire across the Internet. Along with the leaked Gameplay we also had the entire map leaked. But in the videos, the leaker has been playing music from the Radios in the vehicles, showing off unannounced Musi...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/Real_Dimez_04-scaled.jpg",
+      "url": "https://rockstarintel.com/all-the-leaked-music-radio-stations-confirmed-in-gta-6-so-far/",
+      "confidence": "high"
+    },
+    {
+      "id": "0f6aa45ca5e4fddf45ed8c119d765bbfdc0e179961d7041c03f06534dd0d0990",
+      "title": "Best Buy Is Offering $100 Gift Cards For $60 This Weekend, And That’s Great If You Want GTA 6’s Premium Edition",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-20T18:40:52Z",
+      "description": "To celebrate its 60th anniversary, retailer Best Buy is offering $100 gift cards for only $60, and the timing is great if you want the $100 Ultimate Edition of GTA 6.\n\n\n\nThe offer is good for one day only, August 22, and you'll need to visit a store in person to get the gift card. Additionally, B...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/best-buy-is-offering-100-gift-cards-for-60-this-weekend-and-thats-great-if-you-want-gta-6s-premium-edition/",
+      "confidence": "high"
+    },
+    {
+      "id": "8a11a1aa30b221b3896498a21094e7cddecb187ff1c3e1a255c5b4ac52a7fa4b",
+      "title": "Step Aside, GTA 6 Leaks, We Have To Talk About Zork",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "Leak",
+      "publishedAt": "2026-08-20T18:01:13Z",
+      "description": "Ongoing GTA 6 leaks might be the biggest gaming news story happening right now, but there's something much more important to discuss: Zork. We finally know what From Software's new Switch 2 exclusive, The Duskbloods, actually is, and among the many details we've gotten is a reveal of some of the ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/step-aside-gta-6-leaks-we-have-to-talk-about-zork/",
+      "confidence": "high"
+    },
+    {
+      "id": "f06c0ae8eadd311c256f0f70749715bf4cd508aa5b7ea85cab773c8f6822c838",
+      "title": "GTA 6 Leaker Might Have Playable Build Of The Game",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "Leak",
+      "publishedAt": "2026-08-20T16:12:19Z",
+      "description": "Here we go again: A new day means new apparent leaked footage of Grand Theft Auto VI. In fact, one of the latest clips appears to show that the person sharing these videos has access to a playable build of the open-world game. \n\n\n\nThe leaker, who goes by CyberLeek on social media, posted an alleg...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-leaker-might-have-playable-build-of-the-game/",
+      "confidence": "high"
+    },
+    {
+      "id": "c2b4a22d25f76c067f833849ddfb009ab3217ffd701c47b0b54bf1eb3eb26f0a",
+      "title": "Game Companies Could Learn Wrong Lessons From GTA 6’s $80 Price, Analyst Says",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-20T16:00:00Z",
+      "description": "Gaming has never been more expensive. We're here to investigate why, and help you play more while spending less. Welcome to GameSpot Cheap Week.\n\n\n\n\n\n\n\nGrand Theft Auto 6's standard edition will retail for $80, and as the highest-profile game to set its price this high, players are likely wonderi...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/game-companies-could-learn-wrong-lessons-from-gta-6s-80-price-analyst-says/",
+      "confidence": "high"
+    },
+    {
+      "id": "9b18ee2f34a26f4af1d3a64330d61a8a098fe1afe8418018c031950c20e4bc1f",
+      "title": "GTA 6 Gameplay Leaker Has an Actual Build of the Game, Still Posting Leaks",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "Leak",
+      "publishedAt": "2026-08-20T12:00:00Z",
+      "description": "Update #3: Leaker proves they have the game in some form.Multiple videos of what appear to be legitimate GTA 6 gameplay are currently being posted to the Internet by a leaker.I've seen two clips so far: the first depicts Jason at his house from the trailer playing some basketball, and the second ...",
+      "image": "https://images.pushsquare.com/bc1574be15136/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-gameplay-leaker-has-an-actual-build-of-the-game-still-posting-leaks",
+      "confidence": "medium"
+    },
+    {
+      "id": "cb6f3e553c38dddc7b7597d005d9fd4670f1d05a38408d6c9e59e7546a8c32b6",
+      "title": "GTA 6 leaker shares footage suggesting link or access to playable build of the game, as Rockstar struggles to contain even more gameplay videos",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-08-20T11:27:51Z",
+      "description": "UPDATE 1PM BST: A previous version of this article erroneously suggested the leaker had \"full access\" to the GTA 6 game, based on the declaration of what appears to be an impersonating social media account. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA-6&#39;s-Jason-aims-a-gun-with-a-bandana-scarf-covering-his-lower-face-and-yellow-rimmed-sunglasses-over-his-eyes.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-leaker-full-access-gameplay-leaks-continue",
+      "confidence": "high"
+    },
+    {
+      "id": "5abe80caf400e0b6779362e297f1652ae658b9af929bb65bbc7c930266c0499f",
+      "title": "Stop Killing Games condemns GTA 6 leaker after their manifesto supports them",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-20T10:49:40Z",
+      "description": "Stop Killing Games has urged fans not to support the GTA 6 leakers, despite their manifesto backing many of the same values.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/04/29/gta-6.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/stop-killing-games-condemns-gta-6-leaker-after-their-manifesto-supports-them-3400339/",
+      "confidence": "medium"
+    },
+    {
+      "id": "a3304b69c78d403d4394730584d452624b165a8907c3053fb7c934efaf35175c",
+      "title": "New GTA 6 Gameplay Leak Shows Radio Station Menu And Flying In Planes",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Leak",
+      "publishedAt": "2026-08-20T10:08:02Z",
+      "description": "Yet another GTA 6 gameplay leak has been released. This one gives us our first look at piloting planes up high above Vice City, an all-new radio station menu and more. Over the past few days, a leaker has surfaced posting GTA VI gameplay footage. The person has been saying their motive is all abo...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/Leonida_Keys_01-scaled-1280.webp",
+      "url": "https://rockstarintel.com/new-gta-6-gameplay-leak-shows-radio-station-menu-and-flying-in-planes/",
+      "confidence": "high"
+    },
+    {
+      "id": "b78d49cd76b5d02b182332d3f5ac724f5dbe6d74085899fc47cece4f0819192e",
+      "title": "US Army Offering Soldiers GTA 6 Play Days If They Reenlist",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-08-20T09:11:37Z",
+      "description": "Want 4 days off to play GTA 6? The United States Army are offering you that just that as long as you sign back up for a few years. In a new report from CBS news, Grand Theft Auto VI play time is being offered as an incentive to entice soldiers back into service. An [...]\nThe post US Army Offering...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_HAWK_AND_LITTLE_MORGAN_REVOLVERS_01-1280.webp",
+      "url": "https://rockstarintel.com/us-army-offering-soldiers-gta-6-play-days-if-they-reenlist/",
+      "confidence": "high"
+    },
     {
       "id": "a57814c487dd58937b3307de77cce1ab88a3c02ffc5e025e6410b7c9b24fc21c",
       "title": "New GTA 6 Preview Event Details Leak",
@@ -63,54 +195,6 @@
       "confidence": "medium"
     },
     {
-      "id": "1848545be3f8281c83335db426d2066283a383f9cb911af22c8af2a837b5a996",
-      "title": "GTA 6 Has Already Made $400 Million+ From Preorders, Apparently",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-19T18:35:18Z",
-      "description": "According to a third-party research company, GTA 6 has already brought in more than $400 million in revenue from preorders.\n\n\n\nSensor Tower's sales tracker for GTA 6 states that Rockstar sold 4.38 million copies, including any returns, through August 18, generating $429 million. The research firm...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/",
-      "confidence": "high"
-    },
-    {
-      "id": "2012abb1ff062cb5fcd1aa125fea468fcc88941003f7b555317a4216bff5c994",
-      "title": "Fourth GTA 6 Gameplay Leak Reveals A New Weapon Wheel",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T17:41:01Z",
-      "description": "Yet another GTA 6 gameplay leak has been released. This one gives is a proper look at the game&#8217;s weapon wheel which is quite a bit different to past games in terms of visuals. Over the past couple of days, a leaker has surfaced posting GTA VI gameplay footage. Based on a number of reasons, ...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03_1280.webp",
-      "url": "https://rockstarintel.com/fourth-gta-6-gameplay-leak-reveals-a-new-weapon-wheel/",
-      "confidence": "high"
-    },
-    {
-      "id": "28a16a7d4f6c28693f5781cc191dc5893f7d83a455d82dc5ee68cf879417f990",
-      "title": "Army Unit Gives Soldiers 4-Day Pass To Play GTA 6 If They Re-Enlist",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-19T17:36:01Z",
-      "description": "In an effort to encourage soldiers to re-enlist, one US Army unit in Georgia is offering a four-day pass around the time GTA 6 launches in November.\n\n\n\nThe incentive is only for soldiers at Fort Stewart in Georgia in the Army's 9th Brigade Engineering Battalion. So far, 20 people there have agree...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/army-unit-gives-soldiers-4-day-pass-to-play-gta-6-if-they-re-enlist/",
-      "confidence": "high"
-    },
-    {
-      "id": "2c8393e05061fc002b21f8f6768369a81ddfb8c344a07545c59ec7e0c8dd9f03",
-      "title": "New GTA 6 Leak Features Shocking Gameplay Footage, And We Mean That Literally",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T16:09:42Z",
-      "description": "The second day of apparent Grand Theft Auto VI leaks has started with a new gameplay clip focused on Jason Duval. There's bad driving, a well-known pop song, and multiple people shot by a taser-like weapon. The video even ends with a cutscene in which Jason has a beer on a boat with his buddy, Ca...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/new-gta-6-leak-features-shocking-gameplay-footage-and-we-mean-that-literally/",
-      "confidence": "high"
-    },
-    {
       "id": "bba51841da59f23dadc87a9ed079a5cd7aa038a50ead9f1b2c284f654f3ff41e",
       "title": "Third seemingly real GTA 6 video leaks as Rockstar scrambles to remove footage from the internet",
       "source": "Eurogamer",
@@ -135,18 +219,6 @@
       "confidence": "medium"
     },
     {
-      "id": "94a6bd492bb41519974b4c67607d252fed1f488ca819302649e8a09676ab5dae",
-      "title": "BREAKING: A third GTA 6 gameplay Video has leaked onto the internet.",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T14:15:21Z",
-      "description": "Yesterday, we reported that Two gameplay videos of Grand Theft Auto VI had leaked onto the internet, along with a picture of the full GTA 6 map. Well, just moments ago, another Gameplay video has made its way onto Social media and across the internet. This video is the longest of them all, over 2...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Mount_Kalaga_National_Park_06-scaled.jpg",
-      "url": "https://rockstarintel.com/breaking-a-third-gta-6-gameplay-video-has-leaked-onto-the-internet/",
-      "confidence": "high"
-    },
-    {
       "id": "0bd434bb6656d6fd93befa28e90bb37ec4a3e6a5439d336187016bca40f2744e",
       "title": "GTA 6 Gameplay Leaks Continue as Group Makes Demands of Rockstar",
       "source": "Push Square",
@@ -169,78 +241,6 @@
       "image": "https://images.pushsquare.com/7c59cf84cf4f5/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/08/the-binding-of-isaac-repentanceplus-online-is-the-only-game-brave-enough-to-launch-the-same-day-as-gta-6",
       "confidence": "medium"
-    },
-    {
-      "id": "f0800c6a605fc7194d65e7d7ba0b90868db20c461c6071e27b23263cfc9456be",
-      "title": "GTA 6 Previews Are Happening Right Now, It’s Claimed",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T12:46:46Z",
-      "description": "GTA 6 previews are happening right now according to a reputable journalist . This is not the source of the recent GTA 6 gameplay leak. As we reported on last night, someone began leaking GTA 6 gameplay videos and map and now the floodgates may open. People are talking including credible publicati...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/ULTIMATE_EDITION_VAPID_GANADO_RETRO_BUILD_01_1280.webp",
-      "url": "https://rockstarintel.com/gta-6-previews-are-happening-right-now-its-claimed/",
-      "confidence": "high"
-    },
-    {
-      "id": "6717e1ec3223685b3d62edb34386b79028566ab54936b6558eeaf2723f688b87",
-      "title": "GTA 6 Leakers Say They Acted For Gamers’ Rights, While Pushing A Memecoin",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T12:34:42Z",
-      "description": "The consumer rights group Stop Killing Games has addressed this week's Grand Theft Auto 6 leaks, urging people not to support the hackers claiming responsibility for leaking footage of the game ahead of its November release. The group released several minutes of what appears to be GTA 6 gameplay,...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-leakers-say-they-acted-for-gamers-rights-while-pushing-a-memecoin/",
-      "confidence": "high"
-    },
-    {
-      "id": "e4e2cf518ab8bcbb22c9c240ae2a5cef91737d2f97e91fa20417522fb8c44372",
-      "title": "The next Binding of Isaac game is going up against Grand Theft Auto 6",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-08-19T11:59:42Z",
-      "description": "The Binding of Isaac: Repentance + Online has revealed a release date and it's one you probably have marked on your calendar. The package, a collection of The Binding of Isaac: Rebirth and all previously released add-ons, arrives 19th November on consoles -exactly the same day as Grand Theft Auto...",
-      "image": "https://assetsio.gnwcdn.com/the-binding-of-isaac-repentance%2B-screen-1.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/the-binding-of-isaac-repentance-plus-online-date",
-      "confidence": "high"
-    },
-    {
-      "id": "7b66014edac9b7621afdc8bfbbf472cd136cb81c79f2a7ee3fdc62e5d0dd266c",
-      "title": "xQc slams GTA 6 leaker and claims real fans don’t want to see leaks",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T11:26:38Z",
-      "description": "xQc has hit out at the leaker behind the recent GTA 6 leaks, claiming that fans don’t want to see the game early.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/03/10/xQc-GTA-6.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/xqc-slams-gta-6-leaker-and-claims-real-fans-dont-want-to-see-leaks-3400047/",
-      "confidence": "medium"
-    },
-    {
-      "id": "4e700de0aa87cdb5da992d9930f0cd22e10c5b6c555daf1caef3bac5c2c328a9",
-      "title": "Stop Killing Games urges people not to support GTA 6 leakers, who declared \"gamers' rights\" their motive for action",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-08-19T11:25:41Z",
-      "description": "Consumer rights movement Stop Killing Games has released a public statement admonishing the actions of the group which took responsibility for leaking Grand Theft Auto 6 gameplay footage overnight. Read more",
-      "image": "https://assetsio.gnwcdn.com/(567)-Grand-Theft-Auto-VI-Trailer-2-00-00-20_vnMrh8W.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/stop-killing-games-gta-6-leak",
-      "confidence": "high"
-    },
-    {
-      "id": "4ad354961459450a849597ee036b26cd6927a0095638cf8b05162414899c2ac0",
-      "title": "GTA 6 gameplay footage and map appear to leak online, as group seemingly responsible makes demands of Rockstar",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "Leak",
-      "publishedAt": "2026-08-19T10:49:16Z",
-      "description": "What appears to be legitimate gameplay footage of Grand Theft Auto 6 has leaked onto the internet, alongside an alleged image of the game's entire map. Read more",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-leak.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-leaked-gameplay-map-cyberleek",
-      "confidence": "high"
     }
   ]
 }
