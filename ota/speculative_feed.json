@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-08-22T08:24:31Z",
+  "lastUpdated": "2026-08-23T08:24:33Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "87c04bbe2657e4d58a38866760f11e81836f9f5af6543e7fd152fd0e148b3abd",
+      "title": "REDACTED: GTA 6 Leaker Report Concerning ‘Releasing The Build’ Has Been Removed",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-08-23T07:01:34Z",
+      "description": "We recently published a report talking about a GTA 6 leaker releasing a build of the game. This has since been proven false.\nThe post REDACTED: GTA 6 Leaker Report Concerning &#8216;Releasing The Build&#8217; Has Been Removed appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/05/Cal_Hampton_01-scaled.jpg",
+      "url": "https://insider-gaming.com/redacted-gta-6-leaker-report-build-release/",
+      "confidence": "high"
+    },
+    {
+      "id": "6390f9ba9da73d9748d1b9cc0d66fc5c6663622a93c541cc822d13c404aec1e9",
+      "title": "GTA 6 Leaks Prompt Fans to Bring Out the Memes as Netflix Puts a Brave Face on Things",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "Leak",
+      "publishedAt": "2026-08-22T23:30:00Z",
+      "description": "\"How many days?\".Rockstar is feverishly hunting for a leaker who appears to have a playable build of GTA 6.As we’ve reported in a repeatedly updated article, new gameplay footage is appearing daily from what appears to be a recent and fully working version of the eagerly anticipated PS5 game.Read...",
+      "image": "https://images.pushsquare.com/a6731242eb8f4/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/gta-6-leaks-prompt-fans-to-bring-out-the-memes-as-netflix-puts-a-brave-face-on-things",
+      "confidence": "medium"
+    },
+    {
+      "id": "f733f7bf35ad5605909a367f556069f023ad277ba8eb6b36932f257973e25949",
+      "title": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-22T22:16:40Z",
+      "description": "The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/22/ultimate-edition-hawk-and-little-morgan-revolvers-01-1787436750506.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
+      "confidence": "high"
+    },
+    {
+      "id": "564bf9ca91d9cfe0d788e333db7f72c81f542535a125a072070b28e1f3d97d05",
+      "title": "BREAKING: 8th GTA 6 Gameplay Leak Shows Strip Club And Cutscene",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Leak",
+      "publishedAt": "2026-08-22T19:40:16Z",
+      "description": "An 8th GTA 6 gameplay clip has leaked online. This is yet another piece of footage taken from the game and shared by a cryptobro in retaliation for the lack of physical disks being made by Rockstar and PlayStation. Take-Two filed a subpoena on Friday against Microsoft and Discord to help with the...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/DreQuan_Priest_01-scaled.jpg",
+      "url": "https://rockstarintel.com/breaking-8th-gta-6-gameplay-leak-shows-strip-club-and-cutscene/",
+      "confidence": "high"
+    },
+    {
+      "id": "bf479185f8357ff7644397737ba5313f714acb8287e781c45d5fe655d56413d2",
+      "title": "BREAKING: 7th GTA 6 Gameplay Video Has Leaked, Shows Strip Club, Refuelling And More",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Leak",
+      "publishedAt": "2026-08-22T12:05:43Z",
+      "description": "A 7th GTA 6 gameplay clip has leaked online. This is yet another piece of footage taken from the game and shared by a cryptobro in retaliation for the lack of physical disks being made by Rockstar and PlayStation. Take-Two filed a subpoena on Friday against Microsoft and Discord to help with the ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Boobie_Ike_04-scaled.jpg",
+      "url": "https://rockstarintel.com/breaking-7th-gta-6-gameplay-video-has-leaked-shows-strip-club-refuelling-and-more/",
+      "confidence": "high"
+    },
+    {
+      "id": "2d7f3aadc9e8cd1dee1081f5f78ff2dc9a18f5141cbb26d864d2d88275ed890c",
+      "title": "Is this the end of the GTA 6 leaks? Take-Two's legal crusade appears to shut down the hubs behind them",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "Leak",
+      "publishedAt": "2026-08-22T11:16:33Z",
+      "description": "UPDATE 3.30pm: Despite the CyberLeek website going dark, nope, the GTA 6 leaks haven't stopped. Read more",
+      "image": "https://assetsio.gnwcdn.com/gta-6-headline_4qa8MBU.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-cyberleek-website-down",
+      "confidence": "high"
+    },
+    {
+      "id": "da351c6c9753b3e220dc74484cbc36c89b0865970fb231d1dde16083686310e3",
+      "title": "Xbox responds after judge grants GTA 6 subpoena request",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-22T10:25:15Z",
+      "description": "Xbox has responded after a judge granted Take-Two’s subpoena requests, allowing them to obtain information related to the Cyberleek hacks.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/06/gta-6-netflix-reveal.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gaming/xbox-responds-after-judge-grants-gta-6-subpoena-request-3401078/",
+      "confidence": "medium"
+    },
     {
       "id": "122404b64e0974517048ba58aeb9e8533865186bab760cd34813f65e64ac0a35",
       "title": "NY Court Approves Take-Two Subpoenas Microsoft and Discord Over GTA 6 Leaks",
@@ -156,90 +240,6 @@
       "description": "Take-Two wants account records, Xbox links, device telemetry and OneDrive files as it attempts to identify the person behind the Cyberleek GTA 6 leaks.",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/21/gta-6-subpoena-manhunt-leaks.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/take-two-subpeonas-microsoft-and-discord-in-hunt-for-gta-6-leaker-3400924/",
-      "confidence": "medium"
-    },
-    {
-      "id": "a502ba792a5c95d89e6622c71c5bf4005f6ddb8e5b7866ce9274c3346ea26555",
-      "title": "Microsoft And Discord Subpoenaed In GTA 6 Leak Case",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T14:57:53Z",
-      "description": "Many alleged clips of Grand Theft Auto 6 gameplay have leaked online this week, showing everything from combat to basketball, and Rockstar's parent company Take-Two is scrambling to figure out just how it happened. Now, the publisher has subpoenaed both Microsoft and Discord in order to investiga...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/microsoft-and-discord-subpoenaed-in-gta-6-leak-case/",
-      "confidence": "high"
-    },
-    {
-      "id": "5c17c6696125850b2681bca1693a330e09b4e6af21927b08f596643c9c7c505e",
-      "title": "GTA 6 Leaks Have Take-Two Subpoenaing Microsoft And Discord To Reveal Source",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T14:49:44Z",
-      "description": "As more GTA 6 gameplay leaks have surfaced online, Take-Two and Rockstar are working to hunt down the leaker behind everything. Just earlier today they shared a lengthy clip of super car driving in Vice City stunning fans. There are seemingly more gameplay leaks to come but now this has become a ...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_GROTTI_CHEETAH_01-copy.webp",
-      "url": "https://rockstarintel.com/gta-6-leaks-have-take-two-subpoena-microsoft-and-discord-to-reveal-source/",
-      "confidence": "high"
-    },
-    {
-      "id": "ca0eb2cab80b18fe2a285dc4a96932b0ab993df0259598f2ab643b68c1ce5bf9",
-      "title": "Take-Two Seeks Information From Microsoft and Discord in Hunt for GTA 6 Leaker, Files Multiple Subpoenas in Federal Court",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-21T14:29:30Z",
-      "description": "Take-Two has issued a subpoena in a federal court requesting information from both Microsoft and Discord as it hunts the leaker or leakers behind the recent spate of GTA 6 gameplay videos.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/21/gta-6-1787322479437.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/take-two-seeks-information-from-microsoft-and-discord-in-hunt-for-gta-6-leaker-files-multiple-subpoenas-in-federal-court",
-      "confidence": "high"
-    },
-    {
-      "id": "8c3a23482f883941012055d64e7f92732de4bb808676f6fd67056b11d73e805b",
-      "title": "Take-Two files subpoenas asking Microsoft and Discord for records in hunt for GTA 6 leaker",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-21T14:09:35Z",
-      "description": "Rockstar owner Take-Two is using the law to track down a prolific GTA 6 leaker",
-      "image": "https://www.videogameschronicle.com/files/2025/05/Ambrosia_03.jpg",
-      "url": "https://www.videogameschronicle.com/news/take-two-files-subpoenas-to-microsoft-and-discord-in-hunt-for-gta-6-leaker/",
-      "confidence": "high"
-    },
-    {
-      "id": "3bae4c438a268f6e0e8e845cdd3e4b164d5943ad7fdaa4816b2ea3c5dddff4b9",
-      "title": "BREAKING: A Sixth GTA 6 gameplay video has been leaked, showcasing a Hyper Car",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T13:41:17Z",
-      "description": "This week, we have been reporting that gameplay Videos of Grand Theft Auto I have been leaking onto the internet, along with a picture of the full GTA 6 map and a Cutscene, Well, just moments ago, another Gameplay video has made its way onto Social media and across the internet. This is now the S...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/Vice_City_06-scaled.jpg",
-      "url": "https://rockstarintel.com/breaking-a-sixth-gta-6-gameplay-video-has-been-leaked-showcasing-a-hyper-car/",
-      "confidence": "high"
-    },
-    {
-      "id": "8b3537e80c9388b95da167c0c9448bfeab5f4f397c8e68d1148cf8c0e6853ebd",
-      "title": "GTA 6 leaker could be exposed soon by crypto wallet as they’ve earned thousands already",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T10:32:25Z",
-      "description": "CyberLeek, the leaker behind the recent spate of GTA 6 leaks could be identified based on crypto wallet activity, with some finding that the account has made more than $50,000 already.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/03/17/gta-6-brian-heder-rockstar-old-people.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-leaker-could-be-exposed-soon-by-crypto-wallet-as-theyve-earned-thousands-already-3400786/",
-      "confidence": "medium"
-    },
-    {
-      "id": "02c6f2eafb0253887ac9d720d4934afcde04a48a0516e319b35964f9c89008e6",
-      "title": "Army unit reveals 20 soldiers have re-enlisted for special four-day GTA 6 pass",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-21T08:47:49Z",
-      "description": "An army unit in the United States is offering a four-day pass to play Grand Theft Auto 6 when it comes out, and 20 soldiers have already taken it up.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/06/gta-6-netflix-reveal.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/army-unit-reveals-20-soldiers-have-re-enlisted-for-special-four-day-gta-6-pass-3400725/",
       "confidence": "medium"
     }
   ]
