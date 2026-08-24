@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-08-23T08:24:33Z",
+  "lastUpdated": "2026-08-24T08:43:31Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "1f20c7b07a7d237cfe1860789d0420bdae30d35c17b8faafeb99c2fd699fe50e",
+      "title": "BREAKING: The 10th GTA 6 leak is here, showing the Airport & scale of the map",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Leak",
+      "publishedAt": "2026-08-23T17:45:35Z",
+      "description": "Just moments ago, Cyberleek dropped the 10th Gameplay video of Grand Theft Auto VI. This time showing Off the Airport and giving us a great view of the Vice City skyline. The leak also showed off more music. The 9th leak was only dropped hours ago, showing off a random encounter at a Gas Station ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Vice_City_01-scaled.jpg",
+      "url": "https://rockstarintel.com/10th-leaked-gameplay-gta6-vice-city-airport-new-music/",
+      "confidence": "high"
+    },
+    {
+      "id": "32081562d42d2e06abd2bb611e62a76578da1e601c90a2ce3be3b51843c05588",
+      "title": "Gamescom Directors Address GTA 6 Netflix Competition",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-08-23T17:35:17Z",
+      "description": "Gamescom executives expect GTA 6 to pull some digital attention, but say the event’s hundreds of games and world premieres set it apart. \nThe post Gamescom Directors Address GTA 6 Netflix Competition appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2025/08/gamescom-2026.webp",
+      "url": "https://insider-gaming.com/gamescom-gta-6-wont-overshadow-showcase/",
+      "confidence": "high"
+    },
+    {
+      "id": "f50f9c7bc171561e2d04f28cda7b39759790483e50b49ff5e538ecb3a679a25a",
+      "title": "NEWS: 9th leaked gameplay video shows us the Wasted screen",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Leak",
+      "publishedAt": "2026-08-23T16:01:39Z",
+      "description": "Earlier today, a 9th gameplay video of Grand Theft Auto VI was leaked onto the Internet by the one and only Cyberleek, in retaliation to Sony and Rockstar no longer having Physical discs, and definitely not to promote his crypto. This new video is a follow up to the previous one. During the previ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Vice_City_03-scaled.jpg",
+      "url": "https://rockstarintel.com/news-9th-leaked-gameplay-video-shows-us-the-wasted-screen/",
+      "confidence": "high"
+    },
     {
       "id": "87c04bbe2657e4d58a38866760f11e81836f9f5af6543e7fd152fd0e148b3abd",
       "title": "REDACTED: GTA 6 Leaker Report Concerning ‘Releasing The Build’ Has Been Removed",
@@ -27,13 +63,13 @@
       "confidence": "medium"
     },
     {
-      "id": "f733f7bf35ad5605909a367f556069f023ad277ba8eb6b36932f257973e25949",
-      "title": "GTA 6 Leaker Releases More Gameplay Videos Despite Rockstar Owner Take-Two's Microsoft and Discord Subpoenas",
+      "id": "709eeac4d99c5878beb554b3d3e5fef9a0881205b8118e576f130c692f781aad",
+      "title": "[UPDATE] GTA 6 Leaker Shows No Sign of Slowing Down as Ninth Gameplay Video Hits the Internet",
       "source": "IGN",
       "sourceId": "ign",
-      "category": "News",
+      "category": "Leak",
       "publishedAt": "2026-08-22T22:16:40Z",
-      "description": "The alleged GTA 6 leaker has released two further gameplay videos despite Rockstar owner Take-Two's subpoenas requesting identifying information from Microsoft and Discord.",
+      "description": "The GTA 6 leaks have stretched into a sixth consecutive day, as the person or group responsible shows no sign of slowing down even in the face of court action from Rockstar parent company Take-Two.",
       "image": "https://assets-prd.ignimgs.com/2026/08/22/ultimate-edition-hawk-and-little-morgan-revolvers-01-1787436750506.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
       "confidence": "high"
@@ -123,18 +159,6 @@
       "confidence": "high"
     },
     {
-      "id": "5e67d8240baafe6c0cd1dfbcc075b37c5c31319ca5f6fc6e28aa512190836cc5",
-      "title": "Rockstar Won’t Delay GTA 6 Gameplay Reveal After Leaks",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T20:45:19Z",
-      "description": "Rockstar reportedly has not identified the GTA 6 leaker, but it does not plan to move its gameplay premiere or change its marketing strategy.\nThe post Rockstar Won’t Delay GTA 6 Gameplay Reveal After Leaks appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/06/How-to-Pre-Order-GTA-6—Grand-Theft-Auto-6-Pre-Order-Date-More-guide-logo.jpg",
-      "url": "https://insider-gaming.com/rockstar-has-not-identified-gta-6-leaker/",
-      "confidence": "high"
-    },
-    {
       "id": "f275515370076acfa82718cfd7dc344f552f4af8b1fa8109e7c34f5272694f7b",
       "title": "Rockstar reportedly furious by GTA 6 leaks but won’t change Netflix premiere date",
       "source": "Dexerto",
@@ -145,18 +169,6 @@
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/21/gta-6-netflix-leaked-gameplay.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/rockstar-reportedly-furious-by-gta-6-leaks-but-wont-change-netflix-premiere-date-3401043/",
       "confidence": "medium"
-    },
-    {
-      "id": "5fe847738f0f269802d6329579268bed81f68ae30fb26e96f50c6818863ffd64",
-      "title": "Rockstar Are “Angry” And Can’t Find The GTA 6 Leaker Sources Say",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T19:43:43Z",
-      "description": "Rockstar Games are extremely upset over the recent GTA 6 leak but will it change their approach as we close in on launch? At this moment, they are standing firm. According to the ever reliable Jason Schreier on Bloomberg, Rockstar Games and Take-Two are yet to have found the identity of the leake...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Jason_Duval_04-scaled.jpg",
-      "url": "https://rockstarintel.com/rockstar-are-angry-and-cant-find-the-gta-6-leaker-sources-say/",
-      "confidence": "high"
     },
     {
       "id": "3ab8017be0a5584c5277401f3b73d6ef97073a7c415337c32c840456f72486e5",
@@ -229,18 +241,6 @@
       "image": "https://www.videogameschronicle.com/files/2026/08/pod-185.jpg",
       "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-leaks-are-everywhere-what-will-rockstar-do-next/",
       "confidence": "high"
-    },
-    {
-      "id": "66563cb1c15ebc214fe7c2a1cb7e6e9bf2925ad736b8dd6c1eb464a09b6d9b73",
-      "title": "Take-Two subpeonas Microsoft and Discord in hunt for GTA 6 leaker",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-08-21T14:59:30Z",
-      "description": "Take-Two wants account records, Xbox links, device telemetry and OneDrive files as it attempts to identify the person behind the Cyberleek GTA 6 leaks.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/21/gta-6-subpoena-manhunt-leaks.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/take-two-subpeonas-microsoft-and-discord-in-hunt-for-gta-6-leaker-3400924/",
-      "confidence": "medium"
     }
   ]
 }
