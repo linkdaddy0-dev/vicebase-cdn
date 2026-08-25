@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dataset": "characters",
-    "version": "1.0.0",
-    "generatedAt": "2026-06-27T00:00:00Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-08-25T00:00:00Z",
     "language": "en",
     "region": "global",
     "verified": true,
@@ -13,7 +13,7 @@
       "id": "character_lucia",
       "slug": "lucia",
       "title": "Lucia Caminos",
-      "description": "One of the two main playable protagonists of Grand Theft Auto VI, seen in Trailer 1 wearing prison attire and cooperating with Jason.",
+      "description": "Lucia Caminos learned to fight from her father at an early age, and life has continued to test her ever since. Protecting her family ultimately led to time in the Leonida Penitentiary, but after her release she is determined to build a better future through careful planning rather than reckless choices. Inspired by the life her mother always dreamed of since their days in Liberty City, Lucia is prepared to take control of her own destiny. Together with Jason, she sees a chance to change the odds in her favor.",
       "status": "official",
       "tags": [
         "protagonist",
@@ -35,23 +35,23 @@
       "gender": "female",
       "role": "protagonist",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/4.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/5.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/6.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia/gallery/7.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/4.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/5.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/6.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia/gallery/7.webp"
       ]
     },
     {
       "id": "character_jason",
       "slug": "jason",
       "title": "Jason Duval",
-      "description": "Jason knows how he'd like it to turn out but right now, it's hard to tell. Jason wants an easy life, but things just keep getting harder.",
+      "description": "Jason Duval has spent most of his life surrounded by grifters and criminals. Hoping to leave his troubled past behind, he enlisted in the Army, but eventually found himself back in familiar territory, working for drug runners in the Florida Keys. Jason longs for a simpler, more stable life, yet every decision seems to pull him deeper into danger. Meeting Lucia may be his greatest opportunity for a fresh start—or the beginning of an even more complicated future.",
       "status": "official",
       "tags": [
         "protagonist",
@@ -73,16 +73,16 @@
       "gender": "male",
       "role": "protagonist",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/4.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/5.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/6.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason/gallery/7.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/4.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/5.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/6.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason/gallery/7.webp"
       ]
     },
     {
@@ -111,14 +111,14 @@
       "gender": "female",
       "role": "protagonist",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_retro_dress/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_retro_dress/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_retro_dress/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_retro_dress/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_retro_dress/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_retro_dress/gallery/4.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_retro_dress/gallery/5.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_retro_dress/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_retro_dress/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_retro_dress/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_retro_dress/gallery/4.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_retro_dress/gallery/5.webp"
       ]
     },
     {
@@ -147,14 +147,14 @@
       "gender": "male",
       "role": "protagonist",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_retro_suit/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_retro_suit/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_retro_suit/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_retro_suit/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_retro_suit/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_retro_suit/gallery/4.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_retro_suit/gallery/5.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_retro_suit/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_retro_suit/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_retro_suit/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_retro_suit/gallery/4.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_retro_suit/gallery/5.webp"
       ]
     },
     {
@@ -164,7 +164,7 @@
       "description": "Lucia dressed in the custom Macca the Gator capsule collection apparel.",
       "status": "official",
       "tags": [
-        "preorder",
+        "ultimate",
         "female",
         "outfit"
       ],
@@ -183,10 +183,10 @@
       "gender": "female",
       "role": "protagonist",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_macca_gear/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_macca_gear/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/lucia_macca_gear/gallery/1.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lucia_macca_gear/gallery/1.webp"
       ]
     },
     {
@@ -196,7 +196,7 @@
       "description": "Jason dressed in the custom Macca the Gator capsule collection apparel.",
       "status": "official",
       "tags": [
-        "preorder",
+        "ultimate",
         "male",
         "outfit"
       ],
@@ -215,10 +215,10 @@
       "gender": "male",
       "role": "protagonist",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_macca_gear/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_macca_gear/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/jason_macca_gear/gallery/1.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/jason_macca_gear/gallery/1.webp"
       ]
     },
     {
@@ -247,13 +247,13 @@
       "gender": "male",
       "role": "npc",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/cal_hampton/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/cal_hampton/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/cal_hampton/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/cal_hampton/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/cal_hampton/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/cal_hampton/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/cal_hampton/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/cal_hampton/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/cal_hampton/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/cal_hampton/gallery/4.webp"
       ]
     },
     {
@@ -282,13 +282,13 @@
       "gender": "male",
       "role": "npc",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/boobie_ike/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/boobie_ike/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/boobie_ike/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/boobie_ike/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/boobie_ike/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/boobie_ike/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/boobie_ike/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/boobie_ike/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/boobie_ike/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/boobie_ike/gallery/4.webp"
       ]
     },
     {
@@ -316,20 +316,20 @@
       "gender": "male",
       "role": "npc",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/raul_bautista/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/raul_bautista/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/raul_bautista/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/raul_bautista/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/raul_bautista/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/raul_bautista/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/raul_bautista/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/raul_bautista/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/raul_bautista/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/raul_bautista/gallery/4.webp"
       ]
     },
     {
       "id": "character_brian_heder",
       "slug": "brian-heder",
       "title": "Brian Heder",
-      "description": "A classic drug runner from the golden age of smuggling in the Keys. Still runs product through his boat yard and lets Jason live rent-free.",
+      "description": "A classic drug runner from the golden age of smuggling in the Keys. Still moving product through his boat yard with his third wife Lori, Brian has been around long enough to let others do his dirty work. He lets Jason live rent-free at one of his properties — so long as Jason helps with local shakedowns.",
       "status": "official",
       "tags": [
         "npc",
@@ -351,25 +351,28 @@
       "gender": "male",
       "role": "npc",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/brian_heder/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/brian_heder/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/brian_heder/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/brian_heder/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/brian_heder/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/brian_heder/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/brian_heder/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/brian_heder/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/brian_heder/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/brian_heder/gallery/4.webp"
       ]
     },
     {
       "id": "character_real_dimez",
       "slug": "real-dimez",
       "title": "Real Dimez",
-      "description": "Bae-Luxe and Roxy, high school friends turned local rap duo and social media influencers who leverage spicy tracks and social media.",
+      "description": "Bae-Luxe and Roxy, high school friends turned local rap duo and social media influencers. An early hit single with local rapper DWNPLY took them to new heights; five years and a whole lot of trouble later, they are signed to Dre'Quan Priest's Only Raw Records, hoping lightning strikes twice.",
       "status": "official",
       "tags": [
         "npc",
         "female",
-        "music"
+        "music",
+        "Bae-Luxe",
+        "Roxy",
+        "Only Raw Records"
       ],
       "relationships": {
         "locations": [
@@ -386,13 +389,13 @@
       "gender": "female",
       "role": "npc",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/real_dimez/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/real_dimez/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/real_dimez/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/real_dimez/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/real_dimez/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/real_dimez/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/real_dimez/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/real_dimez/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/real_dimez/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/real_dimez/gallery/4.webp"
       ]
     },
     {
@@ -421,14 +424,82 @@
       "gender": "male",
       "role": "npc",
       "voiceActor": null,
-      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/drequan_priest/card.webp",
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/drequan_priest/card.webp",
       "videoUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "gallery": [
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/drequan_priest/gallery/1.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/drequan_priest/gallery/2.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/drequan_priest/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/v1.0.24/media/characters/drequan_priest/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/drequan_priest/gallery/1.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/drequan_priest/gallery/2.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/drequan_priest/gallery/3.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/drequan_priest/gallery/4.webp"
       ]
+    },
+    {
+      "id": "character_lori_heder",
+      "slug": "lori-heder",
+      "title": "Lori Heder",
+      "description": "Brian Heder's third wife, named on Rockstar's official site. She is part of life at Brian's boat yard in the Keys, where he still moves product — and her sangria is reason enough for Jason to stop by once in a while.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "female",
+        "keys"
+      ],
+      "relationships": {
+        "characters": [
+          "character_brian_heder",
+          "character_jason"
+        ],
+        "locations": [
+          "location_leonida_keys"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "1.1.0",
+      "gender": "female",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/lori_heder/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+      "gallery": []
+    },
+    {
+      "id": "character_dwnply",
+      "slug": "dwnply",
+      "title": "DWNPLY",
+      "description": "A local Vice City rapper named on Rockstar's official site. An early hit single with the Real Dimez took the duo to new heights around five years before the events of the game, back before they signed to Only Raw Records.",
+      "status": "official",
+      "tags": [
+        "npc",
+        "male",
+        "music",
+        "vice_city"
+      ],
+      "relationships": {
+        "characters": [
+          "character_real_dimez"
+        ],
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Only in Leonida",
+      "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "1.1.0",
+      "gender": "male",
+      "role": "npc",
+      "voiceActor": null,
+      "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/characters/dwnply/card.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+      "gallery": []
     }
   ]
 }

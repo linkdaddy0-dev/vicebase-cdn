@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dataset": "news",
-    "version": "1.0.0",
-    "generatedAt": "2026-06-27T00:00:00Z",
+    "version": "2.1.0",
+    "generatedAt": "2026-08-25T00:00:00Z",
     "language": "en",
     "region": "global",
     "verified": true,
@@ -10,15 +10,47 @@
   },
   "items": [
     {
-      "id": "news_release_date",
-      "slug": "official-announcement-news",
-      "title": "Rockstar Games Announces Grand Theft Auto VI",
-      "description": "Rockstar Games announced that Grand Theft Auto VI is coming in 2025 to PlayStation 5 and Xbox Series X|S systems.",
+      "id": "news_extended_look",
+      "slug": "an-extended-look-august-27",
+      "title": "GTA VI: An Extended Look Premieres August 27 on Netflix",
+      "description": "Rockstar Games announced Grand Theft Auto VI: An Extended Look, the first new footage since Trailer 2. It premieres on Netflix on Thursday, August 27 at 3 PM ET, then launches on the Rockstar Games YouTube channel and the official GTA VI site at 9 PM ET the same day.\n\nNetflix subscribers get the presentation six hours before the worldwide YouTube release.",
       "status": "official",
       "tags": [
-        "announcement",
-        "platforms",
-        "console"
+        "extended-look",
+        "trailer",
+        "netflix",
+        "announcement"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ],
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/9k2kaa1o3297k9/grand-theft-auto-vi-an-extended-look",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "2.1.0",
+      "publishDate": "2026-08-06",
+      "author": "Rockstar Games Newswire",
+      "summary": "An Extended Look at Grand Theft Auto VI debuts August 27 — Netflix at 3 PM ET, then YouTube and the GTA VI site at 9 PM ET."
+    },
+    {
+      "id": "news_date_locked",
+      "slug": "november-19-locked-in",
+      "title": "November 19 Launch Locked In",
+      "description": "Take-Two Interactive has repeatedly reaffirmed the November 19, 2026 launch date across its 2026 investor updates, with CEO Strauss Zelnick tying record fiscal-year projections to the release. The company says the game remains on schedule, and no further delays are planned.",
+      "status": "official",
+      "tags": [
+        "release-date",
+        "take-two",
+        "announcement"
       ],
       "relationships": {
         "locations": [
@@ -26,21 +58,148 @@
         ]
       },
       "verified": true,
-      "source": "Rockstar Games Newswire Announcement",
-      "sourceUrl": "https://www.rockstargames.com/newswire/article/o3a32k39o88382/grand-theft-auto-vi-official-announcement",
-      "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
-      "version": "1.0.0",
-      "publishDate": "2023-12-05",
-      "author": "Rockstar Games Newswire Editor",
-      "summary": "Rockstar Games details the official announcement of Grand Theft Auto VI, confirming the state of Leonida, PS5 and Xbox Series X|S support."
+      "source": "Take-Two Interactive",
+      "sourceUrl": "https://www.take2games.com/ir",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "2.1.0",
+      "publishDate": "2026-08-07",
+      "author": "Take-Two Interactive",
+      "summary": "Take-Two keeps reaffirming November 19, 2026 in earnings updates — the date is locked and no further delays are planned."
+    },
+    {
+      "id": "news_physical_preload",
+      "slug": "physical-editions-november-12",
+      "title": "Physical Editions Arrive November 12 for Preloading",
+      "description": "Physical copies of Grand Theft Auto VI reach retail on November 12, one week before launch. The box contains a download code rather than a disc, so players can install and preload the game's large download ahead of the November 19 release.",
+      "status": "official",
+      "tags": [
+        "pre-order",
+        "physical",
+        "preload"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "2.1.0",
+      "publishDate": "2026-06-25",
+      "author": "Rockstar Games",
+      "summary": "Physical editions hit shelves November 12 with a download code inside, giving players a week to install and preload before launch."
+    },
+    {
+      "id": "news_trailer_music",
+      "slug": "sound-of-leonida-confirmed-songs",
+      "title": "The Sound of Leonida: Every Song Confirmed So Far",
+      "description": "Six licensed tracks have been heard across Rockstar's official trailers and site videos so far: Love Is a Long Road by Tom Petty (Trailer 1), Hot Together by The Pointer Sisters (Trailer 2), Everybody Have Fun Tonight by Wang Chung, Talkin' to Myself Again by Tammy Wynette, Thunder Island by Jay Ferguson, and Child Support by Zenglen.\n\nThe full radio station lineup and soundtrack remain unannounced — expect the complete reveal closer to launch.",
+      "status": "official",
+      "tags": [
+        "music",
+        "radio",
+        "soundtrack"
+      ],
+      "relationships": {
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games official trailers",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "2.1.0",
+      "publishDate": "2026-08-25",
+      "author": "ViceBase Research",
+      "summary": "Six songs are confirmed via official trailers, from Tom Petty to Zenglen. The full radio lineup is still under wraps."
+    },
+    {
+      "id": "news_ps5_features",
+      "slug": "ps5-features-confirmed",
+      "title": "PS5 Features Confirmed: 3D Audio, Haptics, Near-Instant Loads",
+      "description": "The official PlayStation product page, linked from Rockstar's GTA VI site, confirms platform features: near-instant load times via the PS5 SSD, Tempest 3D Audio positioning, and full DualSense support — haptic feedback that reacts to your choices and environment, adaptive trigger resistance, and effects through the controller speaker.\n\nThe store listing describes Grand Theft Auto VI as a single-player experience.",
+      "status": "official",
+      "tags": [
+        "ps5",
+        "features",
+        "platforms"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "PlayStation official product page",
+      "sourceUrl": "https://www.playstation.com/en-us/games/grand-theft-auto-vi/",
+      "createdAt": "2026-08-25T00:00:00Z",
+      "updatedAt": "2026-08-25T00:00:00Z",
+      "verifiedAt": "2026-08-25T00:00:00Z",
+      "version": "2.1.0",
+      "publishDate": "2026-06-25",
+      "author": "PlayStation",
+      "summary": "Official PS5 feature list: near-instant SSD loading, Tempest 3D Audio, DualSense haptics, adaptive triggers, and controller speaker effects."
+    },
+    {
+      "id": "news_launch_date",
+      "slug": "release-date-revealed",
+      "title": "Grand Theft Auto VI Launches November 19, 2026",
+      "description": "Rockstar Games has confirmed that Grand Theft Auto VI will launch worldwide on Thursday, November 19, 2026 for PlayStation 5 and Xbox Series X|S. Announcing the move from the previous May 26, 2026 date, Rockstar said the extra months would allow the team to finish the game with the level of polish players have come to expect.",
+      "status": "official",
+      "tags": [
+        "release-date",
+        "announcement"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
+      "publishDate": "2025-11-06",
+      "author": "Rockstar Games Newswire",
+      "summary": "The final confirmed worldwide launch date for Grand Theft Auto VI is November 19, 2026, on PS5 and Xbox Series X|S."
+    },
+    {
+      "id": "news_editions_pricing",
+      "slug": "editions-and-pricing",
+      "title": "Standard and Ultimate Editions Detailed",
+      "description": "Grand Theft Auto VI is available in two editions. The Standard Edition includes the full game and is sold digitally and as a physical release. The Ultimate Edition is digital only and adds premium vehicles, personalised weapons, exclusive apparel and tattoos, and Ultimate-only businesses threaded through the story. Every pre-order placed before November 20, 2026 also includes the Vintage Vice City Pack.",
+      "status": "official",
+      "tags": [
+        "editions",
+        "pricing",
+        "pre-order"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
+      "publishDate": "2026-06-25",
+      "author": "Rockstar Games Newswire",
+      "summary": "Standard Edition USD 79.99, Ultimate Edition USD 99.99 (digital only). Pre-orders before November 20, 2026 include the Vintage Vice City Pack."
     },
     {
       "id": "news_pre_orders",
       "slug": "pre-orders-live",
       "title": "Vintage Vice City Pre-Order Pack",
-      "description": "Welcome back to Vice city.\n\nFeaturing a timeless ’55 Vapid Stanier sedan and garage alongside Ocean Beach, decadent outfits and hairstyles for both Jason and Lucia, and an iconic weapon pattern that echoes the excess of the past.",
+      "description": "Welcome back to Vice City.\n\nFeaturing a timeless ’55 Vapid Stanier sedan and garage alongside Ocean Beach, decadent outfits and hairstyles for both Jason and Lucia, and an iconic weapon pattern that echoes the excess of the past.",
       "status": "official",
       "tags": [
         "pre-order",
@@ -56,39 +215,13 @@
       "verified": true,
       "source": "Rockstar Games Newswire",
       "sourceUrl": "https://www.rockstargames.com/VI",
-      "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
-      "version": "1.0.0",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
       "publishDate": "2026-06-25",
-      "author": "Rockstar Games Newswire Editor",
-      "summary": "Secure exclusive in-game items including the '55 Vapid Stanier sedan, Shore Court garage, retro curls and sequin dress, and Tommy Vercetti-inspired tropical weapon skin."
-    },
-    {
-      "id": "news_launch_date",
-      "slug": "release-date-revealed",
-      "title": "Grand Theft Auto VI Launches November 19, 2026",
-      "description": "Rockstar Games has officially confirmed that Grand Theft Auto VI will launch worldwide on November 19, 2026 for PlayStation 5 and Xbox Series X|S.",
-      "status": "official",
-      "tags": [
-        "release-date",
-        "announcement"
-      ],
-      "relationships": {
-        "locations": [
-          "location_leonida"
-        ]
-      },
-      "verified": true,
-      "source": "Rockstar Games Newswire",
-      "sourceUrl": "https://www.rockstargames.com/VI",
-      "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
-      "version": "1.0.0",
-      "publishDate": "2026-05-15",
-      "author": "Rockstar Games Newswire Editor",
-      "summary": "Rockstar Games reveals the official worldwide launch date of November 19, 2026 for Grand Theft Auto VI."
+      "author": "Rockstar Games Newswire",
+      "summary": "Secure exclusive in-game items including the '55 Vapid Stanier sedan, Shore Court garage, retro curls and sequin dress, and a tropical weapon pattern."
     },
     {
       "id": "news_ultimate_edition",
@@ -110,19 +243,47 @@
       "verified": true,
       "source": "Rockstar Games Newswire",
       "sourceUrl": "https://www.rockstargames.com/VI",
-      "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
-      "version": "1.0.0",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
       "publishDate": "2026-06-27",
-      "author": "Rockstar Games Newswire Editor",
-      "summary": "Dive into the details of the GTA VI Ultimate Edition, highlighting exclusive salons, mod shops, outfits, and classic car commissions."
+      "author": "Rockstar Games Newswire",
+      "summary": "Details of the GTA VI Ultimate Edition, including the '95 Grotti Cheetah, Shitzu Squalo, '67 Vapid Dominator Buggy, Rideout Customs and Sara's Unisex Salon."
+    },
+    {
+      "id": "news_cover_art",
+      "slug": "cover-art-revealed",
+      "title": "Official Cover Art and Logo Revealed",
+      "description": "Rockstar Games revealed the official cover art and updated logo for Grand Theft Auto VI, ahead of pre-orders opening the following week.",
+      "status": "official",
+      "tags": [
+        "cover-art",
+        "branding",
+        "announcement"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games",
+      "sourceUrl": "https://www.rockstargames.com/VI",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
+      "publishDate": "2026-06-18",
+      "author": "Rockstar Games Newswire",
+      "summary": "Rockstar Games unveils the Grand Theft Auto VI cover art and refreshed series logo."
     },
     {
       "id": "news_trailer_2",
       "slug": "trailer-2-released",
       "title": "Grand Theft Auto VI Official Trailer 2 Out Now",
-      "description": "Watch the second official trailer for Grand Theft Auto VI now. Get a closer look at the state of Leonida, character interactions, and the crime-ridden streets of Vice City.",
+      "description": "Watch the second official trailer for Grand Theft Auto VI. Get a closer look at the state of Leonida, the relationship between Jason and Lucia, and the supporting cast running the crime-ridden streets of Vice City.",
       "status": "official",
       "tags": [
         "trailer",
@@ -137,14 +298,64 @@
       },
       "verified": true,
       "source": "Rockstar Games Newswire",
-      "sourceUrl": "https://youtu.be/VQRLujxTm3c?si=Ggsw5DtzgJ9dM4XM",
-      "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
-      "version": "1.0.0",
-      "publishDate": "2026-06-27",
-      "author": "Rockstar Games Newswire Editor",
-      "summary": "Watch the second official trailer for GTA VI, showing off high-octane gameplay, custom modifications, and new story details."
+      "sourceUrl": "https://www.youtube.com/watch?v=VQRLujxTm3c",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
+      "publishDate": "2025-05-06",
+      "author": "Rockstar Games Newswire",
+      "summary": "The second official trailer for GTA VI, showing more of Leonida and the game's supporting cast."
+    },
+    {
+      "id": "news_delay_may_2026",
+      "slug": "delay-to-may-2026",
+      "title": "Release Date Moved to May 26, 2026",
+      "description": "Rockstar Games announced that Grand Theft Auto VI would move out of its 2025 window to May 26, 2026. The date was later revised again to November 19, 2026.",
+      "status": "official",
+      "tags": [
+        "release-date",
+        "delay",
+        "announcement"
+      ],
+      "relationships": {},
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/258aa538o412ok/grand-theft-auto-vi-is-now-coming-may-26-2026",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
+      "publishDate": "2025-05-02",
+      "author": "Rockstar Games Newswire",
+      "summary": "The first of two delays: Grand Theft Auto VI moved from 2025 to May 26, 2026."
+    },
+    {
+      "id": "news_announcement",
+      "slug": "official-announcement-news",
+      "title": "Grand Theft Auto VI Announced",
+      "description": "Rockstar Games announced Grand Theft Auto VI alongside its first trailer, confirming the fictional state of Leonida, a return to Vice City, and a launch on PlayStation 5 and Xbox Series X|S. The release window given at announcement was 2025; it has since been revised twice and is now November 19, 2026.",
+      "status": "official",
+      "tags": [
+        "announcement",
+        "platforms",
+        "console"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/o3a32k39o88382/grand-theft-auto-vi-official-announcement",
+      "createdAt": "2026-07-26T00:00:00Z",
+      "updatedAt": "2026-07-26T00:00:00Z",
+      "verifiedAt": "2026-07-26T00:00:00Z",
+      "version": "2.0.0",
+      "publishDate": "2023-12-04",
+      "author": "Rockstar Games Newswire",
+      "summary": "The original announcement of Grand Theft Auto VI, confirming Leonida, Vice City, and PS5 / Xbox Series X|S."
     }
   ]
 }

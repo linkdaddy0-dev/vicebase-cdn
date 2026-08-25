@@ -1,29 +1,29 @@
 {
-  "contentVersion": "6.0.0",
-  "generatedAt": "2026-06-27T19:27:56.395Z",
+  "contentVersion": "7.0.0",
+  "generatedAt": "2026-08-25T08:05:33.000Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
       "id": "locations",
       "version": "1.0.0",
       "file": "content/locations/locations.json",
-      "checksum": "b77e285db8169c796cd9a73d44d3e853c3700c2f62f94db283e863ab02b41f21",
+      "checksum": "9a85cd22310998cf8d8916cf6e8b068acdd9316b5fd0d56abba28ebeefdcf563",
       "records": 14,
       "dependsOn": []
     },
     {
       "id": "characters",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "file": "content/characters/characters.json",
-      "checksum": "749d442fd402dc662c1c6a6085d773c203c4536a52d77e05c2259898d5ba18ec",
-      "records": 12,
+      "checksum": "b9793f73361d165c65e4ea745da5f634a63692ab4195244e0fccbe556ad38780",
+      "records": 14,
       "dependsOn": []
     },
     {
       "id": "vehicles",
       "version": "1.0.0",
       "file": "content/vehicles/vehicles.json",
-      "checksum": "06df875c53467591eb97c146a9fe06fbafdbd5c24ba90065d0ba4f1ffa2b889b",
+      "checksum": "c03523a2cbc46001a5f5877a8f66e9eef8c16db7100ba6ae3c5eec15592c618a",
       "records": 8,
       "dependsOn": []
     },
@@ -31,16 +31,16 @@
       "id": "weapons",
       "version": "1.0.0",
       "file": "content/weapons/weapons.json",
-      "checksum": "0bd3c96e4bb8337d3a41cce7979756a470175c37b3832e2d3359c070509a070a",
+      "checksum": "7482fa7f4d525ef7cfa4b15fcf236aa62a95f5c76f184852be04f05a8cf617e2",
       "records": 4,
       "dependsOn": []
     },
     {
       "id": "timeline",
-      "version": "1.0.0",
+      "version": "2.1.0",
       "file": "content/timeline/timeline.json",
-      "checksum": "b4be84730803dc578c103e69d717d8cc6e363da03bca322a4763b1cef13cf61a",
-      "records": 2,
+      "checksum": "370d8d4b89974144e40327967026d481e48c55074d6922d0a933bc5de4fbacbc",
+      "records": 9,
       "dependsOn": [
         "characters",
         "locations"
@@ -48,10 +48,10 @@
     },
     {
       "id": "news",
-      "version": "1.0.0",
+      "version": "2.1.0",
       "file": "content/news/news.json",
-      "checksum": "da27a3a66e62c70439318ecafd51be2db92134358a3ca412e481b157072c1422",
-      "records": 5,
+      "checksum": "ce6ca2ce447d00efc48d4d1c87fefa3e2e44bc14340196758e29dadab1eb4a23",
+      "records": 13,
       "dependsOn": [
         "characters",
         "locations"
