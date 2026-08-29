@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-08-28T19:51:54Z",
+  "lastUpdated": "2026-08-29T13:35:28Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "ec59e481c1342b0a44a6b3d4987f3e3859b6c9a066bbfce21b00290c0134a3d0",
+      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-08-29T12:09:49Z",
+      "description": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6. Read more",
+      "image": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
+      "confidence": "high"
+    },
+    {
+      "id": "ac08f1b7dc28191d78c3cd418ddc6780b1b09dcb85b46b2ae3655cac96b06575",
+      "title": "GTA 6 fan tracks down Jason & Lucia’s real-life apartment years after it was demolished",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-29T11:03:26Z",
+      "description": "A GTA 6 sleuth has tracked down the exact real-life Miami building Rockstar used as the reference for Jason and Lucia’s apartment in the game’s trailer.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/29/Jason-and-Lucias-Apartment.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-fan-tracks-down-jason-lucias-real-life-apartment-years-after-it-was-demolished-3403686/",
+      "confidence": "medium"
+    },
+    {
+      "id": "b26335808e378dab045b7c32651083b07fac791c7cfac3f439b49f3b00451ea0",
+      "title": "GTA 6 Launch Could Cost the US Economy Over $1 Billion",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-08-29T11:02:19Z",
+      "description": "GTA 6 is shaping up to cost the United States&#8217; economy more than $1 billion on launch day according to a new report. With any popular video game, there&#8217;s always a joke (some some actual action) that fans will lie about being ill to take the day off for release day. Some even use PTO [...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/GTA-VI-TRAILER-3-REACTION-INFO-ESCLUSIVE-Ne-Posso-Parlare-00-35-41-copy.webp",
+      "url": "https://rockstarintel.com/gta-6-launch-could-cost-the-us-economy-over-1-billion/",
+      "confidence": "high"
+    },
+    {
+      "id": "5c4b8583b9d4fefb92d4de1251e226f7ea10b2b75777ca33dc2ca7c2b6b6b5d6",
+      "title": "GTA 6: An Extended Look – All Music confirmed from the 26 minute gameplay",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-08-29T10:33:48Z",
+      "description": "A couple of days ago, Netflix and Rockstar Games, revealed 26 Minutes of gameplay of Grand Theft Auto VI for us all to watch, and to say the least, its left our jaws on the ground. During the Extended Look, there was quite a few different songs that played throughout. We have another page which [...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/mega-9-1787855280117-scaled.jpeg",
+      "url": "https://rockstarintel.com/gta-6-an-extended-look-all-music-confirmed-from-the-26-minute-gameplay/",
+      "confidence": "high"
+    },
+    {
+      "id": "aa57c521f6c533c824812ad1f06ff6a22bc1b6b21c4bf885d3d0830a49a0137d",
+      "title": "Podcast: Live reaction from Gamescom and GTA 6’s big reveal",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "News",
+      "publishedAt": "2026-08-29T10:09:39Z",
+      "description": "The VGC team share their thoughts on the big GTA reveal, plus live reporting from Gamescom",
+      "image": "https://www.videogameschronicle.com/files/2026/08/Screenshot-2026-08-29-110645.jpg",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-live-reaction-from-gamescom-and-gta-6s-big-reveal/",
+      "confidence": "high"
+    },
+    {
+      "id": "907df1928c83d65348a262c569d0c891c03dcb182c6d6696e2e744ffd611de20",
+      "title": "GTA 6 Has A Technical Problem And Rockstar Can’t Seem To Fix It",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-08-29T09:31:53Z",
+      "description": "There&#8217;s a technical issue with GTA 6 and it&#8217;s probably not going to be fixed for when the game launches on November 19th. We&#8217;ll be delving into this problem and why we won&#8217;t see it resolved. Hold on, before anyone gets upset this is something fans like myself want to talk ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/658564798567959-1280.webp",
+      "url": "https://rockstarintel.com/gta-6-has-a-technical-problem-and-rockstar-cant-seem-to-fix-it/",
+      "confidence": "high"
+    },
+    {
+      "id": "36894736b7c857cd4d5c96088d884774ccfb64d96660df86dea66d72ce90ed93",
+      "title": "Talking Point: What Are You Playing This Weekend? - Issue 647",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-29T09:30:00Z",
+      "description": "In good company.That marks the end of a busy week, packed with Gamescom announcements and GTA 6 gameplay footage. Let's decompress with some games, eh?Jamie O'NeillSince I'm staying with family, it's an assortment of PS Vita games entertaining me at the moment. Hopefully, I'll be able to catch up...",
+      "image": "https://images.pushsquare.com/8e500393dc2e3/small.jpg",
+      "url": "https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-6471",
+      "confidence": "medium"
+    },
+    {
+      "id": "49a459fe46919104e28d7b44c41bf9ac37a0a38b2f9d2c63f039804e457e875a",
+      "title": "Tech Experts Call Grand Theft Auto 6 The Most Visually Advanced Game To Date, Which Explains Why It’s Stuck At 30FPS",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-28T22:35:19Z",
+      "description": "Grand Theft Auto 6 has finally had its first big gameplay reveal, giving us our first real look at Rockstar's massive open-world and the amount of detail it holds. It's one that might be the most visually-impressive game we've ever seen, according to the experts at Digital Foundry.\n\n\n\nDigital Fou...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/tech-experts-call-grand-theft-auto-6-the-most-visually-advanced-game-to-date-which-explains-why-its-stuck-at-30fps/",
+      "confidence": "high"
+    },
+    {
+      "id": "15fefc5cca1b2ec22625eb9564367a67e35258222a18b0095814aa0c658dbb00",
+      "title": "GTA 6 fans convinced they already found a Dexter Easter Egg in Vice City",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-28T20:02:50Z",
+      "description": "GTA 6 fans believe Rockstar Games has quietly recreated Dexter Morgan’s iconic Miami apartment complex in Vice City.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/28/dexter-gta-6-easter-egg-discovery.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-fans-convinced-they-already-found-a-dexter-easter-egg-in-vice-city-3403612/",
+      "confidence": "medium"
+    },
+    {
+      "id": "0ae1fee62598a52ce0baf2bdc5ed0aefa934c971de83b66ad723bc97742c71ac",
+      "title": "Kick Streamer Neon Responds After Rockstar Seemingly Includes a Reference to Him in GTA 6 Netflix Showcase",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-28T19:42:32Z",
+      "description": "Prominent Kick streamer Neon has responded after Rockstar appeared to reference him in a side mission shown during their special GTA 6 first-look trailer on Netflix.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/28/kick-streamer-neon-responds-gta-6-reference-1787945831744.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/kick-streamer-neon-responds-after-rockstar-seemingly-includes-a-reference-to-him-in-gta-6-netflix-showcase",
+      "confidence": "high"
+    },
+    {
+      "id": "c89037e9a71d9d3890cc49ca14b057a88a9d57fb9d82bffaf5ff9ccefda7e94c",
+      "title": "Rockstar Approached Netflix for Exclusive GTA 6 Extended Look, Not the Other Way Around",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-28T19:40:15Z",
+      "description": "The big Grand Theft Auto 6 extended look (mostly) went off without a hitch, and apparently, it was Rockstar Games' idea to bring it to Netflix in the first place, not the other way around.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/rockstar-approached-netflix-for-exclusive-gta-6-extended-look-not-the-other-way-around",
+      "confidence": "high"
+    },
     {
       "id": "a1696a5c0bdf10dec7c08c1155b099ac8b566bf56b4381b34816e3ec882e2d9c",
       "title": "Fable Dev Happy About Delay To 2027 To Avoid “Chaotic Window,” And We All Know That Means GTA 6",
@@ -27,6 +159,18 @@
       "confidence": "high"
     },
     {
+      "id": "cd0076ef641dca37f795fbdccec919b3ebd827b6b1b545f3586e0551164f9f80",
+      "title": "Grand Theft Auto 6 Is Already Bringing Back Characters from GTA 5",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-28T17:43:33Z",
+      "description": "Grand Theft Auto 6 will feature at least one character from GTA Online.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6-is-already-bringing-back-characters-from-gta-5",
+      "confidence": "high"
+    },
+    {
       "id": "970425bb3d97fce42b774c98508724feadae3a904a3f2e68fdd6e4830fa07d77",
       "title": "GTA 6’s Long Wait Has People Realizing Their Own Mortality",
       "source": "GameSpot",
@@ -48,18 +192,6 @@
       "description": "The early stages of how Rockstar Games crafted GTA 6 have been revealed. In an interview with TroisCouleurs, Rob Nelson, Head of Development at Rockstar Games revealed just exactly how do Rockstar get started on making a game such as GTA VI and how they make it work. Nelson explains it starts off...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/08/mega-4-1787856672032-1280.webp",
       "url": "https://rockstarintel.com/heres-how-rockstar-started-making-gta-6/",
-      "confidence": "high"
-    },
-    {
-      "id": "7a905a7a3ef7c061119d6e89634eac075a4c09d138d81d9da35f9f48fc72c78a",
-      "title": "GTA 6 Lets You Throw Dog Poop At People",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-28T16:16:13Z",
-      "description": "A very important piece of news has come to light about GTA 6: You can pick up dog poop and throw it at people in the upcoming open-world crime game.\n\n\n\nYouTuber TGG visited Rockstar North's offices and spoke with the team, and one of the things he learned was how dog poop can be a weapon. \n\n\n\n\"If...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-lets-you-throw-dog-poop-at-people/",
       "confidence": "high"
     },
     {
@@ -109,138 +241,6 @@
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/28/gta-6-dog-poop-weapon-npc.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/gta-6-will-actually-let-you-use-dog-poop-as-a-weapon-3403483/",
       "confidence": "medium"
-    },
-    {
-      "id": "4946a51701b86f70858f5770bcbe18d2cfb3852f082f5e4f3138f768cdeaa521",
-      "title": "After GTA 6: Extended Look Showed Rockstar's Game Running at 30fps, Tech Experts Say a 60fps Console Version Is 'Extremely Unlikely' and 'Genuinely Challenging' Even on PC",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-28T13:58:30Z",
-      "description": "Getting Rockstar's hugely ambitious GTA 6 running at 60fps on current consoles will be \"extremely unlikely\", the tech experts at Digital Foundry have said, after analysis of footage from the Grand Theft Auto 6: Extended Look.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta6-satire-news-1787848953836.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/after-gta-6-extended-look-showed-rockstars-game-running-at-30fps-tech-experts-say-a-60fps-console-version-is-extremely-unlikely-and-genuinely-challenging-even-on-pc",
-      "confidence": "high"
-    },
-    {
-      "id": "ce4665d8f0e56a6680191dbbae3441e8dd74cb1f76e8254b0e9fde482fd951ee",
-      "title": "Rockstar says GTA 6 runs at 30 FPS, while it's reportedly unsure about a 60 FPS performance mode",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "Rumor",
-      "publishedAt": "2026-08-28T13:20:14Z",
-      "description": "UPDATE 3.30PM BST: Performance perfectionist Digital Foundry has scrutinised the latest GTA 6 trailer (which can be downloaded for a closer, purer appraisal) and said that on this evidence it looks like GTA 6 is running at 1440p natively on PS5 and maintains \"a relatively stable and well-paced 30...",
-      "image": "https://assetsio.gnwcdn.com/lucia-gta-6-car.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-frame-rate-ps5-xbox-series-x-s",
-      "confidence": "high"
-    },
-    {
-      "id": "c2d77237081f2a4aa334c48bc8b0978b99dc8a51112527e2b2d9bddb3cf91735",
-      "title": "GTA 6’s 30,000 calorie meat sandwich parody ad actually used Red Dead Redemption 2 as a backdrop",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-28T12:36:37Z",
-      "description": "Red Dead Redemption 2 was featured in Netflix's Grand Theft Auto 6: An Extended Look, but you probably missed it",
-      "image": "https://www.videogameschronicle.com/files/2026/08/Grand-Theft-Auto-VI_-An-Extended-Look-7-58-screenshot.jpg",
-      "url": "https://www.videogameschronicle.com/news/gta-6s-30000-calorie-meat-sandwich-parody-ad-actually-used-red-dead-redemption-2-as-a-backdrop/",
-      "confidence": "high"
-    },
-    {
-      "id": "1f2301d29cbc2a5d1b9ec645a14fabf002abaf26556b7cbc32db32404d173b3d",
-      "title": "GTA 6 Contains No Microtransactions or Generative AI, Rockstar Says",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-08-28T12:00:00Z",
-      "description": "Grand no theft auto.Amid all this new information and footage of GTA 6, the massively anticipated open world game, it's been reported that the game will not feature any microtransactions, nor has Rockstar Games used generative AI.This info comes via Kinda Funny Games as they discuss their preview...",
-      "image": "https://images.pushsquare.com/58d752f2492e2/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/08/gta-6-contains-no-microtransactions-or-generative-ai-rockstar-says",
-      "confidence": "medium"
-    },
-    {
-      "id": "836c5b07357b011ce563babf5d64c6ee3e05226764b8ee3e6ad2ea4406e4b148",
-      "title": "GTA 6 Extended Look Grew Netflix Viewing Figures By 35%",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-08-28T11:37:45Z",
-      "description": "GTA 6 had a massive effect on Netflix last night. Early data is in that shows how big Rockstar&#8217;s grand unveiling was. The Grand Theft Auto VI Extended Look premiered on Netflix on Thursday and it had a massive impact on the streaming giant. When fans first flocked to watch the video, it str...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/DAVY-JONES_GTAVI-scaled-1280.webp",
-      "url": "https://rockstarintel.com/gta-6-extended-look-grew-netflix-viewing-figures-by-35/",
-      "confidence": "high"
-    },
-    {
-      "id": "c83884a120534338157fdb1bcf9bb14867c4bbba3606a9d8786ac897b940deef",
-      "title": "GTA 6 takes iconic features from Red Dead Redemption 2 including Dead Eye & Honor System",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-28T11:26:57Z",
-      "description": "Here are all the Red Dead Redemption 2 features that have been spotted in GTA 6 so far.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/28/lucia-gta-6-arthur-rdr2.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-red-dead-redemption-2-features-3403329/",
-      "confidence": "medium"
-    },
-    {
-      "id": "86a8a4fb50572bc494d65b2e5041f0c9e73985162ca022f05eec6e2c80990b29",
-      "title": "GTA 6 is confirmed to run at 30 frames per second",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-28T11:23:43Z",
-      "description": "GTA 6 will be limited to 30 FPS on consoles, developer suggests",
-      "image": "https://www.videogameschronicle.com/files/2026/08/GTA-6_-Full-Netflix-Extended-Look-Gameplay-Trailer-6-49-screenshot.jpg",
-      "url": "https://www.videogameschronicle.com/news/gta-6-is-confirmed-to-be-30-frames-per-second-at-launch-no-performance-mode-at-launch/",
-      "confidence": "high"
-    },
-    {
-      "id": "564bc6480677f42bfc0870a7315d39d8b111bac0a48bb1a5f3e2aa327b87f404",
-      "title": "JasonTheWeen and Asmongold shocked as GTA 6 appears to feature N3on lookalike",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-28T10:58:33Z",
-      "description": "GTA 6 is bringing streaming culture into Leonida, and some of the biggest creators were stunned after spotting a familiar face during the reveal.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/28/gta-6-streamers-respond-n3on-lookalike.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/ishowspeed-and-kai-cenat-shocked-as-gta-6-appears-to-feature-n3on-lookalike-3403397/",
-      "confidence": "medium"
-    },
-    {
-      "id": "bdab12326fa516bc053b51c3c5a6ef357046e94420755bfc4b02967ac95d883c",
-      "title": "Rockstar Snuck Red Dead Redemption 2 Into Its GTA 6 Extended Look — And Of Course, Fans Spotted It Immediately",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-28T10:33:05Z",
-      "description": "Did you spot the world of Red Dead Redemption 2 in last night's GTA 6 Extended Look? Rockstar's cowboy epic made a brief appearance — and, of course, some fans spotted it immediately.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/28/grand-theft-auto-vi-an-extended-look-00-07-55-1787912153253.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/rockstar-snuck-red-dead-redemption-2-into-its-gta-6-extended-look-and-of-course-fans-spotted-it-immediately",
-      "confidence": "high"
-    },
-    {
-      "id": "3005542198aa85948dce68e0cb3b3b11e8d5873b769b35add02cca83069fd9d2",
-      "title": "Grand Theft Auto 6: Extended Look Sparks Netflix Viewership Spike, as Streamer Experiences Momentary Wobble",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-28T10:04:15Z",
-      "description": "Netflix US viewership spiked by 50% yesterday as Rockstar debuted its Grand Theft Auto 6: Extended Look.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta6-nervous-news-1787849001685.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-extended-look-sparks-netflix-viewership-spike-as-streamer-experiences-momentary-wobble",
-      "confidence": "high"
-    },
-    {
-      "id": "f569660e6941908f7fcf6656f5933dd152dc471a5d3a4931cc2635b893ba6419",
-      "title": "'We Just Have to Be Careful What We Pick': GTA 6 Won't Include Covid or Trump References That Could Become Dated, Rockstar Says",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-28T09:22:02Z",
-      "description": "Rockstar has discussed the need to \"be careful\" with its satirical take on American culture in GTA 6, when asked about including references to recent events such as the Covid pandemic and Donald Trump's presidency.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-gameplay-blog-1787861652027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/we-just-have-to-be-careful-what-we-pick-gta-6-wont-include-covid-or-trump-references-that-could-become-dated-rockstar-says",
-      "confidence": "high"
     }
   ]
 }
