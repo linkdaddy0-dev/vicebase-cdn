@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-08-29T13:35:28Z",
+  "lastUpdated": "2026-08-30T13:29:45Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "de647ca08e7a96edbb220fd66b5adf8c2e3efb35eafbe8790dc7be92f319caa1",
+      "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-08-30T10:48:08Z",
+      "description": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Lucia-Caminos.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
+      "confidence": "high"
+    },
+    {
+      "id": "8f1cd4c2df73047677cffecdf2e3a08cde0870bd5e34305a78b692f55c8e1b30",
+      "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-29T22:16:08Z",
+      "description": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/29/gta-6-microtransactions-ai-1788041234368.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
+      "confidence": "high"
+    },
+    {
+      "id": "eeaa825da2e49f4c1531800d92bfd2ae0401889e2702d7ed69dcc1668905b46d",
+      "title": "I'm Obsessed with GTA 6's Next-Gen Wanted System",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-29T21:00:00Z",
+      "description": "Here's what all the icons mean.I may be about to say something blasphemous, but one of my least favourite things about previous GTA games is escaping the cops.I know, it’s basically the entire point of the game, but I’ve just never found it fun. Once pursued, you basically just drive your car as ...",
+      "image": "https://images.pushsquare.com/815f96bb52b36/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/im-obsessed-with-gta-6s-next-gen-wanted-system",
+      "confidence": "medium"
+    },
+    {
+      "id": "3c1d9d8a5eb2f834abb96ee2490309675a8bee6672d9387d069e86a05594d6b3",
+      "title": "GTA 6 Developer Reaffirms The Game’s Release Date",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-08-29T18:52:47Z",
+      "description": "Rob Nelson of Rockstar North is again confirming that GTA 6 will not be delayed.\nThe post GTA 6 Developer Reaffirms The Game&#8217;s Release Date appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/06/GTA-6-Title.jpg",
+      "url": "https://insider-gaming.com/gta-6-developer-reaffirms-the-games-release-date/",
+      "confidence": "high"
+    },
+    {
+      "id": "1e56b5a01fa3a62b90f72ca1059239d8d38926eac475ee7194a014aed33cfced",
+      "title": "$900 PS5 Pro Selling Out During PlayStation Blackout Amid GTA 6 Fever",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-29T17:30:00Z",
+      "description": "No disc drive, no buy?Sony’s supercharged PS5 Pro hardware model is selling out in the US as GTA 6 fever takes hold – despite an ongoing blackout protest taking place against PlayStation hardware.Fans have mobilised to keep their consoles unplugged indefinitely, but such is the demand for the PS5...",
+      "image": "https://images.pushsquare.com/01df7d077eea0/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
+      "confidence": "medium"
+    },
+    {
+      "id": "9488479894d74aa2f69cb43e949adec284989b65328764a699356cc7c9e1cc7d",
+      "title": "xQc furious after being forced to take down GTA 6 VOD by Twitch",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-29T17:20:57Z",
+      "description": "xQc was told by Twitch to remove the VOD of his GTA 6 reaction, despite other streamers’ VODs still being available.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/03/10/xQc-GTA-6.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gaming/xqc-furious-after-being-forced-to-take-down-gta-6-vod-by-twitch-3403752/",
+      "confidence": "medium"
+    },
+    {
+      "id": "db126da589a602c4a960b85abaad08435b263bfda6ec48e9eb8f419e6e7ca7b4",
+      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-08-29T14:25:56Z",
+      "description": "Reaction streams to Grand Theft Auto 6's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-roundup-header-new.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
+      "confidence": "high"
+    },
     {
       "id": "ec59e481c1342b0a44a6b3d4987f3e3859b6c9a066bbfce21b00290c0134a3d0",
       "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
@@ -157,90 +241,6 @@
       "image": null,
       "url": "https://www.gamespot.com/articles/gta-6-looks-like-it-features-this-popular-tv-show-apartment/",
       "confidence": "high"
-    },
-    {
-      "id": "cd0076ef641dca37f795fbdccec919b3ebd827b6b1b545f3586e0551164f9f80",
-      "title": "Grand Theft Auto 6 Is Already Bringing Back Characters from GTA 5",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-28T17:43:33Z",
-      "description": "Grand Theft Auto 6 will feature at least one character from GTA Online.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-is-already-bringing-back-characters-from-gta-5",
-      "confidence": "high"
-    },
-    {
-      "id": "970425bb3d97fce42b774c98508724feadae3a904a3f2e68fdd6e4830fa07d77",
-      "title": "GTA 6’s Long Wait Has People Realizing Their Own Mortality",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-08-28T17:00:32Z",
-      "description": "You might expect people to talk about the visuals, lighting, action sequences, or gunplay after Grand Theft Auto VI's brand-new extended-look trailer showed off over 25 minutes of new footage. But the top comments on Rockstar's YouTube upload of the video deal more with the human condition than e...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6s-long-wait-has-people-realizing-their-own-mortality/",
-      "confidence": "high"
-    },
-    {
-      "id": "d4f164a4c0aa8dedbbadbd7c652453c2c97a9cb34da03cc4d2abfa23602b60f3",
-      "title": "Here’s How Rockstar Started Making GTA 6",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-08-28T16:29:12Z",
-      "description": "The early stages of how Rockstar Games crafted GTA 6 have been revealed. In an interview with TroisCouleurs, Rob Nelson, Head of Development at Rockstar Games revealed just exactly how do Rockstar get started on making a game such as GTA VI and how they make it work. Nelson explains it starts off...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/mega-4-1787856672032-1280.webp",
-      "url": "https://rockstarintel.com/heres-how-rockstar-started-making-gta-6/",
-      "confidence": "high"
-    },
-    {
-      "id": "bce91188700f6fac203dd0e9565b2bca44c75a589b26eb34d825c853cf36920c",
-      "title": "Game in development for 12 years delayed again because dev doesn’t want to compete with GTA 6",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-28T15:34:05Z",
-      "description": "Squadron 42 has been pushed into 2027 as Chris Roberts says he won’t launch the 12-year project into GTA 6’s “attention buzz saw.”",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/28/gta-6-star-citizen-delay.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/game-in-development-for-12-years-delayed-again-because-dev-doesnt-want-to-compete-with-gta-6-3403513/",
-      "confidence": "medium"
-    },
-    {
-      "id": "f79dd545cd72565e703f346fc1b4db0e46f1f785cdafcaf1b842d9fa9e393e8a",
-      "title": "Tech Experts Call GTA 6 'the Most Impressive Example of Real-Time Rendering We've Ever Seen'",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-08-28T15:15:00Z",
-      "description": "Digital Foundry weighs in.In case you hadn't noticed, GTA 6 just had its big gameplay blowout, and it looks pretty sensational.It's a seriously impressive-looking game, one that looks on par with some of PS5's most visually outstanding software — only set within a vast open world that's stuffed w...",
-      "image": "https://images.pushsquare.com/a8b2d7866d80c/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/08/tech-experts-call-gta-6-the-most-impressive-example-of-real-time-rendering-weve-ever-seen",
-      "confidence": "medium"
-    },
-    {
-      "id": "cb9b04194dae8fecc863c9aa577a39e4b5b22e76bf3f4b5f9c294495c05a74db",
-      "title": "Grand Theft Auto 6’s map is three times bigger than Red Dead Redemption 2",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-28T15:00:25Z",
-      "description": "GTA 6's world map is twice the size of GTA 5 and three times bigger than RDR 2",
-      "image": "https://www.videogameschronicle.com/files/2026/08/Grand-Theft-Auto-VI_-An-Extended-Look-26-10-screenshot.jpg",
-      "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6s-map-is-three-times-bigger-than-red-dead-redemption-2/",
-      "confidence": "high"
-    },
-    {
-      "id": "2cb381423cb67d1c0fb8e8a4b4e4b582aae33c690033aa8eff93e657dcc4debd",
-      "title": "GTA 6 will actually let you use dog poop as a weapon",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-28T14:35:14Z",
-      "description": "GTA 6 will apparently let players turn bags of dog poop into disgusting projectiles and throw them at NPCs.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/28/gta-6-dog-poop-weapon-npc.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-will-actually-let-you-use-dog-poop-as-a-weapon-3403483/",
-      "confidence": "medium"
     }
   ]
 }
