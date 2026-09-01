@@ -1,7 +1,115 @@
 {
-  "lastUpdated": "2026-08-31T15:48:46Z",
+  "lastUpdated": "2026-09-01T13:02:36Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "79796f6675326951b43ab19f5b845ec2848b97fdcb0373515450477dbe8fde8b",
+      "title": "Take-Two’s hunt for GTA 6 leaker “rapidly evolving” as two suspects identified",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "Leak",
+      "publishedAt": "2026-09-01T12:51:54Z",
+      "description": "Take-Two is reportedly closing in on the leaker behind the wave of Grand Theft Auto 6 leaks, telling courts that things are “rapidly evolving.”",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/11/gta-6-ultimate-pre-orders-outsell.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/take-twos-hunt-for-gta-6-leaker-rapidly-evolving-as-two-suspects-identified-3404604/",
+      "confidence": "medium"
+    },
+    {
+      "id": "c7c6e0dab4ff21588e85a6f3eaf603c1ef3307a542deb1ee7ccd7b824a10d5f7",
+      "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "Leak",
+      "publishedAt": "2026-09-01T08:26:02Z",
+      "description": "Rockstar parent company Take-Two has escalated its hunt for the people behind the numerous Grand Theft Auto 6 leaks from two weeks ago. The publisher has filed a request for another subpoena, though this time it's asking the court to withhold the details from the public and keep it sealed. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-Masks.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-leaker-discord-subpoena-sealed-take-two",
+      "confidence": "high"
+    },
+    {
+      "id": "d3a985ef97ab42c9cf55b2df0abd9bf7e21f3c6e03e390a477e44717645b68b4",
+      "title": "30 New GTA 6 PS5 Screenshots to Blow You Away After Extended Look",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-08-31T23:15:00Z",
+      "description": "This looks ridiculous.Rockstar has added more GTA 6 screenshots to its official website in the aftermath of last week’s mind-blowing Extended Look.Some of these images were shared exclusively among influencers first, so it’s possible you may have seen these floating around on social media, like t...",
+      "image": "https://images.pushsquare.com/5234b8eaa6f9d/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look",
+      "confidence": "medium"
+    },
+    {
+      "id": "8ce9776a8059cedb31d3f7a10920c56a26ebd1069d00448a4a61a9f4080e4902",
+      "title": "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-31T21:32:23Z",
+      "description": "It seems the drought of Grand Theft Auto 6 news has finally come to an end, as Rockstar has published even more screenshots for fans to comb through.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/31/jason-and-lucia-in-gta-6-screenshots-1788210851195.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-gets-even-more-new-screenshots-as-rockstar-locks-in-for-november-launch",
+      "confidence": "high"
+    },
+    {
+      "id": "fc075b53128fd1991bbd72682543005b7d255272b7cf16d20761e3c997bdea0a",
+      "title": "Godzilla Remaster Devs Explain Why They Aren’t Worried About Releasing Near GTA 6",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-31T20:32:14Z",
+      "description": "Most upcoming games have looked to steer clear of the behemoth that is Grand Theft Auto 6 and avoid the month of November entirely. The upcoming remaster of 2002's Godzilla Destroy All Monsters Melee is a notable exception, and as it turns out, the developers didn't think about GTA 6 at all when ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/godzilla-remaster-devs-explain-why-they-arent-worried-about-releasing-near-gta-6/",
+      "confidence": "high"
+    },
+    {
+      "id": "c890b1c77b9df06c985f93eb6391a70368369b6e15feb2c8bf499a085da49245",
+      "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-31T18:45:35Z",
+      "description": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/26/godzilla-destroy-all-monsters-melee-remastered-art-1787759856090.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date",
+      "confidence": "high"
+    },
+    {
+      "id": "da02cf53d55b19d681469dbd8702d14924d019b592dc762c9a10010b106ffc65",
+      "title": "GTA 6 Fans Are Bracing For One Massive Download",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-08-31T18:24:57Z",
+      "description": "We're only a few months away from the November launch of Grand Theft Auto 6, and following the recent preview of the game on Netflix, fans have even more questions about Rockstar's highly anticipated game--namely, just how big is the download going to be? We already know that you can preload the ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-fans-are-bracing-for-one-massive-download/",
+      "confidence": "high"
+    },
+    {
+      "id": "d8a63386baf6a07390067c772aa3d5a52ddf3bda64fb7b4602ea20a8b7689069",
+      "title": "GTA 6's Relationship Mechanic Is 'Cheating' on Your Real-Life Partner and Break Up Worthy, According to Angry Spouses",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-08-31T17:55:42Z",
+      "description": "A bunch of angry spouses on social media believe that Grand Theft Auto 6's in-depth relationship mechanic is equivalent to cheating on your real life partner and worth breaking up over.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/31/hrdxhdzwwaax1k-1788198129736.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6s-relationship-mechanic-is-cheating-on-your-real-life-partner-and-break-up-worthy-according-to-angry-spouses",
+      "confidence": "high"
+    },
+    {
+      "id": "d4519869477c40401dc90d8457de8e428ae87d48b2ed2118c404931bd35ee1d9",
+      "title": "GTA 6 Extended Look is one of 2026’s best movies according to Letterboxd",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-31T15:56:02Z",
+      "description": "GTA 6 is 2026’s most anticipated game, but its trailer is also one of the best movies of the year based on Letterboxd reviews.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/27/gta-6-lucia.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-extended-look-is-one-of-2026s-best-movies-according-to-letterboxd-3404164/",
+      "confidence": "medium"
+    },
     {
       "id": "0b6417d8a4dc15cd79ee22cf240c6ba67002935f990ecb124a632159c1d51852",
       "title": "GTA 6 Looks Like GTA 5? You’re Out Of Your Mind, GTA Actor Says",
@@ -37,6 +145,18 @@
       "image": "https://www.videogameschronicle.com/files/2026/08/GTA-6.jpeg",
       "url": "https://www.videogameschronicle.com/news/take-two-says-its-investigation-into-the-gta-6-leaker-is-rapidly-evolving-as-it-requests-another-discord-subpoena/",
       "confidence": "high"
+    },
+    {
+      "id": "b4bccbf681df449aad74c41ef4911c31e18e37175f5267d7f465836328924bbf",
+      "title": "GTA 5 Michael actor says fans are “out of their minds” for thinking GTA 6 looks the same",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-08-31T09:55:54Z",
+      "description": "Ned Luke has been left baffled by fans comparing GTA 6 to GTA 5, arguing that character movement alone shows how far Rockstar’s technology has come.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/27/gta-6-kayak-vice-city.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-5-michael-actor-says-fans-are-out-of-their-minds-for-thinking-gta-6-looks-the-same-3403965/",
+      "confidence": "medium"
     },
     {
       "id": "f1ea639dbdf0dfa124c4fe45cd1632522dd595a59176a588e3fd16e5ea12c213",
@@ -75,18 +195,6 @@
       "confidence": "medium"
     },
     {
-      "id": "d4b535e529eedaa882cca7bd5f127b860d3644f8acabff69ec9f46ca879d0b54",
-      "title": "GTA 6 Fans Think They Found Jason and Lucia's Vice City Apartment in Real Life",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-30T16:27:56Z",
-      "description": "Grand Theft Auto 6 fans think they've spotted the real-life inspiration for Jason and Lucia's Vice City apartment – but don't expect to ever visit it yourself.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/30/gta-6-jason-and-lucia-apartment-1788107138247.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-fans-think-they-found-jason-and-lucias-vice-city-apartment-in-real-life",
-      "confidence": "high"
-    },
-    {
       "id": "de647ca08e7a96edbb220fd66b5adf8c2e3efb35eafbe8790dc7be92f319caa1",
       "title": "Rockstar confirms GTA 6 won't have microtransactions or generative AI at launch",
       "source": "Eurogamer",
@@ -96,18 +204,6 @@
       "description": "Rockstar has confirmed Grand Theft Auto 6 will launch without microtransactions or generative AI. Read more",
       "image": "https://assetsio.gnwcdn.com/GTA-6-Lucia-Caminos.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/gta-6-microtransactions-generative-ai-rockstar",
-      "confidence": "high"
-    },
-    {
-      "id": "8f1cd4c2df73047677cffecdf2e3a08cde0870bd5e34305a78b692f55c8e1b30",
-      "title": "GTA 6 Will Have No Microtransactions or Generative AI at Launch, Rockstar Says",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-29T22:16:08Z",
-      "description": "Rockstar Games has said Grand Theft Auto 6 will have no microtransactions or generative AI when it launches in November.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/29/gta-6-microtransactions-ai-1788041234368.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-will-have-no-microtransactions-or-generative-ai-at-launch-rockstar-says",
       "confidence": "high"
     },
     {
@@ -145,102 +241,6 @@
       "image": "https://images.pushsquare.com/01df7d077eea0/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/08/usd900-ps5-pro-selling-out-during-playstation-blackout-amid-gta-6-fever",
       "confidence": "medium"
-    },
-    {
-      "id": "9488479894d74aa2f69cb43e949adec284989b65328764a699356cc7c9e1cc7d",
-      "title": "xQc furious after being forced to take down GTA 6 VOD by Twitch",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-29T17:20:57Z",
-      "description": "xQc was told by Twitch to remove the VOD of his GTA 6 reaction, despite other streamers’ VODs still being available.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/03/10/xQc-GTA-6.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gaming/xqc-furious-after-being-forced-to-take-down-gta-6-vod-by-twitch-3403752/",
-      "confidence": "medium"
-    },
-    {
-      "id": "db126da589a602c4a960b85abaad08435b263bfda6ec48e9eb8f419e6e7ca7b4",
-      "title": "GTA 6's gameplay reveal pulled in 3.97 million viewers across commentator livestreams, overwhelming Twitch and Netflix in the process",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-08-29T14:25:56Z",
-      "description": "Reaction streams to Grand Theft Auto 6's first gameplay presentation peaked at 3,970,738 viewers across livestreaming platforms, making it the biggest gaming stream of 2026 so far. Read more",
-      "image": "https://assetsio.gnwcdn.com/GTA-6-Extended-Look-roundup-header-new.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-gameplay-reveal-streaming-viewership-record-twitch-netflix",
-      "confidence": "high"
-    },
-    {
-      "id": "ec59e481c1342b0a44a6b3d4987f3e3859b6c9a066bbfce21b00290c0134a3d0",
-      "title": "Squadron 42 delayed to 2027, with Star Citizen dev blaming GTA 6",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-08-29T12:09:49Z",
-      "description": "Cloud Imperium Games has delayed Squadron 42, its long-in-development Star Citizen spin-off, to Q2 2027, with studio boss Chris Roberts arguing the game would be drowned out by GTA 6. Read more",
-      "image": "https://assetsio.gnwcdn.com/crytek-wants-to-dismiss-its-own-lawsuit-against-the-star-citizen-developer-until-squadron-42-comes-out-1578155315461.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/squadron-42-delayed-2027-gta-6",
-      "confidence": "high"
-    },
-    {
-      "id": "ac08f1b7dc28191d78c3cd418ddc6780b1b09dcb85b46b2ae3655cac96b06575",
-      "title": "GTA 6 fan tracks down Jason & Lucia’s real-life apartment years after it was demolished",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-08-29T11:03:26Z",
-      "description": "A GTA 6 sleuth has tracked down the exact real-life Miami building Rockstar used as the reference for Jason and Lucia’s apartment in the game’s trailer.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/29/Jason-and-Lucias-Apartment.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-fan-tracks-down-jason-lucias-real-life-apartment-years-after-it-was-demolished-3403686/",
-      "confidence": "medium"
-    },
-    {
-      "id": "b26335808e378dab045b7c32651083b07fac791c7cfac3f439b49f3b00451ea0",
-      "title": "GTA 6 Launch Could Cost the US Economy Over $1 Billion",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-08-29T11:02:19Z",
-      "description": "GTA 6 is shaping up to cost the United States&#8217; economy more than $1 billion on launch day according to a new report. With any popular video game, there&#8217;s always a joke (some some actual action) that fans will lie about being ill to take the day off for release day. Some even use PTO [...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/GTA-VI-TRAILER-3-REACTION-INFO-ESCLUSIVE-Ne-Posso-Parlare-00-35-41-copy.webp",
-      "url": "https://rockstarintel.com/gta-6-launch-could-cost-the-us-economy-over-1-billion/",
-      "confidence": "high"
-    },
-    {
-      "id": "5c4b8583b9d4fefb92d4de1251e226f7ea10b2b75777ca33dc2ca7c2b6b6b5d6",
-      "title": "GTA 6: An Extended Look – All Music confirmed from the 26 minute gameplay",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-08-29T10:33:48Z",
-      "description": "A couple of days ago, Netflix and Rockstar Games, revealed 26 Minutes of gameplay of Grand Theft Auto VI for us all to watch, and to say the least, its left our jaws on the ground. During the Extended Look, there was quite a few different songs that played throughout. We have another page which [...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/mega-9-1787855280117-scaled.jpeg",
-      "url": "https://rockstarintel.com/gta-6-an-extended-look-all-music-confirmed-from-the-26-minute-gameplay/",
-      "confidence": "high"
-    },
-    {
-      "id": "aa57c521f6c533c824812ad1f06ff6a22bc1b6b21c4bf885d3d0830a49a0137d",
-      "title": "Podcast: Live reaction from Gamescom and GTA 6’s big reveal",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-08-29T10:09:39Z",
-      "description": "The VGC team share their thoughts on the big GTA reveal, plus live reporting from Gamescom",
-      "image": "https://www.videogameschronicle.com/files/2026/08/Screenshot-2026-08-29-110645.jpg",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-live-reaction-from-gamescom-and-gta-6s-big-reveal/",
-      "confidence": "high"
-    },
-    {
-      "id": "907df1928c83d65348a262c569d0c891c03dcb182c6d6696e2e744ffd611de20",
-      "title": "GTA 6 Has A Technical Problem And Rockstar Can’t Seem To Fix It",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-08-29T09:31:53Z",
-      "description": "There&#8217;s a technical issue with GTA 6 and it&#8217;s probably not going to be fixed for when the game launches on November 19th. We&#8217;ll be delving into this problem and why we won&#8217;t see it resolved. Hold on, before anyone gets upset this is something fans like myself want to talk ...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/658564798567959-1280.webp",
-      "url": "https://rockstarintel.com/gta-6-has-a-technical-problem-and-rockstar-cant-seem-to-fix-it/",
-      "confidence": "high"
     }
   ]
 }
