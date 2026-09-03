@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-09-02T12:30:34Z",
+  "lastUpdated": "2026-09-03T12:33:39Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "0d81e0f756c03b21cc634acbbce28b7659ab41101a1751c7b1c288b8abeb75c9",
+      "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-02T18:35:13Z",
+      "description": "Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around their campus in anticipation for a new trailer.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
+      "confidence": "high"
+    },
+    {
+      "id": "1a5c8b3d1b0df70eb79f57451c41cc3f8bd46533c196fb5fd2beea90441b1138",
+      "title": "Don’t Care About GTA 6’s Romance System? Don’t Use It, Dev Says",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-09-02T14:36:15Z",
+      "description": "GTA 6's Jason and Lucia can be romantically involved, or they can just be partners in crime. If you're not interested in the game's romance system, don't use it, Rockstar's Rob Nelson said in a new interview.\n\n\n\n\"I have to say it feels great--if you are into it as a concept. Don’t bother with it ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/dont-care-about-gta-6s-romance-system-dont-use-it-dev-says/",
+      "confidence": "high"
+    },
+    {
+      "id": "da3580fe053156643bae70ac15b317fb39eb6f0b141f2cf1610d346341ad7ed9",
+      "title": "GTA 6 Has A Point Of No Return For Players Who Take Crime Too Far",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-09-02T13:36:10Z",
+      "description": "Grand Theft Auto 6 is looking to add some extra wrinkles to several of its established gameplay pillars, but the biggest update here might just be the inclusion of an honor system. Taking a page from Red Dead Redemption 2, GTA 6 will remind you that actions have consequences, as your less-than-le...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-morality-system-has-a-secret-breaking-point/",
+      "confidence": "high"
+    },
+    {
+      "id": "d408790d4d09c9a44ba1c0e129fa64a466fdf7f98af3187b81d087051dbd3d9e",
+      "title": "It's a Miracle: GTA 6 Won't Make You Mash the X Button to Sprint",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-09-02T12:30:00Z",
+      "description": "Now you press L3 to run.Most of the games Rockstar creates are considered masterpieces, but if there are any criticisms, it's not long before the controls are brought up.The most notorious example is the demand to constantly press the X button to sprint.Read the full article on pushsquare.com",
+      "image": "https://images.pushsquare.com/0d2146edad59b/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint",
+      "confidence": "medium"
+    },
     {
       "id": "d1820997fd887c1fd7f898ac2e8e9eea7db91d3527614109ee975ccb544a7394",
       "title": "GTA 6’s honor system will give up on you if you’re too evil",
@@ -159,30 +207,6 @@
       "confidence": "high"
     },
     {
-      "id": "45f762223294ff93bfc74db4ab7c05d56458aefae85c2d63b09fb8b0e150d85d",
-      "title": "GTA 6 Studio On Massive Pressure: “We Are Nervous”",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-01T15:32:03Z",
-      "description": "GTA 6 is one of the most-anticipated entertainment releases ever, and many experts agree that it's sure to be a fast success. However, Rockstar North boss Rob Nelson said the studio is \"nervous\" about the game's upcoming release and living up to 13 years worth of hype and expectations. \n\n\n\n\"I try...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-studio-on-massive-pressure-we-are-nervous/",
-      "confidence": "high"
-    },
-    {
-      "id": "e7bae10ae9f5d372215752f25b97d47b344195cdde48ab3e19237e6f65ae09ca",
-      "title": "GTA 6 Cut This Feature Because It Was Too Real, But One Lifelike Detail Is Staying",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-01T13:31:37Z",
-      "description": "Rockstar Games has confirmed more details about GTA 6, including how the developer cut a feature because it was deemed too realistic. Another feature that borrows from real life is staying, however. \n\n\n\nRockstar's Rob Nelson told Famitsu, as translated by GamesRadar, that Jason and Lucia were ini...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-cut-this-feature-because-it-was-too-real-but-one-lifelike-detail-is-staying/",
-      "confidence": "high"
-    },
-    {
       "id": "79796f6675326951b43ab19f5b845ec2848b97fdcb0373515450477dbe8fde8b",
       "title": "Take-Two’s hunt for GTA 6 leaker “rapidly evolving” as two suspects identified",
       "source": "Dexerto",
@@ -217,30 +241,6 @@
       "image": "https://images.pushsquare.com/5234b8eaa6f9d/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/09/30-new-gta-6-ps5-screenshots-to-blow-you-away-after-extended-look",
       "confidence": "medium"
-    },
-    {
-      "id": "8ce9776a8059cedb31d3f7a10920c56a26ebd1069d00448a4a61a9f4080e4902",
-      "title": "GTA 6 Gets Even More New Screenshots as Rockstar Locks in for November Launch",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-31T21:32:23Z",
-      "description": "It seems the drought of Grand Theft Auto 6 news has finally come to an end, as Rockstar has published even more screenshots for fans to comb through.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/31/jason-and-lucia-in-gta-6-screenshots-1788210851195.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-gets-even-more-new-screenshots-as-rockstar-locks-in-for-november-launch",
-      "confidence": "high"
-    },
-    {
-      "id": "c890b1c77b9df06c985f93eb6391a70368369b6e15feb2c8bf499a085da49245",
-      "title": "Godzilla: Destroy All Monsters Melee Remastered Dev Says GTA 6 Was 'Never Part of Our Thinking' When Choosing a Release Date",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-08-31T18:45:35Z",
-      "description": "Godzilla: Destroy All Monsters Melee Remastered will take on GTA 6 when both games launch this November, but the team behind the arena fighter said Rockstar's latest was \"never part of our thinking\" when choosing a release date.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/26/godzilla-destroy-all-monsters-melee-remastered-art-1787759856090.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/godzilla-destroy-all-monsters-melee-remastered-dev-says-gta-6-was-never-part-of-our-thinking-when-choosing-a-release-date",
-      "confidence": "high"
     }
   ]
 }
