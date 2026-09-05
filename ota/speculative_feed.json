@@ -1,17 +1,101 @@
 {
-  "lastUpdated": "2026-09-04T12:28:33Z",
+  "lastUpdated": "2026-09-05T11:35:42Z",
   "articleCount": 20,
   "articles": [
     {
-      "id": "5ef5c9b96d1729d6bb9ceda284acdb74be6abc7e49f62b360db178b802336fb0",
-      "title": "GTA 6 Extended Look Causes Song Plays Up 130,000% Spotify Reveals",
+      "id": "4a2bb89ef5c14dbc7c5ddce0a9283f11f8a5ef4ae4f91201b5f2a8fdd3b3361f",
+      "title": "Downtown Miami Pushing For GTA 6 Billboards To Go Up Next Month",
       "source": "RockstarINTEL",
       "sourceId": "rockstarintel",
       "category": "News",
-      "publishedAt": "2026-09-04T12:24:59Z",
-      "description": "Songs heard in the GTA 6 Extended Look have seen massive growth across streaming platforms. As expected, Rockstar has opened the door for many songs found in the game to millions of new fans. Spotify, Billboard and Shazam have each revealed some extraordinary stats involving many pieces of music ...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Lucia_Caminos_09-copy.webp",
-      "url": "https://rockstarintel.com/gta-6-extended-look-causes-song-plays-up-130000-spotify-reveals/",
+      "publishedAt": "2026-09-05T11:17:22Z",
+      "description": "Downtown Miami might get plastered with large GTA 6 billboards as soon as next month. In a report by The Miamian, the city wants to give Rockstar Games signage waivers in various parts of the city. These are typically reserved for major sporting events such as the World Cup which took place this ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Vice_City_11-copy.webp",
+      "url": "https://rockstarintel.com/downtown-miami-pushing-for-gta-6-billboards-to-go-up-next-month/",
+      "confidence": "high"
+    },
+    {
+      "id": "2a88209f3f8fe3b338c7ee8f3c45bc89ea8eb67108885dcc3a2d1667c88adb16",
+      "title": "GTA 6 Gameplay Reveal Had Nearly 4 Million Live Viewers As It Broke Netflix",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-09-05T10:01:30Z",
+      "description": "Nearly 4 million people tuned into co-streams of the Grand Theft Auto VI Extended Look on Netflix last week. That&#8217;s according to Stream Charts who collected the data. The 27 minute long video premiered first on Netflix meaning there was a paywall to see it before it came to social media pla...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Ambrosia_06-copy.webp",
+      "url": "https://rockstarintel.com/gta-6-gameplay-reveal-had-nearly-4-million-live-viewers-as-it-broke-netflix/",
+      "confidence": "high"
+    },
+    {
+      "id": "63ea06b759bd60cfe4c77c98ef3d9a33ac399a18e6cbd267878ce8f699fc2844",
+      "title": "YouTube updates gaming violence monetization rules ahead of GTA 6 launch",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-04T20:17:45Z",
+      "description": "YouTube has clarified its monetization guidelines for graphic gaming violence just months before GTA 6 launches.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/04/gta-6-youtube-rules.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/youtube-updates-gaming-violence-monetization-rules-ahead-of-gta-6-launch-3405945/",
+      "confidence": "medium"
+    },
+    {
+      "id": "e8618ba7a2f8b2a9236d810825871d5bf9351dbb77911ed567099b771e912449",
+      "title": "Rockstar Censors GTA 6 Extended Look Trailer for China",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-04T19:48:54Z",
+      "description": "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-gameplay-blog-1787861652027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china",
+      "confidence": "high"
+    },
+    {
+      "id": "955f7b5c8e681adb8809aaf63aced231249be39fe88768219bcf2c589e770cf2",
+      "title": "Could GTA 6 Come To PC Sooner Than Expected?",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-09-04T17:35:00Z",
+      "description": "GTA 6 could come to PC sooner than you may think. That&#8217;s according to a reputable journalist who has seemingly heard rumblings of some movement at Rockstar regarding the PC version of Grand Theft Auto VI. As we know, the next instalment in the GTA series launches only on PS5 and XBOX Series...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Vice_City_12-copy.webp",
+      "url": "https://rockstarintel.com/could-gta-6-come-to-pc-sooner-than-expected/",
+      "confidence": "high"
+    },
+    {
+      "id": "14904753bcb55f67d2f16cd7a7db492dcc63f1f7b8423390d7348c865edcff71",
+      "title": "Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-09-04T17:14:16Z",
+      "description": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games' inevitable pile of cash doesn't drop for another couple of months. Read more",
+      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
+      "confidence": "high"
+    },
+    {
+      "id": "e4ba06125c77f8a013114979dc047e55983933033fac1e651d89406943e0bf0c",
+      "title": "Podcast: GTA 6 boosts console sales… but will it last?",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "News",
+      "publishedAt": "2026-09-04T16:52:07Z",
+      "description": "Plus: The debate over digital ownership rages on",
+      "image": "https://www.videogameschronicle.com/files/2026/09/Podcast-187-YT.jpg",
+      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-boosts-console-sales-but-will-it-last/",
+      "confidence": "high"
+    },
+    {
+      "id": "5b06a5268d9ce2c457a92a9d9a0da73e8bdbf1e2526d09197308680674c8c593",
+      "title": "New Official GTA 6 Stickers Revealed",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-09-04T14:47:48Z",
+      "description": "Brand new GTA 6 stickers you can buy have been revealed. You&#8217;re going to be able to show off your love for Vice City and more. Last month, it was revealed that Dazed&#8216;s autumn 2026 issue contains a big spread about Grand Theft Auto VI. One of the covers you can get of the magazine [......",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/rockstar_vc_sticker.webp",
+      "url": "https://rockstarintel.com/new-official-gta-6-stickers-revealed/",
       "confidence": "high"
     },
     {
@@ -87,18 +171,6 @@
       "confidence": "high"
     },
     {
-      "id": "2146f409f949c9aae7eff2e9694474d5f468460ceb7615190cce22c0b4a660ea",
-      "title": "Miami Law Enforcement Rejects GTA 6 Marketing By Rockstar",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-09-03T20:17:18Z",
-      "description": "Proposals for a city-wide marketing takeover by Rockstar for GTA 6 has been slammed by the local Sheriff and Commissioner. Last month, a pitch sent to Rockstar by the Mayor of Miami-Dade County&#8217;s office was leaked. It contained a number of ideas on how Rockstar and Miami-Dade County could c...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Jason_Duval_07-copy.webp",
-      "url": "https://rockstarintel.com/miami-law-enforcement-rejects-gta-6-marketing-by-rockstar/",
-      "confidence": "high"
-    },
-    {
       "id": "63c90bc36935eb06ac98f5e23c6af0ab1622801e0e45776391100c285e35f87c",
       "title": "Miami-Dade Sheriff and Commissioner Slam City's Proposed GTA 6 Takeover for 'Promoting Fictional Version of Our Community Defined by Crime and Violence'",
       "source": "IGN",
@@ -147,18 +219,6 @@
       "confidence": "medium"
     },
     {
-      "id": "0c5199324d6454f63a4926eab14031406bd5cd9e39cf7b99502e5fb711679761",
-      "title": "GTA 6 Gameplay Reveal Caused PS5 And XBOX Sales To Surge",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-09-03T15:53:28Z",
-      "description": "The GTA 6 Extended Look has led to a meaningful amount of console sales. That&#8217;s according to a new report that has detailed just how much pull GTA 6 has had already and it is still a couple of months away. Last week saw the highly anticipated gameplay reveal of Grand Theft Auto VI on [...]\n...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Lucia_Caminos_10-copy.webp",
-      "url": "https://rockstarintel.com/gta-6-gameplay-reveal-just-caused-ps5-and-xbox-sales-to-surge/",
-      "confidence": "high"
-    },
-    {
       "id": "b1bdf6ad77cacc99b933417f8236a75a3c102fbc7b85238389355835449a106a",
       "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
       "source": "Eurogamer",
@@ -168,18 +228,6 @@
       "description": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-duelsense-controllers.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
-      "confidence": "high"
-    },
-    {
-      "id": "0984aa35045fba86c03745d7a07a4924c88b19bde5a2f9d606e0cf355807e509",
-      "title": "Limited Edition GTA 6 DualSense Controllers Revealed",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-09-03T14:32:12Z",
-      "description": "GTA 6 is getting limited edition hardware and it is coming directly from PlayStation. We&#8217;ve got all of the information you need to know including when and where to pre-order. Special Vice City Designs During Thursday&#8217;s State of Play, PlayStation announced the Grand Theft Auto VI Limit...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/gta_ps5_controllers.webp",
-      "url": "https://rockstarintel.com/limited-edition-gta-6-dualsense-controllers-revealed/",
       "confidence": "high"
     },
     {
@@ -193,54 +241,6 @@
       "image": null,
       "url": "https://www.gamespot.com/articles/gta-6-limited-edition-dualsense-controllers-are-on-the-way-and-they-look-fantastic/",
       "confidence": "high"
-    },
-    {
-      "id": "4ca18847a3a6da3b92948c70f4d2a039230d6be2f9ce583765b34657a03da1eb",
-      "title": "GTA 6 Fishing And Hunting Doesn’t Work Like You Think It Does",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-03T13:53:03Z",
-      "description": "Rockstar Games has confirmed new details about how fishing and hunting work in GTA 6, and it's probably not what you would expect. \n\n\n\nSpeaking to YouTuber TGG, Rockstar North's Rob Nelson confirmed that fishing in GTA 6 is limited to catch and release--players cannot keep any fish. Why? \"It didn...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-fishing-and-hunting-doesnt-work-like-you-think-it-does/",
-      "confidence": "high"
-    },
-    {
-      "id": "0d81e0f756c03b21cc634acbbce28b7659ab41101a1751c7b1c288b8abeb75c9",
-      "title": "YouTuber Claims Rockstar Confirmed Fans Measured Oxygen Levels Around Its Campus in Anticipation for a New Trailer",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-09-02T18:35:13Z",
-      "description": "Italian YouTuber Mike ShowSha got to visit Rockstar ahead of the company’s big GTA 6 Netflix showcase, where developers told him that overeager fans were literally measuring the oxygen levels around their campus in anticipation for a new trailer.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/youtuber-claims-rockstar-confirmed-fans-measured-oxygen-levels-around-its-campus-in-anticipation-for-a-new-trailer",
-      "confidence": "high"
-    },
-    {
-      "id": "d408790d4d09c9a44ba1c0e129fa64a466fdf7f98af3187b81d087051dbd3d9e",
-      "title": "It's a Miracle: GTA 6 Won't Make You Mash the X Button to Sprint",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-09-02T12:30:00Z",
-      "description": "Now you press L3 to run.Most of the games Rockstar creates are considered masterpieces, but if there are any criticisms, it's not long before the controls are brought up.The most notorious example is the demand to constantly press the X button to sprint.Read the full article on pushsquare.com",
-      "image": "https://images.pushsquare.com/0d2146edad59b/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/09/its-a-miracle-gta-6-wont-make-you-mash-the-x-button-to-sprint",
-      "confidence": "medium"
-    },
-    {
-      "id": "d1820997fd887c1fd7f898ac2e8e9eea7db91d3527614109ee975ccb544a7394",
-      "title": "GTA 6’s honor system will give up on you if you’re too evil",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-09-02T11:08:39Z",
-      "description": "GTA 6’s morality system will actually break if you cause too much chaos and give up tracking you altogether.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/02/GTA-6s-honor-system-will-give-up-on-you-if-youre-too-evil.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6s-honor-system-will-give-up-on-you-if-youre-too-evil-3404973/",
-      "confidence": "medium"
     }
   ]
 }
