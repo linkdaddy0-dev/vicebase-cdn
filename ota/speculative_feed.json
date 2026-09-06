@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-05T11:35:42Z",
+  "lastUpdated": "2026-09-06T11:55:33Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "29ce53cc1fa602ccbcd25bd76656764c0f3b53a3205c482ec943ab4397fb880b",
+      "title": "Preview: I Didn't Expect This Alice in Wonderland Roguelite to Be This Deep",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-09-05T23:00:00Z",
+      "description": "Curiouser and curiouser.Regular readers will know I’m a little bit obsessed with Alice in Wonderland, so I was always going to give CRYMELIGHT the time of day.Launching on 5th November, this is one of the few titles to occupy the GTA 6 exclusion zone, which I personally find hilarious.Read the fu...",
+      "image": "https://images.pushsquare.com/9f2e70a3f012c/small.jpg",
+      "url": "https://www.pushsquare.com/previews/i-didnt-expect-this-alice-in-wonderland-roguelite-to-be-this-deep",
+      "confidence": "medium"
+    },
     {
       "id": "4a2bb89ef5c14dbc7c5ddce0a9283f11f8a5ef4ae4f91201b5f2a8fdd3b3361f",
       "title": "Downtown Miami Pushing For GTA 6 Billboards To Go Up Next Month",
@@ -228,18 +240,6 @@
       "description": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
       "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-duelsense-controllers.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
-      "confidence": "high"
-    },
-    {
-      "id": "f176b97861e2ebfa4685ea38091b82f13ac0f181c119eb5c2960e9f4607c311a",
-      "title": "GTA 6 Limited-Edition DualSense Controllers Are On The Way, And They Look Fantastic",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-03T13:54:07Z",
-      "description": "During today's State of Play broadcast, Sony announced that two limited-edition Grand Theft Auto 6-themed DualSense controllers will be released.\n\n\n\nThey'll come in black or white and feature distinctive Leonida-themed graphics and coloring. Both have pastel pink icons on the buttons, with a blue...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-limited-edition-dualsense-controllers-are-on-the-way-and-they-look-fantastic/",
       "confidence": "high"
     }
   ]
