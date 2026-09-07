@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-06T11:55:33Z",
+  "lastUpdated": "2026-09-07T13:56:32Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "8c208f2525e796ef6d17b6888c2d2cf5d25833b5a0dc98a54c20604a6082037a",
+      "title": "Rockstar says GTA 6’s controversial gas stops take just 10 seconds: “You can’t complain”",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-06T18:37:12Z",
+      "description": "Rockstar has defended GTA 6’s divisive refueling system after a hands-on preview revealed each gas stop takes around 10 seconds.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/06/gta-5-gas-station.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/rockstar-says-gta-6s-controversial-gas-stops-take-just-10-seconds-you-cant-complain-3406246/",
+      "confidence": "medium"
+    },
+    {
+      "id": "bc53cd4051275a4e97e298348a9ee28ff20f301a5c98956d90fbfc1cf8190f3e",
+      "title": "Preview: I Still Can't Believe This Insanely Ambitious PS5 Open World Is Real",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-09-06T14:00:00Z",
+      "description": "More hands-on time with the remarkable Ananta.I’ve touched the ultra-ambitious anime open world game Ananta a couple of times now, and I still can’t quite believe it’s real.But it’s launching on 15th January, just weeks after the equally impressive GTA 6, setting up an exciting end to the PS5 gen...",
+      "image": "https://images.pushsquare.com/8abff222b66ca/small.jpg",
+      "url": "https://www.pushsquare.com/previews/i-still-cant-believe-this-insanely-ambitious-ps5-open-world-is-real",
+      "confidence": "medium"
+    },
     {
       "id": "29ce53cc1fa602ccbcd25bd76656764c0f3b53a3205c482ec943ab4397fb880b",
       "title": "Preview: I Didn't Expect This Alice in Wonderland Roguelite to Be This Deep",
@@ -217,30 +241,6 @@
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/03/gta-miami-vice-city-sheriff.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/florida-sheriff-fights-bizarre-gta-6-campaign-to-turn-miami-into-real-life-vice-city-3405657/",
       "confidence": "medium"
-    },
-    {
-      "id": "99066935db8215dc5c247133b859e00707b2fefe313bac703bf3ce908d6088c8",
-      "title": "Discord users outraged over GTA 6 leak subpoena seeking personal data from over 100k members",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-09-03T16:17:09Z",
-      "description": "Discord users are furious over Take-Two’s sweeping request for account data from a 100,000-member server as it hunts the GTA 6 leaker.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/03/take-two-cyberleek-manhunt.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/discord-users-outraged-over-gta-6-leak-subpoena-seeking-personal-data-from-over-100k-members-3405630/",
-      "confidence": "medium"
-    },
-    {
-      "id": "b1bdf6ad77cacc99b933417f8236a75a3c102fbc7b85238389355835449a106a",
-      "title": "GTA 6 is getting two limited edition dualsense PS5 controllers",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-09-03T14:47:05Z",
-      "description": "Two limited Edition Grand Theft Auto 6 PS5 Dualsense controllers were just revealed during the Sony State of Play livestream. Read more",
-      "image": "https://assetsio.gnwcdn.com/grand-theft-auto-6-duelsense-controllers.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta6-ps5-controllers-white-black-state-of-play",
-      "confidence": "high"
     }
   ]
 }
