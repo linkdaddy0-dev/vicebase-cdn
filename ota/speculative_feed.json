@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-09-09T12:42:33Z",
+  "lastUpdated": "2026-09-10T12:40:53Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "5813fa17bba4e47cac6e12af024a59ce738f3046550838d9f0eab01338905e13",
+      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-09-10T12:25:25Z",
+      "description": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more",
+      "image": "https://assetsio.gnwcdn.com/Jason_Duval_07.0ca326xbl~oyh.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
+      "confidence": "high"
+    },
+    {
+      "id": "5ec4f7681087080862eea1775906261c3ecf0e46a392cd0a41611b44f396855a",
+      "title": "GTA 6 is Single-Handedly Saving Console Sales Revenue",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-09-10T12:15:00Z",
+      "description": "Grand Theft Auto 6 is set to drive immense console growth later this year, a new report has estimated in the gaming space.\nThe post GTA 6 is Single-Handedly Saving Console Sales Revenue appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
+      "url": "https://insider-gaming.com/gta-6-is-single-handedly-saving-console-sales-revenue/",
+      "confidence": "high"
+    },
+    {
+      "id": "00c5be1899f4c1b59b8b4d67bff7b2c6987619d9d59c14ccac63a55bdda117bc",
+      "title": "Guide: Where to Pre-Order GTA 6 Controllers for PS5",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-09-10T09:20:00Z",
+      "description": "USA, UK links to pre-order GTA 6 limited edition PS5 controllers.Ahead of the title's release on 19th November 2026, Sony and Rockstar have teamed up to offer two PS5 limited-edition controllers themed around GTA 6.There's a black one and a white one, with both sporting a blue / purple faceplate ...",
+      "image": "https://images.pushsquare.com/db097012c3002/small.jpg",
+      "url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
+      "confidence": "medium"
+    },
+    {
+      "id": "9864aab5f2f2680f4a912e5fc54b586f7ff178c4afc4e2591b26c80ad7f36325",
+      "title": "GTA 6 Developer Rockstar Says It Will Defend Itself 'Vigorously' From Union Claims as Employment Tribunal Over the Firing of 31 Workers Gets Underway",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-10T09:08:53Z",
+      "description": "GTA 6 developer Rockstar Games has issued a new statement as it heads to an employment tribunal to face allegations that it unlawfully fired 31 workers.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/10/iwgb-1789031173797.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-developer-rockstar-says-it-will-defend-itself-vigorously-from-union-claims-as-employment-tribunal-over-the-firing-of-31-workers-gets-underway",
+      "confidence": "high"
+    },
+    {
+      "id": "fcfb440483124b8c2f658073be650c58f1417fc2629ee01c91e38b5c0d7f9e07",
+      "title": "Ex-Rockstar dev predicts GTA 6 Online will let RP players make real money from custom content",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-09T17:30:14Z",
+      "description": "A former Rockstar Games developer believes GTA 6 Online could eventually let players create and monetize their own stories through roleplay.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/09/gta-6-jason-lucia-escape.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/ex-rockstar-dev-predicts-gta-6-online-will-let-rp-players-make-real-money-from-custom-content-3407543/",
+      "confidence": "medium"
+    },
+    {
+      "id": "0d3e614e8cc30b183335bebad00b622725ca898a1b3fb559194fd14344cb1c12",
+      "title": "GTA 6 Was Not “Fully Formed” When Trailer 1 Came Out In 2023",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-09-09T14:56:41Z",
+      "description": "When Rockstar released GTA 6's first trailer in December 2023, the game looked like it was coming along well, but it wasn't \"fully formed\" back then. That's according to Rockstar North boss Rob Nelson, who said in an interview that the trailer's song, Tom Petty's \"Love is a Long Road\" was a \"miss...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-was-not-fully-formed-when-trailer-1-came-out-in-2023/",
+      "confidence": "high"
+    },
+    {
+      "id": "40d503e3113a381d7cec521d4aa1d7b41cfbf1a72f2a2d4a4b7dd438d4b64334",
+      "title": "Professor Layton Debuts on PS5 This December, New World of Steam Gets Release Date",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-09-09T14:45:00Z",
+      "description": "Puzzler offers something different after GTA 6.Level-5 has announced that Professor Layton's debut on PS5 will round out the year, with Professor Layton and the New World of Steam now confirmed for a 10th December 2026 release. If you need to play something completely different after GTA 6, why n...",
+      "image": "https://images.pushsquare.com/a16226bae2b02/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/09/professor-layton-debuts-on-ps5-this-december-new-world-of-steam-gets-release-date",
+      "confidence": "medium"
+    },
     {
       "id": "d27f00b28556d25c644e0af0a116bf2f38c064412d9146bbd7df0dde8e6d4018",
       "title": "Preview: Dragon Quest's Pokémon-Like Monster Game Could Be PS5's Perfect Cosy Escape",
@@ -135,42 +219,6 @@
       "confidence": "medium"
     },
     {
-      "id": "4203bfedfadcadd72384822062f9eecae8660b7af2a0a27725d395909e02f94d",
-      "title": "Rockstar boss explains GTA 6 gun change that will get you in more trouble than before",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-09-07T11:04:47Z",
-      "description": "Rockstar Games’ Rob Nelson has explained one of GTA 6’s biggest changes as it pertains to walking around with weapons, as it’ll be pretty different from Grand Theft Auto 5.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/25/GTA-6-wont-let-players-carry-all-their-guns-at-once.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/rockstar-boss-explains-gta-6-gun-change-that-will-get-you-in-more-trouble-than-before-3406367/",
-      "confidence": "medium"
-    },
-    {
-      "id": "bc53cd4051275a4e97e298348a9ee28ff20f301a5c98956d90fbfc1cf8190f3e",
-      "title": "Preview: I Still Can't Believe This Insanely Ambitious PS5 Open World Is Real",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-09-06T14:00:00Z",
-      "description": "More hands-on time with the remarkable Ananta.I’ve touched the ultra-ambitious anime open world game Ananta a couple of times now, and I still can’t quite believe it’s real.But it’s launching on 15th January, just weeks after the equally impressive GTA 6, setting up an exciting end to the PS5 gen...",
-      "image": "https://images.pushsquare.com/8abff222b66ca/small.jpg",
-      "url": "https://www.pushsquare.com/previews/i-still-cant-believe-this-insanely-ambitious-ps5-open-world-is-real",
-      "confidence": "medium"
-    },
-    {
-      "id": "29ce53cc1fa602ccbcd25bd76656764c0f3b53a3205c482ec943ab4397fb880b",
-      "title": "Preview: I Didn't Expect This Alice in Wonderland Roguelite to Be This Deep",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-09-05T23:00:00Z",
-      "description": "Curiouser and curiouser.Regular readers will know I’m a little bit obsessed with Alice in Wonderland, so I was always going to give CRYMELIGHT the time of day.Launching on 5th November, this is one of the few titles to occupy the GTA 6 exclusion zone, which I personally find hilarious.Read the fu...",
-      "image": "https://images.pushsquare.com/9f2e70a3f012c/small.jpg",
-      "url": "https://www.pushsquare.com/previews/i-didnt-expect-this-alice-in-wonderland-roguelite-to-be-this-deep",
-      "confidence": "medium"
-    },
-    {
       "id": "4a2bb89ef5c14dbc7c5ddce0a9283f11f8a5ef4ae4f91201b5f2a8fdd3b3361f",
       "title": "Downtown Miami Pushing For GTA 6 Billboards To Go Up Next Month",
       "source": "RockstarINTEL",
@@ -192,54 +240,6 @@
       "description": "Nearly 4 million people tuned into co-streams of the Grand Theft Auto VI Extended Look on Netflix last week. That&#8217;s according to Stream Charts who collected the data. The 27 minute long video premiered first on Netflix meaning there was a paywall to see it before it came to social media pla...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Ambrosia_06-copy.webp",
       "url": "https://rockstarintel.com/gta-6-gameplay-reveal-had-nearly-4-million-live-viewers-as-it-broke-netflix/",
-      "confidence": "high"
-    },
-    {
-      "id": "e8618ba7a2f8b2a9236d810825871d5bf9351dbb77911ed567099b771e912449",
-      "title": "Rockstar Censors GTA 6 Extended Look Trailer for China",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-09-04T19:48:54Z",
-      "description": "Rockstar Games has published a heavily censored version of the Grand Theft Auto 6 extended look reveal for China.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-gameplay-blog-1787861652027.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/rockstar-censors-gta-6-extended-look-trailer-for-china",
-      "confidence": "high"
-    },
-    {
-      "id": "955f7b5c8e681adb8809aaf63aced231249be39fe88768219bcf2c589e770cf2",
-      "title": "Could GTA 6 Come To PC Sooner Than Expected?",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-09-04T17:35:00Z",
-      "description": "GTA 6 could come to PC sooner than you may think. That&#8217;s according to a reputable journalist who has seemingly heard rumblings of some movement at Rockstar regarding the PC version of Grand Theft Auto VI. As we know, the next instalment in the GTA series launches only on PS5 and XBOX Series...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Vice_City_12-copy.webp",
-      "url": "https://rockstarintel.com/could-gta-6-come-to-pc-sooner-than-expected/",
-      "confidence": "high"
-    },
-    {
-      "id": "14904753bcb55f67d2f16cd7a7db492dcc63f1f7b8423390d7348c865edcff71",
-      "title": "Hype for GTA 6 is giving PS5 and Xbox console sales a much needed 30% boost",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-09-04T17:14:16Z",
-      "description": "GTA 6 is already giving PlayStation and Xbox consoles a much needed sales boost, at least in the UK, even though Rockstar Games' inevitable pile of cash doesn't drop for another couple of months. Read more",
-      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-hype-giving-ps5-xbox-series-sales-boost",
-      "confidence": "high"
-    },
-    {
-      "id": "e4ba06125c77f8a013114979dc047e55983933033fac1e651d89406943e0bf0c",
-      "title": "Podcast: GTA 6 boosts console sales… but will it last?",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-09-04T16:52:07Z",
-      "description": "Plus: The debate over digital ownership rages on",
-      "image": "https://www.videogameschronicle.com/files/2026/09/Podcast-187-YT.jpg",
-      "url": "https://www.videogameschronicle.com/blog/podcast/podcast-gta-6-boosts-console-sales-but-will-it-last/",
       "confidence": "high"
     }
   ]
