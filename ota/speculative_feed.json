@@ -1,7 +1,67 @@
 {
-  "lastUpdated": "2026-09-13T13:05:07Z",
+  "lastUpdated": "2026-09-14T14:42:00Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "e6a112865c21b8cea2fb14ea0c3870a3f649f62dba606d6c7315ab697e849797",
+      "title": "The GTA VI Effect: New Report Details Massive Music Streaming Surges",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-09-14T10:59:06Z",
+      "description": "A report has revealed more stats on just how much the Grand Theft Auto VI Extended Look boosted songs and artists&#8217; popularity. Mat Ombler of MusicEXP has analysed a ton of data and put together a detailed report breaking down things such as growth in Spotify streams, social media stat incre...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Real_Dimez_04-scaled.jpg",
+      "url": "https://rockstarintel.com/the-gta-vi-effect-new-report-details-massive-music-streaming-surges/",
+      "confidence": "high"
+    },
+    {
+      "id": "06918575f81f0bd85e3dbd08175f9432ab30aeea62f38f8e3697fb72f95aa69a",
+      "title": "First GTA 6 Actor Officially Confirmed, And It’s A Big Name",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "Rumor",
+      "publishedAt": "2026-09-14T10:26:31Z",
+      "description": "There's been speculation for months over who could be voicing the GTA 6 cast, but nothing has been officially confirmed, either by developer Rockstar or any of the starring talents, until now. \n\n\n\nAt the BAFTA TV Tea Party, held at The Maybourne Beverly Hills in California, actor Stephen Root was...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/first-gta-6-actor-officially-confirmed-and-its-a-big-name/",
+      "confidence": "high"
+    },
+    {
+      "id": "f33abe31a7b760b28d7f16d01c7125fc44418da7c225b553aa1384afe01cdb71",
+      "title": "First Major Cast Member Confirms Appearance in GTA 6, Seemingly Going Off Rockstar's Script",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-14T10:14:56Z",
+      "description": "The first major cast member has confirmed his appearance in Grand Theft Auto 6, seemingly going off Rockstar’s tightly controlled marketing script.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/14/brian-heder-01-0r-ute88os9k-1789380658191.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/first-major-cast-member-confirms-appearance-in-gta-6-seemingly-going-off-rockstars-script",
+      "confidence": "high"
+    },
+    {
+      "id": "6abade8c6e452aed2f1ed32bd6d61be8d496a92d706924662e5349b0c279d246",
+      "title": "GTA 6 actor confirms he’s in the game after trying to keep it “secret”",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-14T10:10:08Z",
+      "description": "Actor Stephen Root has become the first actor to confirm that they’re in GTA 6, openly talking about the role ahead of launch.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/05/06/Brian-Heder-GTA-6-angry.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-actor-confirms-hes-in-the-game-after-trying-to-keep-it-secret-3408818/",
+      "confidence": "medium"
+    },
+    {
+      "id": "f19440859e45bf65e200f943dee7b6e960821a453d97927ab49d50e55b826878",
+      "title": "Stephen Root Confirms His GTA 6 Role",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-09-14T08:38:58Z",
+      "description": "Actor Stephen Root has confirmed he was cast in GTA 6 after a long period of fans assuming that he will be one of the characters we&#8217;ll be spending plenty of time with. When trailer 2 dropped, GTA VI fans were quick to connect Brian Heder&#8217;s voice with the Floridian. Now that speculatio...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2025/05/Brian_Heder_03-scaled.jpg",
+      "url": "https://rockstarintel.com/stephen-root-confirms-his-gta-6-role/",
+      "confidence": "high"
+    },
     {
       "id": "ca03b5d04b716a13cbb54b334ceeafd9944bc94915f544b752cdca2aa93d1cc9",
       "title": "GTA 6 Reviews Plague Real-Life Nudist Resort After Fans Draw Comparisons to Leaks",
@@ -159,18 +219,6 @@
       "confidence": "medium"
     },
     {
-      "id": "bd146552c18667bf5382ad20241d589ce33e5f8e9085a961e3caf53e32fc1ef4",
-      "title": "GTA 6's Limited Edition PS5 Controller Preorders Overload PlayStation's Store, and Scalpers Are Already Reselling Them on eBay",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-09-10T17:27:14Z",
-      "description": "Pre-orders went live for Grand Theft Auto 6's new PS5 controllers this morning and the experience was extremely chaotic.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/03/gta6controllerad-1788443314402-1788461933302.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6s-limited-edition-ps5-controller-pre-orders-overload-playstations-store-and-scalpers-are-already-reselling-them-on-ebay",
-      "confidence": "high"
-    },
-    {
       "id": "cec1b15987f845a9585ab2eac33f96862afede59b79845514501a735d8dfa32a",
       "title": "GTA VI Extended Look Earned Netflix Around $1M",
       "source": "RockstarINTEL",
@@ -183,18 +231,6 @@
       "confidence": "high"
     },
     {
-      "id": "92b7a373abfec1957b4ce088e35401e0e6234b703f2351bd01145eb339eb84e9",
-      "title": "GTA 6 Trailer Drove 100,000 Netflix Sign-Ups In The US Alone In One Day, Analyst Claims",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-10T15:37:28Z",
-      "description": "Netflix and Rockstar Games worked together on the recent 26-minute GTA 6 Extended Look trailer, and it seemingly paid off in multiple ways for the streaming company. After Netflix's own data showed that the Extended Look was  incredibly popular with viewers, it's now been reported that the Extend...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-trailer-drove-100000-netflix-sign-ups-in-the-us-alone-in-one-day-analyst-claims/",
-      "confidence": "high"
-    },
-    {
       "id": "00c5be1899f4c1b59b8b4d67bff7b2c6987619d9d59c14ccac63a55bdda117bc",
       "title": "Guide: Where to Pre-Order GTA 6 Controllers for PS5",
       "source": "Push Square",
@@ -204,42 +240,6 @@
       "description": "USA, UK links to pre-order GTA 6 limited edition PS5 controllers.Ahead of the title's release on 19th November 2026, Sony and Rockstar have teamed up to offer two PS5 limited-edition controllers themed around GTA 6.There's a black one and a white one, with both sporting a blue / purple faceplate ...",
       "image": "https://images.pushsquare.com/db097012c3002/small.jpg",
       "url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
-      "confidence": "medium"
-    },
-    {
-      "id": "5813fa17bba4e47cac6e12af024a59ce738f3046550838d9f0eab01338905e13",
-      "title": "\"Today, we are fighting fear\" - Final hearing in Rockstar Games vs. fired GTA 6 developers tribunal begins",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-09-10T12:25:25Z",
-      "description": "The final hearing in the Rockstar Games versus the 31 fired GTA 6 developers employment tribunal has begun in Scotland, and it's opened to rallies and rousing speeches from the people unceremoniously marched out of the company's offices last October. Read more",
-      "image": "https://assetsio.gnwcdn.com/Jason_Duval_07.0ca326xbl~oyh.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/rockstar-employment-tribunal-fired-gta-6-employees-iwgb",
-      "confidence": "high"
-    },
-    {
-      "id": "5ec4f7681087080862eea1775906261c3ecf0e46a392cd0a41611b44f396855a",
-      "title": "GTA 6 is Single-Handedly Saving Console Sales Revenue",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Rumor",
-      "publishedAt": "2026-09-10T12:15:00Z",
-      "description": "Grand Theft Auto 6 is set to drive immense console growth later this year, a new report has estimated in the gaming space.\nThe post GTA 6 is Single-Handedly Saving Console Sales Revenue appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
-      "url": "https://insider-gaming.com/gta-6-is-single-handedly-saving-console-sales-revenue/",
-      "confidence": "high"
-    },
-    {
-      "id": "fcfb440483124b8c2f658073be650c58f1417fc2629ee01c91e38b5c0d7f9e07",
-      "title": "Ex-Rockstar dev predicts GTA 6 Online will let RP players make real money from custom content",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-09-09T17:30:14Z",
-      "description": "A former Rockstar Games developer believes GTA 6 Online could eventually let players create and monetize their own stories through roleplay.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/09/gta-6-jason-lucia-escape.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/ex-rockstar-dev-predicts-gta-6-online-will-let-rp-players-make-real-money-from-custom-content-3407543/",
       "confidence": "medium"
     }
   ]
