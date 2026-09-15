@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-14T14:42:00Z",
+  "lastUpdated": "2026-09-15T13:06:32Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "628dc4f6cd8b0fa77615ea76e4c287790b6e6ca9a94310ef4337cff3584c244d",
+      "title": "GTA 6's first confirmed actor is King of the Hill's Stephen Root: \"It's an amazing thing to look at\"",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-09-14T19:04:43Z",
+      "description": "Rockstar Games hasn't said much about who's voicing the GTA 6 cast, but we now know at least one big-name actor attached to the upcoming crime epic: Stephen Root. Read more",
+      "image": "https://assetsio.gnwcdn.com/GTA-6-Brian-Heder.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-confirmed-actor-king-of-the-hill-stephen-root",
+      "confidence": "high"
+    },
+    {
+      "id": "909f7d8c690fd1b5b552e0c0bf9819aaf5fd231becb0c215455b08260b522596",
+      "title": "The First GTA 6 Actor Has Confirmed Their Involvement, and Nobody's Surprised",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-09-14T16:30:00Z",
+      "description": "Your voice is familiar, Brian.GTA 6 is on the horizon, and as we draw ever closer to the biggest game of the year, it seems some actors are starting to let slip their involvement with the project.Namely, Stephen Root has confirmed his role in the game, per an interview with the Associated Press —...",
+      "image": "https://images.pushsquare.com/fe94ef1f56984/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/09/the-first-gta-6-actor-has-confirmed-their-involvement-and-nobodys-surprised",
+      "confidence": "medium"
+    },
     {
       "id": "e6a112865c21b8cea2fb14ea0c3870a3f649f62dba606d6c7315ab697e849797",
       "title": "The GTA VI Effect: New Report Details Massive Music Streaming Surges",
@@ -216,30 +240,6 @@
       "description": "Rockstar Games has described details about GTA 6’s online mode as one of its most closely guarded secrets.",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/10/gta-6-security-online-details.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/rockstar-says-gta-6-online-is-a-closely-guarded-secret-as-32-player-details-emerge-3407990/",
-      "confidence": "medium"
-    },
-    {
-      "id": "cec1b15987f845a9585ab2eac33f96862afede59b79845514501a735d8dfa32a",
-      "title": "GTA VI Extended Look Earned Netflix Around $1M",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-09-10T16:06:46Z",
-      "description": "The Grand Theft Auto VI Extended Look brought in over six figures in paid subscribers for Netflix. According to data provided by Ampere Analysis via gamesindustry.biz, the GTA VI Extended Look saw Netflix gain over 100,000 sign-ups in the USA during the 6 hours of exclusivity on August 27th. If a...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Jason_Duval_10-copy.webp",
-      "url": "https://rockstarintel.com/gta-vi-extended-look-earned-netflix-around-1m/",
-      "confidence": "high"
-    },
-    {
-      "id": "00c5be1899f4c1b59b8b4d67bff7b2c6987619d9d59c14ccac63a55bdda117bc",
-      "title": "Guide: Where to Pre-Order GTA 6 Controllers for PS5",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-09-10T14:05:00Z",
-      "description": "USA, UK links to pre-order GTA 6 limited edition PS5 controllers.Ahead of the title's release on 19th November 2026, Sony and Rockstar have teamed up to offer two PS5 limited-edition controllers themed around GTA 6.There's a black one and a white one, with both sporting a blue / purple faceplate ...",
-      "image": "https://images.pushsquare.com/db097012c3002/small.jpg",
-      "url": "https://www.pushsquare.com/guides/where-to-pre-order-gta-6-controllers-for-ps5",
       "confidence": "medium"
     }
   ]
