@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-19T12:15:20Z",
+  "lastUpdated": "2026-09-20T12:50:16Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "b16a8d762697e9c0836a332e3792f994f72e753a4172c3d5aea091790dd50a9b",
+      "title": "Daughter makes emotional plea to Rockstar so terminally ill dad can play GTA 6",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-19T15:30:18Z",
+      "description": "A daughter took to Reddit to ask for help in reaching Rockstar, with the aim of securing her terminally-ill father an early copy of GTA 6.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/08/10/gta-6-robbery-netflix.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gaming/daughter-hopes-to-reach-rockstar-with-story-of-terminally-ill-father-who-wants-to-play-gta-6-3410361/",
+      "confidence": "medium"
+    },
     {
       "id": "fe21b94aae779bc26356cdfbd2043b9c42f473c2b3fc829a61a12ec08dcaacb3",
       "title": "Rockstar Spending $1M On GTA 6 Signs In Miami",
@@ -229,18 +241,6 @@
       "image": "https://insider-gaming.com/wp-content/uploads/2026/09/GTA-6-Album.jpg",
       "url": "https://insider-gaming.com/gta-6-limited-edition-physical-album-has-a-125-price-tag/",
       "confidence": "high"
-    },
-    {
-      "id": "2f9fca0dbfffa29b2a95db1eabca2ce58b8a48d0e75c190311ceb752a73cbea5",
-      "title": "GTA 6 music album revealed with $125 limited-edition vinyl",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-09-17T12:24:45Z",
-      "description": "A Grand Theft Auto 6 album is set to release alongside the game on November 19, and there will be a collector’s edition vinyl to go alongside it.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/17/gta-6-album-revealed.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-music-album-revealed-with-125-limited-edition-vinyl-3409890/",
-      "confidence": "medium"
     }
   ]
 }
