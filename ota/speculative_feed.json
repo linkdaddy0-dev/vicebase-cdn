@@ -1,7 +1,91 @@
 {
-  "lastUpdated": "2026-09-22T13:03:14Z",
+  "lastUpdated": "2026-09-23T13:19:51Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "fc68e060ff42da9ececcf6008fcdd65c674a618945b099a427a03bcfd6ce5f88",
+      "title": "‘Vice City’ Trademark Abandoned by WWE ahead of GTA 6 launch",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-23T11:33:38Z",
+      "description": "With GTA 6 imminent, it appears that WWE was trying to trademark the term ‘Vice City,’ before abandoning plans to do so.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/23/lola-gta-1790163051974.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/vice-city-trademark-abandoned-by-wwe-ahead-of-gta-6-launch",
+      "confidence": "high"
+    },
+    {
+      "id": "9dc61c7ed84e35b152b1457aae7bb7cf43e1580547b13bd442c3421c1156c4ca",
+      "title": "GTA 6’s Takeover Of Miami Begins With $1M Sign",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-09-23T09:05:53Z",
+      "description": "GTA 6&#8217;s takeover of Miami has begun as we enter the final 2 months before launch. Anyone flying into Miami International Airport from the ocean will now see a “Welcome to Vice City” and VI sign on top of the Kaseya Center. WPLG Local 10 News got aerial footage of the sign as seen in [...]\nT...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Kaseya-Center-gets-Vice-City-lettering-00-02-24-copy.webp",
+      "url": "https://rockstarintel.com/gta-6s-takeover-of-miami-begins-with-1m-sign/",
+      "confidence": "high"
+    },
+    {
+      "id": "a3e6dfefba4a8e6282f6a6557d4c21d04a848c294337de3e34e39a3608010986",
+      "title": "NBA star Steven Adams says GTA 6 will make sports leagues “plummet” in November",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-22T23:04:46Z",
+      "description": "Houston Rockets center Steven Adams has warned that GTA 6 could derail performances across professional sports when it launches in November.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/23/gta-6-sports-league-performances.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/nba-star-steven-adams-says-gta-6-will-make-sports-leagues-plummet-in-november-3411467/",
+      "confidence": "medium"
+    },
+    {
+      "id": "03106c669ef45fd0e10645267d55807ce70f05f5d282eb10abcdcf6f16a9ec9b",
+      "title": "NBA Star Steven Adams Says GTA 6's Launch Will Lead to a 'League-Wide' Drop in Performance for Athletes and Coaches",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-22T22:36:03Z",
+      "description": "NBA athlete Steven Adams has warned that fans should expect a \"league-wide\" drop in performance for athletes across all sports in November due to GTA 6's release.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/nba-star-steven-adams-says-gta-6s-launch-will-lead-to-a-league-wide-drop-in-performance-for-athletes-and-coaches",
+      "confidence": "high"
+    },
+    {
+      "id": "8f54d6efc89e23c9b81b75774198d4eca831d63c2c9aa05c16391f0c4d2fb703",
+      "title": "Grand Theft Auto 6's Miami Takeover Begins as Rockstar Spends Nearly $1 Million on 'Welcome to Vice City' Signage",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "Rumor",
+      "publishedAt": "2026-09-22T20:26:52Z",
+      "description": "Rockstar Games has reportedly spent $1 million to install a \"Welcome to Vice City\" sign in Miami as part of Grand Theft Auto 6's marketing push.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/grand-theft-auto-6s-miami-takeover-begins-as-rockstar-spends-nearly-1-million-on-welcome-to-vice-city-signage",
+      "confidence": "high"
+    },
+    {
+      "id": "d595d26f5111de29f837353bc0d8dc9e3827ab10eb8c7cab64cc0db47dc379b1",
+      "title": "Rainbow Six Siege boss says players who stick around during GTA 6’s launch will be served ‘like kings and queens’",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "News",
+      "publishedAt": "2026-09-22T14:52:04Z",
+      "description": "\"We double down and reward those spending their valuable time with us\"",
+      "image": "https://www.videogameschronicle.com/files/2026/09/rainbow-six-siege.jpg",
+      "url": "https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/",
+      "confidence": "high"
+    },
+    {
+      "id": "a1fb39df0a26af1d4f3011504e849c22d417943a71bcd9023d026fb6361471dd",
+      "title": "GTA 6 Is Taking Over Miami, One Airlifted Letter At A Time",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-09-22T14:25:05Z",
+      "description": "Ahead of its release in November, the marketing for Grand Theft Auto 6 has begun to take over Miami's Kaseya Center. As part of the campaign, developer Rockstar Games and publisher Take-Two Interactive are decking out the stadium in giant GTA 6 letters that will spell out \"Welcome to Vice City\" o...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-one-airlifted-letter-at-a-time/",
+      "confidence": "high"
+    },
     {
       "id": "98695fede2d93c877040e026ceecbf183d718cdebaba1e4b79af646bd4d3818c",
       "title": "Rockstar Games Is Taking Down Footage and Images of Scrapped GTA 5 DLC And Early Version of Leaked GTA 6 Map",
@@ -24,18 +108,6 @@
       "description": "Ahead of the bottomless GTA 6 mods we'll surely get whenever the crime epic finally comes to PC, Rockstar Games has imposed new restrictions on the modding community and, boy, they are tight. Read more",
       "image": "https://assetsio.gnwcdn.com/gta-6-jason_9MumaLo.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions",
-      "confidence": "high"
-    },
-    {
-      "id": "4277df7ddc3027d1743145932d0548d92fa8eeee7852cd3a911b8e46ff77dd28",
-      "title": "Rockstar Games' New Modding Policy Crushes Influencers' Dreams for Monetized GTA 6 RP Servers",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-09-21T18:43:44Z",
-      "description": "Rockstar Games has outlined its policy for modding ahead of Grand Theft Auto 6's release, and it may crush the dreams of some would-be entrepreneurs.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/rockstar-games-new-modding-policy-crushes-influencers-dreams-for-monetized-gta-6-rp-servers",
       "confidence": "high"
     },
     {
@@ -168,78 +240,6 @@
       "description": "A huge, new but familiar GTA VI and GTA V leak has hit the internet. Over 192GB of unreleased, cut GTA V/GTA Online content plus GTA VI models and more are spreading across social media. We&#8217;ll be taking a look at everything including the cancelled Liberty City map expansion for GTA V/GTA On...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Jason_Duval_07-copy.webp",
       "url": "https://rockstarintel.com/huge-192gb-gta-6-and-gta-online-leak-reveals-unreleased-content/",
-      "confidence": "high"
-    },
-    {
-      "id": "c1c8af46a981be196c1cf2116381ac387fbfb3ba9e3556a79c9c5f52f55420e4",
-      "title": "Twitch CEO says Grand Theft Auto 6’s multiplayer mode will launch next year",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-09-18T11:18:55Z",
-      "description": "Dan Clancy says he's \"spent a lot of time talking with Rockstar about their plans\"",
-      "image": "https://www.videogameschronicle.com/files/2026/09/gta6.jpg",
-      "url": "https://www.videogameschronicle.com/news/twitch-ceo-says-grand-theft-auto-6s-multiplayer-mode-will-launch-next-year/",
-      "confidence": "high"
-    },
-    {
-      "id": "f5038fd2b05cffe26df260b9e6f4344782e446cea5fe98d0b0f1653faf342456",
-      "title": "192 GB of Grand Theft Auto 5 and GTA 6 Content Leaks Online",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Leak",
-      "publishedAt": "2026-09-18T10:42:51Z",
-      "description": "A new set of GTA 5 and GTA 6 leaks has surfaced online revealing map expansion details, cut missions and more. \nThe post 192 GB of Grand Theft Auto 5 and GTA 6 Content Leaks Online appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/06/GTA-6-Vice-City.jpg",
-      "url": "https://insider-gaming.com/192-gb-of-grand-theft-auto-5-and-gta-6-content-leaks-online/",
-      "confidence": "high"
-    },
-    {
-      "id": "9bb9dd68b52a81ae1e5d7ae30c3070b96c4d0c4cad18b32acfaf9ef89cabb43d",
-      "title": "Rockstar hasn't said anything about a GTA 6 Online multiplayer mode just yet, but Twitch's CEO reckons it'll land next year",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-09-18T10:15:25Z",
-      "description": "Rockstar has remained very tight-lipped about GTA 6's multiplayer component, the potential successor to GTA 5's incredibly popular Grand Theft Auto Online, not yet commenting on whether it will even launch one. All we know currently is that when Grand Theft Auto 6 arrives on 19th November, it'll ...",
-      "image": "https://assetsio.gnwcdn.com/GTA-Online-6_vy3MsZh.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-online-release-date-twitch-ceo",
-      "confidence": "high"
-    },
-    {
-      "id": "562f06f0bba944b54bb17e1c3ef5445559e54c3abfc894d727047cd054d31435",
-      "title": "GTA 6 might get Liberty City DLC as massive map update leaked",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-09-18T09:20:53Z",
-      "description": "A massive Grand Theft Auto leak has revealed an updated version of Liberty City, as well as a new look at GTA 6’s map.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/18/GTA-6-might-get-Liberty-City-DLC-as-massive-map-update-leaked.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-might-get-liberty-city-dlc-as-massive-map-update-leaked-3410050/",
-      "confidence": "medium"
-    },
-    {
-      "id": "0bd19e25d140da4ff8a9e3048a6b823ba5a1368a5c6396595e475f8e0008487b",
-      "title": "GTA 6 Will Feature The “Next Evolution Of In-Game Radio,” Rockstar Says",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-17T19:17:49Z",
-      "description": "Tucked away at the bottom of Rockstar's blog post today announcing GTA 6: The Album was a line about other updates to come for the game regarding its sound and music. \n\n\n\nRockstar said fans should \"stay tuned for more details about the music of GTA 6,\" and specifically the game's \"dynamic score.\"...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-will-feature-the-next-evolution-of-in-game-radio-rockstar-says/",
-      "confidence": "high"
-    },
-    {
-      "id": "815bcc4b77b3c01209639568b177e3e6fa956ba562f74086bc40c1516afaf3bd",
-      "title": "Scientists Discovered A New Cat Before Rockstar Could Finish GTA 6",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-09-17T18:53:17Z",
-      "description": "Rockstar's Grand Theft Auto 6 has been in development since 2015, and a lot of things have happened since then, including the recent discovery a new species of cat. \n\n\n\nThe scientific journal Current Biology disclosed the discovery of Leopardus tilcayo--known as the tilcayo tiger cat--this week. ...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/scientists-discovered-a-new-cat-before-rockstar-could-finish-gta-6/",
       "confidence": "high"
     }
   ]
