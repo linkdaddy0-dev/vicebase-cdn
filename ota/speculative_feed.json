@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-09-27T13:30:33Z",
+  "lastUpdated": "2026-09-28T16:25:17Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "d8fbe75d93ed2389c4609e3b963028e0a4ad04d1caa39ac57247ff34612b5217",
+      "title": "Grand Theft Auto 6 (GTA 6): Release Date, Leaks, Gameplay, and What We Know So Far",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Leak",
+      "publishedAt": "2026-09-28T15:33:30Z",
+      "description": "Looking for the latest on GTA 6? Here’s everything we know about the release date, leaks, gameplay details, and what Rockstar has confirmed so far.\nThe post Grand Theft Auto 6 (GTA 6): Release Date, Leaks, Gameplay, and What We Know So Far appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2025/09/GTA-6-in-game-websites.jpg",
+      "url": "https://insider-gaming.com/gta-6-release-date-leaks-gameplay/",
+      "confidence": "high"
+    },
+    {
+      "id": "c3269c6cb25f26a28e186eb918aa9765a0aba91fd898b45dd82c7e605710f4db",
+      "title": "GTA 6’s “advanced” weather system finally confirmed after years of rumors",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "Rumor",
+      "publishedAt": "2026-09-28T13:10:14Z",
+      "description": "After years of rumors, it has been confirmed that Grand Theft Auto 6 will have an “advanced weather system,” that will really help those Floridian days when the sun doesn’t shine so brightly.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/04/gta-6-youtube-rules.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6s-advanced-weather-system-finally-confirmed-after-years-of-rumors-3413021/",
+      "confidence": "medium"
+    },
     {
       "id": "309f3731c7e43a600d19c8e721c1e782ec3a1d1be96bf388d70367238a62ddc3",
       "title": "GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots",
@@ -147,18 +171,6 @@
       "confidence": "high"
     },
     {
-      "id": "42f509f92679674cc553ac42777310bb2ec1e6e653a076dcb34ff79f437aadb6",
-      "title": "Grand Theft Auto dev explains why GTA 6 on Switch 2 “doesn’t make sense”",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-09-24T20:17:46Z",
-      "description": "A former GTA 6 dev has explained why he doesn’t think the game will be ported to Switch 2, but it could be playable on phones.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/24/gta-6-nintendo-switch-2.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/grand-theft-auto-dev-explains-why-gta-6-on-switch-2-doesnt-make-sense-3412329/",
-      "confidence": "medium"
-    },
-    {
       "id": "dbe63040be7d246607f9f6457ef1da25a7126c0118a00dbc35eb872f1eb23bfc",
       "title": "GTA 6 Fans Are Outraged by $400 Collector's Set and Are Comparing It to Red Dead Redemption 2's Version",
       "source": "IGN",
@@ -228,18 +240,6 @@
       "description": "Rockstar Games has officially confirmed a $400 Grand Theft Auto 6 collector's edition, which doesn't include the game. The developer says The Goodtime State: Vice City Collection is inspired by Leonida’s hit TV show, Macca the Gator, and it's now available to preorder. It'll launch on November 19...",
       "image": null,
       "url": "https://www.gamespot.com/articles/gta-6-400-collectors-edition-comes-with-everything-except-the-game/",
-      "confidence": "high"
-    },
-    {
-      "id": "67898daaff159bef4f0477403c243971b47b88f3cf94c476b7207b893ca5b3ce",
-      "title": "GTA 6 Is Getting a $400 Collector's Set That Doesn't Include the Game",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-09-24T15:20:43Z",
-      "description": "GTA 6 is getting a $400 collector's set filled with Vice City-themed goodies, but it won't include a copy of the game.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/24/hs-zd2uxmam8pud-1790262840926.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-is-getting-a-400-collectors-set-that-doesnt-include-the-game",
       "confidence": "high"
     }
   ]
