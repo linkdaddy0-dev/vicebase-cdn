@@ -1,7 +1,43 @@
 {
-  "lastUpdated": "2026-09-30T14:34:38Z",
+  "lastUpdated": "2026-10-01T15:03:29Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "7a6238d817c7e5e88ec3244b2b7f72015b00c7528fa75a2c63520a80b0aeed74",
+      "title": "Rockstar Suggests Disney World and SeaWorld Probably Won't Be in GTA 6",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-09-30T21:54:59Z",
+      "description": "Rockstar has suggested that GTA 6 probably won't feature some key Florida attracts, such as Disney World and SeaWorld.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/rockstar-suggests-disney-world-and-seaworld-probably-wont-be-in-gta-6",
+      "confidence": "high"
+    },
+    {
+      "id": "89b0e6b058477a0e6796d139d5b1298161e8305c89953981ebb431dd597df007",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-09-30T17:04:55Z",
+      "description": "If you thought Red Dead Redemption 2's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and \"re-engineered our weather system\" for GTA 6. Hurricanes, rainbows and \"vertiginous cumulonimbus clouds\" are all part of the upcoming open worl...",
+      "image": "https://assetsio.gnwcdn.com/gta-6_XFAse3R.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "confidence": "high"
+    },
+    {
+      "id": "30cbd5ffa8eb7b5e60a7f5ac54300d7ee4b65e39cc47d7fe5cd4866330e4c22e",
+      "title": "Rockstar says GTA 6’s map is so big you won’t see it all just by playing story missions",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-09-30T14:35:47Z",
+      "description": "Rockstar Games has reiterated that GTA 6’s map is double the size of Grand Theft Auto 5’s map, and they can’t hold your hand around every part.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/09/gta-6-lucia-rob-store.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/rockstar-says-gta-6s-map-is-so-big-you-wont-see-it-all-just-by-playing-story-missions-3414118/",
+      "confidence": "medium"
+    },
     {
       "id": "675fb9016b4b54abd3e5ce07c864f3d90b93b30c2d3ce183746417338752dc76",
       "title": "New GTA 6 Merch Previewed Ahead Of Release",
@@ -111,18 +147,6 @@
       "confidence": "high"
     },
     {
-      "id": "cb4849bc531d1d0503d2604bfc94bb19824c328986261ac8cf124c5fb5435dd5",
-      "title": "Rockstar Confirms GTA 6 Simulates Tropical Storms and Hurricanes",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-09-29T18:15:41Z",
-      "description": "It sounds like Grand Theft Auto 6 will take open world weather effects to another level, with simulated tropical storms and hurricanes.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/rockstar-confirms-gta-6-simulates-tropical-storms-and-hurricanes",
-      "confidence": "high"
-    },
-    {
       "id": "46ac87688c811618d2050f56832e0aec88f58f8aa4fc01c53c170cc2d784f221",
       "title": "GTA 6 Reveals Massive, Dense Open World in 13 New Screenshots, Details",
       "source": "Push Square",
@@ -144,18 +168,6 @@
       "description": "Rockstar has revealed new details about GTA 6’s weather system, confirming hurricanes, tropical storms, and more info.",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/29/gta-6-storms-hurricanes.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/gta-6s-weather-system-revealed-with-hurricanes-tropical-storms-dynamic-wind-3413591/",
-      "confidence": "medium"
-    },
-    {
-      "id": "7193c2cf4d53c6d223d4315eaec5c6049158b749be09adfe83d0cc2661701fdd",
-      "title": "GTA 6 will feature over 170 different animals including “Legendary” ones",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-09-29T17:48:12Z",
-      "description": "Rockstar Games has announced a treasure trove of new details about GTA 6 including activities and how many animals players can study.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/29/lucia-gta-6-hunting.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-will-feature-over-170-different-animals-including-legendary-ones-3413584/",
       "confidence": "medium"
     },
     {
@@ -229,18 +241,6 @@
       "image": "https://images.pushsquare.com/b946a47621da1/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore",
       "confidence": "medium"
-    },
-    {
-      "id": "a6b8f41c85f2e9919ad1c05808375ad46c1980fe48be48afb626d21ce0db75ba",
-      "title": "GTA 6 ‘Breaking Records’ For XBOX Pre-Orders",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Rumor",
-      "publishedAt": "2026-09-25T09:28:55Z",
-      "description": "Amid reports of PlayStation pre-orders for GTA 6 heavily outskewing XBOX, it's been revealed the title is breaking records for Microsoft.\nThe post GTA 6 &#8216;Breaking Records&#8217; For XBOX Pre-Orders appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/08/GTA-6-Lucia-Boxing.jpg",
-      "url": "https://insider-gaming.com/gta-6-breaking-records-for-xbox-pre-orders/",
-      "confidence": "high"
     }
   ]
 }
