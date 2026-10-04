@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-10-03T13:00:38Z",
+  "lastUpdated": "2026-10-04T13:39:19Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "facf3b48f7c9e7669f18a4d0fd93acf9320b51e92f356335bc86fa3b66c7ba13",
+      "title": "Rockstar co-founder explains why he’s trying to avoid watching GTA 6 gameplay",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-04T09:51:44Z",
+      "description": "Rockstar co-founder Dan Houser says he plans to keep avoiding GTA 6, the first game in the series made without him.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/11/25/dan-houser-channel-4.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/rockstar-co-founder-explains-why-hes-trying-to-avoid-watching-gta-6-gameplay-3415238/",
+      "confidence": "medium"
+    },
     {
       "id": "ddda0292b8e7a73215f2f97529138061d50d77dfc6c10759866a8c6420d2c1ee",
       "title": "Rockstar Co-Founder Sam Houser Pulls Out Of GTA 6 Interview Ahead Of Launch",
@@ -159,7 +171,7 @@
       "confidence": "high"
     },
     {
-      "id": "eddd68801409fa384216f0ff9e667828aab84146fbd5f9c6f909b8c79a26da12",
+      "id": "e45f536f93006947295e09d328da5460c6deb19c9b9492825449f65b3352b454",
       "title": "New GTA 6 shirt brings Vice City’s 100% completion reward to real life",
       "source": "Dexerto",
       "sourceId": "dexerto_gta",
@@ -167,7 +179,7 @@
       "publishedAt": "2026-10-02T15:56:18Z",
       "description": "The Miami Heat’s new GTA 6 clothing collection includes a nod to the original Vice City, turning the T-shirt players earned for reaching 100% completion into something fans can wear in real life.",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/02/New-GTA-6-shirt-brings-Vice-Citys-100-completion-reward-to-real-life.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gaming/new-gta-6-shirt-brings-vice-citys-100-completion-reward-to-real-life-3415057/",
+      "url": "https://www.dexerto.com/gta/new-gta-6-shirt-brings-vice-citys-100-completion-reward-to-real-life-3415057/",
       "confidence": "medium"
     },
     {
@@ -229,18 +241,6 @@
       "image": "https://images.pushsquare.com/960f1e13a2519/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
       "confidence": "medium"
-    },
-    {
-      "id": "4b63fa4e5b77e7f2134bd889e67f6c16df5b187ad91ce4196d40cca0615ca73f",
-      "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-02T14:11:47Z",
-      "description": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/22/gta-6-vice-city-sign-1790108459424.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
-      "confidence": "high"
     }
   ]
 }
