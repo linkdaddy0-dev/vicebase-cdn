@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-04T13:39:19Z",
+  "lastUpdated": "2026-10-05T16:45:27Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "359c19b3eb62f24ee0fb36ee7ef0653ad2c47332a2af418388816de7db1181df",
+      "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-10-05T15:00:30Z",
+      "description": "In a new interview, Rockstar has discussed its revered approach to crafting the satire the Grand Theft Auto series is famous for - particularly relating to GTA 6 and whether the game should include, and lampoon, real-world politics. Read more",
+      "image": "https://assetsio.gnwcdn.com/Ambrosia_06.0j9c7-8nfb_xf.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/rockstar-gta-6-satire-politics-real-world-events",
+      "confidence": "high"
+    },
+    {
+      "id": "5b851e1195cb1fea5260184c9a176930717ab282bbf8618bd97981de0dae4c95",
+      "title": "10 New Things We Just Learned About GTA 6",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-05T14:04:17Z",
+      "description": "New information about Grand Theft Auto 6 continues to be revealed. Game Informer's most recent issue included a number of new details, and we've rounded up some of the key things we learned below.\n\n\n\nStory Setup\n\n\n\nIt seems like we'll start the game playing as Jason, since Lucia is still in priso...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/10-new-things-we-just-learned-about-gta-6/",
+      "confidence": "high"
+    },
+    {
+      "id": "81e61b2f5e50584afb9ca2a98abe5e84201ddab170a67cbf0303cf0dcb3aa63e",
+      "title": "Rockstar joined gang members and cops for GTA 6 research trips in Florida",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-05T10:27:11Z",
+      "description": "Rockstar Games developers traveled across Florida with both police officers and gang members as part of extensive research for GTA 6.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/04/gta-6-youtube-rules.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/rockstar-joined-gang-members-and-cops-for-gta-6-research-trips-in-florida-3415508/",
+      "confidence": "medium"
+    },
+    {
+      "id": "e5e143cbcd204178284bf6944c1083fdec83d6456b6de9f84a60f082ea16d6cb",
+      "title": "GTA 6 is deliberately avoiding direct political references, says Rockstar",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "News",
+      "publishedAt": "2026-10-05T09:57:26Z",
+      "description": "Rockstar writer says it wants to avoid recreating ‘the exact world we live in’",
+      "image": "https://www.videogameschronicle.com/files/2025/05/Brian_Heder_01.jpg",
+      "url": "https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/",
+      "confidence": "high"
+    },
+    {
+      "id": "bcbb0863c5f623bf009b4789edc875a883cbd31bbb8f34e8723400a3bb7715f3",
+      "title": "New GTA 6 Screenshot And Story, Open World Info Revealed In Magazine",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-10-05T09:21:19Z",
+      "description": "A new GTA 6 screenshot and development information has been released via a French fashion magazine. We previously got some quotes and screenshots from a preview which we reported on here and now the mag is out so there&#8217;s even more! On Monday, issue 27 of LOVE magazine released with an exclu...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/jason-lucia-love-vert-1280.webp",
+      "url": "https://rockstarintel.com/new-gta-6-screenshot-and-story-open-world-revealed-in-magazine/",
+      "confidence": "high"
+    },
+    {
+      "id": "440b997e852766976ca4a1c963f387a94c44a1bf4ef69f93ade9c8478cbe7e46",
+      "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-05T08:29:00Z",
+      "description": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/27/gta-6-jason-police-1787861023226.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-research-gang-members",
+      "confidence": "high"
+    },
     {
       "id": "facf3b48f7c9e7669f18a4d0fd93acf9320b51e92f356335bc86fa3b66c7ba13",
       "title": "Rockstar co-founder explains why he’s trying to avoid watching GTA 6 gameplay",
@@ -169,78 +241,6 @@
       "image": "https://www.videogameschronicle.com/files/2025/03/IMG_1331-e1778073030403-2560x1613.jpeg",
       "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
       "confidence": "high"
-    },
-    {
-      "id": "e45f536f93006947295e09d328da5460c6deb19c9b9492825449f65b3352b454",
-      "title": "New GTA 6 shirt brings Vice City’s 100% completion reward to real life",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-02T15:56:18Z",
-      "description": "The Miami Heat’s new GTA 6 clothing collection includes a nod to the original Vice City, turning the T-shirt players earned for reaching 100% completion into something fans can wear in real life.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/02/New-GTA-6-shirt-brings-Vice-Citys-100-completion-reward-to-real-life.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/new-gta-6-shirt-brings-vice-citys-100-completion-reward-to-real-life-3415057/",
-      "confidence": "medium"
-    },
-    {
-      "id": "73fc8caa9df4e38a971399ac202f29739390ecbe903653de7e33fa1be0868b44",
-      "title": "Miami Heat NBA team to rebrand as ‘Vice City’ in GTA 6 marketing stunt",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-10-02T15:52:16Z",
-      "description": "The team will play as Vice City on the eve of GTA 6's release next month",
-      "image": "https://www.videogameschronicle.com/files/2026/10/1200_vice-city-night.jpg",
-      "url": "https://www.videogameschronicle.com/news/miami-heat-nba-team-to-rebrand-as-vice-city-in-gta-6-marketing-stunt/",
-      "confidence": "high"
-    },
-    {
-      "id": "e207d9200ba16470e0581a61a95a3d8140a064feab99591b4462a9dae1e3ddc4",
-      "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-02T15:50:46Z",
-      "description": "Rockstar has further ramped up its GTA 6 marketing today with the launch of several new screenshots focusing on protagonists Lucia and Jason.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/30/jason-lucia-1790783485719.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
-      "confidence": "high"
-    },
-    {
-      "id": "c71df8ddad8a7a94db2209ba257c34fd82c473881d439f9aa7fcd5ad6012a30a",
-      "title": "4 New GTA 6 Screenshots Released Alongside Story Details",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-10-02T15:14:09Z",
-      "description": "A few new GTA 6 screenshots have been released via a magazine issue that Lucia and Jason grace the cover of. On Friday, LOVE magazine have revealed an exclusive article and images of Grand Theft Auto&#160;VI. Issue 27 will feature interviews with various writers on the game plus Rob Nelson, Co-St...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/lucia-jason-diner-1280.webp",
-      "url": "https://rockstarintel.com/2-new-gta-6-screenshots-released-in-a-magazine-and-here-they-are/",
-      "confidence": "high"
-    },
-    {
-      "id": "a16bf97763a98a36852435b735d62cd72821b89f035a9d90bdf5e44f61fbd21c",
-      "title": "New GTA 6 x Miami Heat Merchandise Announced",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-10-02T14:15:37Z",
-      "description": "The Miami Heat have teamed up with Rockstar Games for a special merch drop. GTA 6 themed items can now be purchased from the Miami Heat online store. This comes after the NBA franchise revealed they&#8217;ll be rebranding for one night only on the eve of GTA VI&#8217;s launch. These Vice City-bra...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/miami-heat-merch.webp",
-      "url": "https://rockstarintel.com/new-gta-6-x-miami-heat-merchandise-announced/",
-      "confidence": "high"
-    },
-    {
-      "id": "3980e060f26ae4dcc15407be23d9e852a30c36255b8f7dcc714a6002456a2f44",
-      "title": "GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-02T14:15:00Z",
-      "description": "Miami Heat becomes Vice City on 18th November.NBA side Miami Heat will be rebranded as Vice City for a basketball game in collaboration with Rockstar and its GTA 6 marketing efforts.On 18th November 2026, the day before GTA 6 launches, the team takes on Milwaukee Bucks at the Kaseya Center, and t...",
-      "image": "https://images.pushsquare.com/960f1e13a2519/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only",
-      "confidence": "medium"
     }
   ]
 }
