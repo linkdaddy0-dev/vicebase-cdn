@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-10-05T16:45:27Z",
+  "lastUpdated": "2026-10-06T14:42:42Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "83dc79ab08bcacbed983fd04916ec270100918f2bdf0b43d7ec6eeb1808c150d",
+      "title": "GTA 6 Won't Be 'Too Specific About Any Particular Person, Event, or Movement,' Rockstar Says GTA Has Never Focused on 'National Politics'",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-06T10:30:32Z",
+      "description": "Rockstar apparently isn’t interested in making a political statement in GTA 6.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/03/jason-and-lucia-04-1788457455588.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-political-events",
+      "confidence": "high"
+    },
+    {
+      "id": "6277a7056f6e843d1a4f54f6d3d3491627ffd350ccdf500f9f933bc6cc647c1a",
+      "title": "GTA 6 devs tried \"not to jump on the bandwagon\" of passing trends and instead created their \"own slanted, overblown versions\"",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-10-05T20:14:26Z",
+      "description": "Creating a timely satire can be tough when development takes half a decade or more - it's the reason South Park's stuck with its crude art style for literal decades, but the developers of GTA 6 can't just replace their world-class tech with paper cutouts. Instead, the team simply tried to avoid t...",
+      "image": "https://assetsio.gnwcdn.com/jason-lucia-gta-6-romance-relationship.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions",
+      "confidence": "high"
+    },
+    {
+      "id": "3cafad8226d79e7fb419d049d60cef877da6f1eb317b8d89d368406b7a07595e",
+      "title": "Why GTA Studio Co-Founder Is Avoiding GTA 6–And All Open-World Games",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-05T18:06:23Z",
+      "description": "Rockstar co-founder Dan Houser left the company in 2020 and now runs a new outfit called Absurd Ventures. Houser will be forever connected to the GTA franchise, and he's now weighed in on GTA 6.\n\n\n\nHe told Variety that he did not watch the \"Extended Look\" trailer and doesn't plan to. Why? He said...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/why-gta-studio-co-founder-is-avoiding-gta-6-and-all-open-world-games/",
+      "confidence": "high"
+    },
+    {
+      "id": "07bae01a5d5ef41bc21aac405fa1681a693834537ec219bc3032b8bc84d0ed8a",
+      "title": "How Is A Game Like GTA 6 Actually Made? Here’s How Rockstar Gets It Done",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-05T16:32:43Z",
+      "description": "Rockstar's Grand Theft Auto 6 is one of the most highly anticipated game releases this year, or ever. The franchise is known for its massive scope and impressive attention to detail, but how is a game like GTA 6 actually  made? In a new interview with Love magazine (via Kotaku), Rockstar North bo...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/how-is-a-game-like-gta-6-actually-made-heres-how-rockstar-gets-it-done/",
+      "confidence": "high"
+    },
     {
       "id": "359c19b3eb62f24ee0fb36ee7ef0653ad2c47332a2af418388816de7db1181df",
       "title": "\"It has to be more over the top, more insane, more in your face\" - Rockstar explains why GTA 6 doesn't satirise real-world events",
@@ -183,18 +231,6 @@
       "confidence": "high"
     },
     {
-      "id": "08252ddc9ea8fbe5b77853b0c406071a79114ea2ce4f4abf63fcdfdf135484a9",
-      "title": "GTA 6 Should “Blaze A Trail” To More Expensive Games, Dev Says",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-02T17:17:15Z",
-      "description": "Rockstar's GTA 6 is priced at $80 for its standard edition. Another voice has come forward to say they hope other teams follow suit and charge more for new games to help the industry at a time when developers are closing up shop, cancelling games, and laying off developers on a regular basis.\n\n\n\n...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-should-blaze-a-trail-to-more-expensive-games-dev-says/",
-      "confidence": "high"
-    },
-    {
       "id": "2f89479e5ae276d2d09791e8e1ee7fe1ffa5b6a24eef6ce522fd96116a6b0f8a",
       "title": "GTA 6 Age Rating Details Sex, Gore And Snorting Cocaine Mechanics",
       "source": "RockstarINTEL",
@@ -204,42 +240,6 @@
       "description": "GTA 6 has begun to be age rated around. These classifications come with detailed descriptions about game mechanics and content we previously did not know about. Of course, the game is rated 18+ (or local equivalent) in all regions but how it gets the rating is different from previous games. In th...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/10/jason-lucia-bikers-1280.webp",
       "url": "https://rockstarintel.com/gta-6-age-rating-details-sex-gore-and-snorting-cocaine-mechanics/",
-      "confidence": "high"
-    },
-    {
-      "id": "8780e90c20e5bd5a64702a0f9db42eed96415eab5deaceb2d9b048fda34b3292",
-      "title": "GTA 6 Takes The Ridiculous World We Live In And Turns It Up To 11",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-02T17:14:39Z",
-      "description": "Video games are usually a few steps removed from reality, but with Grand Theft Auto 6, developer Rockstar Games aims to reflect and amplify the current state of the world with an \"over the top\" experience. As seen in the trailers and gameplay previews so far, GTA 6 is a contemporary game about do...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-takes-the-ridiculous-world-we-live-in-and-turns-it-up-to-11/",
-      "confidence": "high"
-    },
-    {
-      "id": "b1f146d40ee7bf2cf27b7a7c8b1d3f4f96dd28ac69fca3b5c422d652ddda810f",
-      "title": "Kingdom Come: Deliverance 2 boss hopes GTA 6 pushes game prices up because it's \"long overdue and also necessary for this business to survive\"",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-10-02T16:52:25Z",
-      "description": "Warhorse Studios co-founder Martin Klima - the developer behind last year's historical RPG Kingdom Come: Deliverance 2 - is crossing his fingers for higher game prices, and he thinks GTA 6 might be the one to usher in a new normal. Read more",
-      "image": "https://assetsio.gnwcdn.com/KCDII_Standard_KA_Unbranded.png?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/kingdom-come-deliverance-gta6-higher-game-prices",
-      "confidence": "high"
-    },
-    {
-      "id": "e1d778141014e3a8935c5bf7a893e6022eb136ae91ee6c1c303b2640952514d7",
-      "title": "Warhorse COO wants GTA 6 to set a new $80 price standard for triple-A games",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-10-02T16:16:25Z",
-      "description": "Warhorse's Martin Klima hopes GTA 6's $80 price point sets a precedent for triple-A games",
-      "image": "https://www.videogameschronicle.com/files/2025/03/IMG_1331-e1778073030403-2560x1613.jpeg",
-      "url": "https://www.videogameschronicle.com/news/warhorse-coo-wants-gta-6-to-set-a-new-80-price-standard-for-triple-a-games/",
       "confidence": "high"
     }
   ]
