@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-08T15:10:58Z",
+  "lastUpdated": "2026-10-09T14:56:23Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "e835d2a338f0db44cdbbf02ae2e58ecf729b55eb3376d894fc841d1c9026b050",
+      "title": "“Video Games” Singer Can’t Wait To Play New Video Game GTA 6",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-09T13:15:08Z",
+      "description": "Rockstar Games recently announced GTA 6's in-game radio stations, and one of them is co-hosted by 11-time Grammy-nominated Lana Del Rey. The singer-songwriter had a connection to video games before this, as she recorded the song \"Video Games\" on her 2012 album Born to Die. Now, she's set to appea...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/video-games-singer-cant-wait-to-play-new-video-game-gta-6/",
+      "confidence": "high"
+    },
+    {
+      "id": "a30909fca572cecc73b0516cc8e6360c15bd1cdb40a053fd7392c7e5842b6904",
+      "title": "GTA 6 Album Gets 2 New Singles Ahead Of Its Release",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-10-09T07:55:26Z",
+      "description": "Two new singles have been announced by Rockstar for their GTA 6 album. This comes just a few hours after Rockstar shared some snippets of various radio stations in the game and revealed their hosts. The official Grand Theft Auto VI album was announced last month and contains 34 original tracks th...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Lucia_Caminos_09-copy.webp",
+      "url": "https://rockstarintel.com/gta-6-album-gets-2-new-singles-ahead-of-its-release/",
+      "confidence": "high"
+    },
+    {
+      "id": "e831e63e3f76440f1acd1ffe6a81babef50ef8c16bbe340e12508eb0f027d275",
+      "title": "Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-10-09T00:00:00Z",
+      "description": "A six-hour deep dive into the action title.All bets are off once GTA 6 comes out, but in the weeks leading up to it, you have to let Phantom Blade Zero take up all of your free time.I played six hours of the game on a trip to Beijing, China (more on that in the future) and found it to be one of t...",
+      "image": "https://images.pushsquare.com/4414d643c46ca/small.jpg",
+      "url": "https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game",
+      "confidence": "medium"
+    },
+    {
+      "id": "a2914e6d41e0907f33fa4c7ba92d654272f715f7e925783bebfb961c8d4877d3",
+      "title": "GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-08T17:37:17Z",
+      "description": "Ahead of GTA 6's release in November, Rockstar Games has announced an official merch collection for the game, and it includes some snazzy stuff like a t-shirt featuring an alligator wearing sunglasses and drinking a cocktail.\n\n\n\nThe alligator's name is Macca the Gator, and he's the star of a fict...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/",
+      "confidence": "high"
+    },
+    {
+      "id": "cea22ee58b16371e8a2ed497a0c6ce227cad4074b137cc0b052ec73d943a4f0a",
+      "title": "Australia’s government explains your rights to take GTA 6 launch day off",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-08T16:46:46Z",
+      "description": "Australia’s Fair Work Ombudsman checked every unpaid leave option for GTA 6 launch day, and only one is still standing.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/08/Grand-theft-auto-ultrasound.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/australias-government-explains-your-rights-to-take-gta-6-launch-day-off-3416674/",
+      "confidence": "medium"
+    },
+    {
+      "id": "ee26832f317ddbae5747e41d44762a460bc024adc469abf00b19b13d8db539a7",
+      "title": "New GTA 6 And Rockstar Merchandise Released",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-10-08T16:25:42Z",
+      "description": "Rockstar Games have announced lots of GTA 6 merchandise and you can buy them right now. Following the controversial Grand Theft Auto VI: The Goodtime State – Vice City Collection reveal recently, the company are back with a haul of new items. This list is a more affordable set of items that will ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/rockstar-first-vi-merch.webp",
+      "url": "https://rockstarintel.com/new-gta-6-and-rockstar-merchandise-released/",
+      "confidence": "high"
+    },
     {
       "id": "b4c8ff8781c8c9ea5de151c58d1aa924a12699d1dbb8dbe12e3d8c8e44ae76f4",
       "title": "For the first time in the series, Grand Theft Auto 6 lets you use headphones to listen to radio stations and podcasts",
@@ -13,6 +85,18 @@
       "image": "https://assetsio.gnwcdn.com/lucia-gta-6-headphones.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
       "url": "https://www.eurogamer.net/gta-6-headpones-earbuds-radio-podcasts",
       "confidence": "high"
+    },
+    {
+      "id": "904faa0408ec3f42b3c40cc6fb91890079f0b1716d1b4fbb3136ec5a73d151b7",
+      "title": "GTA 6 radio stations revealed and you can listen to them now",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-08T15:04:12Z",
+      "description": "Rockstar has revealed six of GTA 6’s radio stations, while also confirming players will be able to listen to music and podcasts on foot.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/08/GTA-6-reveals-six-radio-stations-you-can-listen-to-right-now.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-radio-stations-revealed-and-you-can-listen-to-them-now-3417185/",
+      "confidence": "medium"
     },
     {
       "id": "4fb9d4466e0e2bd90545301278f57d4e26ec230ce79f9aec3bd6091b3a959bdd",
@@ -87,6 +171,18 @@
       "confidence": "high"
     },
     {
+      "id": "f1fe5722c53b86a7b91822378df696e39224db0a475d63b307808fe9d00a84be",
+      "title": "Huge GTA 6 leak shows first-person gameplay despite Rockstar ruling it out at launch",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "Leak",
+      "publishedAt": "2026-10-08T13:37:49Z",
+      "description": "A massive GTA 6 leak showed off first-person driving and exploration, despite Rockstar saying the game won’t launch with a full first-person mode.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/08/gta-6-jason-lucia-driving.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/huge-gta-6-leak-shows-first-person-gameplay-despite-rockstar-ruling-it-out-at-launch-3416673/",
+      "confidence": "medium"
+    },
+    {
       "id": "933ffa83f1a555806164755573209d3289d9c8e8da59472cef1b877740c79751",
       "title": "GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers",
       "source": "Push Square",
@@ -97,18 +193,6 @@
       "image": "https://images.pushsquare.com/16f68e2c4c7fe/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers",
       "confidence": "medium"
-    },
-    {
-      "id": "077e8cac341fb1d167c8478fe4ca0463d45063fa971ff68cf0ed29b970a791db",
-      "title": "New 25 Minute Long GTA 6 Leak Reveals First Person Mode",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Leak",
-      "publishedAt": "2026-10-08T12:23:12Z",
-      "description": "A 16th Grand Theft Auto VI gameplay leak from the cryptobro cyberleek has just been published. It contains nearly 25 minutes of gameplay taken from the game. Whilst the leaker vanished for a few weeks since the Extended Look on Netflix, he put up a poll earlier this week begging for more money. T...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_03_1280.webp",
-      "url": "https://rockstarintel.com/new-25-minute-long-gta-6-leak-reveals-first-person-mode/",
-      "confidence": "high"
     },
     {
       "id": "c76b0f216be2958254fc0112cb9a3fe652f70dca443d48059d937e80e806bf19",
@@ -156,90 +240,6 @@
       "description": "GTA 6 leaker Cyberleek has returned to publish a 24-minute gameplay video that has left fans scrambling to issue spoiler warnings across the internet.",
       "image": "https://assets-prd.ignimgs.com/2026/08/27/gta6-trailer-4k-00-00-38-29-still001-1701962524689-1787858104520.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/gta-6-leaker-returns-with-new-24-minute-gameplay-video-sparking-spoiler-concern",
-      "confidence": "high"
-    },
-    {
-      "id": "e10fe30ff2a546f8a8b8878592d22078c0e37f21afefa67358590ee84b371711",
-      "title": "GTA 6 leak shows Jason and Lucia can be played completely naked",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-10-08T12:04:18Z",
-      "description": "A massive new GTA 6 gameplay leak shows that players can strip Jason and Lucia of their clothes, with uncensored nudity even appearing during cutscenes.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/08/gta-6-leak.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-leak-shows-jason-and-lucia-can-be-played-completely-naked-3416637/",
-      "confidence": "medium"
-    },
-    {
-      "id": "468690724ee5ecb8ff2b80d5de46d67661927fd593fb32cec23df5ac06e0d7c1",
-      "title": "GTA 6 Leaks Aren’t Over Yet, As New 25-Minute Gameplay Footage Appears",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "Leak",
-      "publishedAt": "2026-10-08T11:54:16Z",
-      "description": "As the GTA 6 release date creeps ever closer, the now-notorious leaker Cyberleek doesn't seem to be finished showing off unreleased content just yet. \n\n\n\nHaving been relatively quiet since August's wave of shorter GTA 6 leaks, Cyberleek has released a 25-minute video of new gameplay footage and c...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-leaks-arent-over-yet-as-new-25-minute-gameplay-footage-appears/",
-      "confidence": "high"
-    },
-    {
-      "id": "ab61006375983b0f24157975975dc06e2edd13642d9ee6b72a1e88979b83164c",
-      "title": "The Australian Government Helps Workers Know Their Rights for Taking Time Off for GTA 6",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-08T11:20:38Z",
-      "description": "Australia's workplace regulator, The Fair Work Ombudsman, has put out a helpful graphic for people who might want to take time off when GTA 6 comes out this November.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/australian-government-time-off-gta-6",
-      "confidence": "high"
-    },
-    {
-      "id": "45d1823d82e3f253e7473478e5fbc86b1d1dca48243ad8c45db47b9bfc7865ba",
-      "title": "GTA 6 leaker Cyberleek returns with massive 25-minute gameplay leak",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Leak",
-      "publishedAt": "2026-10-08T11:12:00Z",
-      "description": "GTA 6 leaker Cyberleek has returned to the internet after weeks of silence, releasing a massive new batch of alleged gameplay footage.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/09/gta-6-jason-lucia-escape.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-leaker-cyberleek-returns-with-massive-25-minute-gameplay-leak-3416630/",
-      "confidence": "medium"
-    },
-    {
-      "id": "86325d599adcf679c6a8c379de2acaf323387d00ac5a9b5a46c9f25d0c241cc1",
-      "title": "CBS News Amazed by Accuracy of GTA 6, Highlights Miami Similarities in New Report",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-08T11:00:15Z",
-      "description": "CBS News has reported on the accuracy of GTA 6’s Vice City, a fictionalized recreation of The Magic City. The Miami office of CBS News looked at major locations and brings on experts to talk about how accurate Rockstar’s open world is, from PortMiami to South Beach, Wynwood to the Everglades.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/27/mega-1-1787855222702.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/cbs-news-amazed-accuracy-gta-6",
-      "confidence": "high"
-    },
-    {
-      "id": "e5e83d5cee8751475123bcb005233bb257f4ab92d6ef09666b8937383c76b7f8",
-      "title": "GTA 6 is giving players more freedom to complete missions their own way",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-07T18:54:28Z",
-      "description": "Rockstar is giving GTA 6 players more freedom to complete missions with alternate routes and police chases where you ignore the suggested path.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/04/jason-lucia-rob-store-gta-6.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-is-giving-players-more-freedom-to-complete-missions-their-own-way-3416453/",
-      "confidence": "medium"
-    },
-    {
-      "id": "f98204763d2b04f859ffc34c108871b650ff44418f3881ddb4744638ea40a6e2",
-      "title": "GTA 6 Wants Losing Your Wanted Level To Feel Like A “Hit-And-Run”",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-07T16:25:22Z",
-      "description": "Gamers hoping for GTA 6 to amp up the realism when it comes to losing their wanted level in the sunny state of Leonida are in luck, with Rockstar confirming in a recent interview that Jason and Lucia can do far more than escape a glowing red zone on the map to shake off the law. \n\n\n\nSpeaking to I...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-wants-losing-your-wanted-level-to-feel-like-a-hit-and-run/",
       "confidence": "high"
     }
   ]
