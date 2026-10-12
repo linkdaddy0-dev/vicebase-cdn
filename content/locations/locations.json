@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dataset": "locations",
-    "version": "1.0.0",
-    "generatedAt": "2026-06-27T00:00:00Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-13T00:00:00Z",
     "language": "en",
     "region": "global",
     "verified": true,
@@ -59,8 +59,8 @@
       "source": "Rockstar Games Trailer 1 Description",
       "sourceUrl": "https://www.youtube.com/watch?v=QdBZY2fkU-0",
       "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
       "version": "1.0.0",
       "type": "city",
       "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/card.webp",
@@ -74,7 +74,10 @@
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/6.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/7.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/8.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/9.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/9.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/10.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/11.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/vice_city/gallery/12.webp"
       ]
     },
     {
@@ -131,8 +134,8 @@
       "source": "Rockstar Games Only in Leonida",
       "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
       "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
       "version": "1.0.0",
       "type": "city",
       "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/card.webp",
@@ -142,7 +145,8 @@
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/gallery/2.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/gallery/3.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/gallery/4.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/gallery/5.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/gallery/5.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/port_gellhorn/gallery/6.webp"
       ]
     },
     {
@@ -200,8 +204,8 @@
       "source": "Rockstar Games Only in Leonida",
       "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
       "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
       "version": "1.0.0",
       "type": "district",
       "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/card.webp",
@@ -211,7 +215,8 @@
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/gallery/2.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/gallery/3.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/gallery/4.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/gallery/5.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/gallery/5.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/leonida_keys/gallery/6.webp"
       ]
     },
     {
@@ -234,8 +239,8 @@
       "source": "Rockstar Games Only in Leonida",
       "sourceUrl": "https://www.rockstargames.com/VI/only-in-leonida",
       "createdAt": "2026-06-27T00:00:00Z",
-      "updatedAt": "2026-06-27T00:00:00Z",
-      "verifiedAt": "2026-06-27T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
       "version": "1.0.0",
       "type": "district",
       "imageUrl": "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/card.webp",
@@ -244,7 +249,9 @@
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/1.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/2.webp",
         "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/3.webp",
-        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/4.webp"
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/4.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/5.webp",
+        "https://raw.githubusercontent.com/linkdaddy0-dev/vicebase-cdn/main/media/locations/grassrivers/gallery/6.webp"
       ]
     },
     {

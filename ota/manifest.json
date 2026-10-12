@@ -1,21 +1,21 @@
 {
-  "contentVersion": "7.1.0",
-  "generatedAt": "2026-10-13T00:00:00.000Z",
+  "contentVersion": "7.2.0",
+  "generatedAt": "2026-10-13T12:00:00.000Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
       "id": "locations",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "file": "content/locations/locations.json",
-      "checksum": "9a85cd22310998cf8d8916cf6e8b068acdd9316b5fd0d56abba28ebeefdcf563",
+      "checksum": "5d67c9b3bc256e5f3f525b1b8b7d1de7fde21ec7c5457ddc5afb7612d88ee00d",
       "records": 14,
       "dependsOn": []
     },
     {
       "id": "characters",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "file": "content/characters/characters.json",
-      "checksum": "b9793f73361d165c65e4ea745da5f634a63692ab4195244e0fccbe556ad38780",
+      "checksum": "402d169a41f4efc9ba4163f212ff4a2c6b29527b10b11ed4cdee74a926cae7f3",
       "records": 14,
       "dependsOn": []
     },
