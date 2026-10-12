@@ -1,8 +1,8 @@
 {
   "metadata": {
     "dataset": "timeline",
-    "version": "2.1.0",
-    "generatedAt": "2026-08-25T00:00:00Z",
+    "version": "2.2.0",
+    "generatedAt": "2026-10-13T00:00:00Z",
     "language": "en",
     "region": "global",
     "verified": true,
@@ -217,10 +217,62 @@
       "eventType": "trailer"
     },
     {
+      "id": "timeline_album_announced",
+      "slug": "gta-vi-the-album-announced",
+      "title": "GTA VI: The Album Announced",
+      "description": "Rockstar and Atlantic Records announce Grand Theft Auto VI: The Album, an official soundtrack of 34 original tracks releasing November 19. The first six singles come out the same day.",
+      "status": "official",
+      "tags": [
+        "music",
+        "album",
+        "announcement"
+      ],
+      "relationships": {
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "eventDate": "2026-09-17",
+      "eventType": "announcement"
+    },
+    {
+      "id": "timeline_radio_revealed",
+      "slug": "in-game-radio-revealed",
+      "title": "In-Game Radio Stations Revealed",
+      "description": "Rockstar reveals six of GTA VI's in-game radio stations and confirms on-demand podcasts, a series first, that can be heard in vehicles or on foot through in-game headphones.",
+      "status": "official",
+      "tags": [
+        "music",
+        "radio",
+        "podcasts"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "eventDate": "2026-10-08",
+      "eventType": "announcement"
+    },
+    {
       "id": "timeline_launch",
       "slug": "launch-day",
       "title": "Grand Theft Auto VI Launches",
-      "description": "Grand Theft Auto VI releases worldwide on PlayStation 5 and Xbox Series X|S.",
+      "description": "Grand Theft Auto VI releases worldwide on PlayStation 5 and Xbox Series X|S. GTA VI: The Album and The Goodtime State – Vice City Collection collector's box arrive the same day.",
       "status": "official",
       "tags": [
         "release-date",
@@ -235,9 +287,9 @@
       "source": "Rockstar Games",
       "sourceUrl": "https://www.rockstargames.com/VI",
       "createdAt": "2026-07-26T00:00:00Z",
-      "updatedAt": "2026-07-26T00:00:00Z",
-      "verifiedAt": "2026-07-26T00:00:00Z",
-      "version": "2.0.0",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
       "eventDate": "2026-11-19",
       "eventType": "release"
     }

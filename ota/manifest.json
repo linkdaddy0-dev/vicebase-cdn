@@ -1,6 +1,6 @@
 {
-  "contentVersion": "7.0.0",
-  "generatedAt": "2026-08-25T08:05:33.000Z",
+  "contentVersion": "7.1.0",
+  "generatedAt": "2026-10-13T00:00:00.000Z",
   "minimumAppVersion": "1.0.0",
   "datasets": [
     {
@@ -37,10 +37,10 @@
     },
     {
       "id": "timeline",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "file": "content/timeline/timeline.json",
-      "checksum": "370d8d4b89974144e40327967026d481e48c55074d6922d0a933bc5de4fbacbc",
-      "records": 9,
+      "checksum": "63c042f1d979fd685ab3127620639d4e747038ca33e862f27fc80d7023714cbc",
+      "records": 11,
       "dependsOn": [
         "characters",
         "locations"
@@ -48,10 +48,10 @@
     },
     {
       "id": "news",
-      "version": "2.1.0",
+      "version": "2.2.0",
       "file": "content/news/news.json",
-      "checksum": "ce6ca2ce447d00efc48d4d1c87fefa3e2e44bc14340196758e29dadab1eb4a23",
-      "records": 13,
+      "checksum": "d5b1233bee6ffa5862cc3e69d8a8d77070adce03a93941aa8b25a45cb3c3588d",
+      "records": 18,
       "dependsOn": [
         "characters",
         "locations"

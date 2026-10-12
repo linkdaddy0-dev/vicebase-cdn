@@ -5,6 +5,23 @@ All notable changes to the ViceBase OTA database and assets will be documented i
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to Semantic Versioning.
 
+## [7.1.0] - 2026-10-13
+
+### Added
+- News: An Extended Look out now (Aug 27, links straight to the YouTube video),
+  GTA VI: The Album (Sep 17), The Goodtime State – Vice City Collection
+  collector's box (Sep 24), GTA VI Collection at the Rockstar Store (Oct 8),
+  and the six in-game radio stations plus podcasts (Oct 8). News 13 → 18.
+- Timeline: The Album announced (Sep 17) and radio stations revealed (Oct 8).
+  Timeline 9 → 11.
+
+### Changed
+- "The Sound of Leonida" roundup now covers the confirmed radio stations and
+  album singles instead of calling the soundtrack unannounced.
+- Launch-day timeline entry notes the album and collector's box arrive Nov 19.
+- `ota/manifest.json` and `ota/version.json` bumped to 7.1.0; news and timeline
+  datasets at 2.2.0 with regenerated SHA-256 checksums.
+
 ## [7.0.0] - 2026-08-25
 
 ### Added

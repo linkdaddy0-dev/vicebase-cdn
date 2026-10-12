@@ -1,14 +1,170 @@
 {
   "metadata": {
     "dataset": "news",
-    "version": "2.1.0",
-    "generatedAt": "2026-08-25T00:00:00Z",
+    "version": "2.2.0",
+    "generatedAt": "2026-10-13T00:00:00Z",
     "language": "en",
     "region": "global",
     "verified": true,
     "source": "Rockstar Newswire"
   },
   "items": [
+    {
+      "id": "news_radio_stations",
+      "slug": "in-game-radio-stations-revealed",
+      "title": "Six In-Game Radio Stations Revealed",
+      "description": "Rockstar has detailed six of the stations broadcasting across Leonida, from what it calls the biggest and widest-ranging in-game radio selection in the series:\n\n• Cocoteo FM — modern Latin music, from bachata and merengue to dembow and reggaeton, hosted by El Martillo and La Gata\n• Back Country Radio — renegade country with MW and Delta Dawne, plus roving reporter Mud Dog Mike out in the Grassrivers\n• AfroBank FM — African music from 20th-century classics to amapiano and 3-step, with Burna and Palmsy\n• The Chamber 106.6 — decades of metal with DJ Kerry and DJ Tom\n• Flash FM — the Vice City pop institution, with Robyn and Alex\n• Dirty South Classics — regional rap and hip-hop classics from Trick and Trina\n\nFor the first time in the series there are also on-demand podcasts. Jason and Lucia can listen to radio and podcasts in vehicles or on foot, through headphones and earbuds connected to their phones.\n\nPreviews of all six stations are on the Music page of the official GTA VI site.",
+      "status": "official",
+      "tags": [
+        "music",
+        "radio",
+        "podcasts",
+        "announcement"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ],
+        "locations": [
+          "location_vice_city",
+          "location_grassrivers",
+          "location_port_gellhorn"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "publishDate": "2026-10-08",
+      "author": "Rockstar Games Newswire",
+      "summary": "Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM and Dirty South Classics — plus on-demand podcasts, a series first."
+    },
+    {
+      "id": "news_rockstar_store_collection",
+      "slug": "gta-vi-collection-rockstar-store",
+      "title": "GTA VI Apparel and Collectibles Now at the Rockstar Store",
+      "description": "The official Grand Theft Auto VI Collection is now available exclusively at the Rockstar Store. The first wave includes:\n\n• Heavyweight tees in black, blue and pink with the VI logo or the classic Rockstar Games logo\n• Goodtime State and Macca the Gator tees, inspired by the styles Jason and Lucia wear in the Ultimate Edition\n• Flexfit caps with palm trees inside the VI logo, plus the original Rockstar cap in GTA VI colors (pre-order)\n• A chrome keychain, a two-sided Vice City money clip and a refillable Vice City Zippo lighter\n• Canvas tote bags and two sets of vinyl stickers\n\nRockstar says more items are on the way. The store also has a new wishlist feature, with restock and sale alerts for Rockstar mailing list subscribers.",
+      "status": "official",
+      "tags": [
+        "merchandise",
+        "rockstar-store",
+        "macca-the-gator"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia_macca_gear",
+          "character_jason_macca_gear"
+        ],
+        "locations": [
+          "location_vice_city"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/759875393o5253/grand-theft-auto-vi-collection-now-at-the-rockstar-store",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "publishDate": "2026-10-08",
+      "author": "Rockstar Games Newswire",
+      "summary": "Tees, caps, a Vice City money clip, a Zippo lighter and more — the first wave of official GTA VI merch is live."
+    },
+    {
+      "id": "news_vice_city_collection",
+      "slug": "goodtime-state-vice-city-collection",
+      "title": "The Goodtime State – Vice City Collector's Box Is Up for Pre-Order",
+      "description": "Grand Theft Auto VI: The Goodtime State – Vice City Collection is a limited-edition collector's box themed around Macca the Gator, Leonida's hit TV show. It arrives November 19 and can be pre-ordered while supplies last. Inside:\n\n• 6-inch Macca the Gator figure with a stash compartment\n• Matte black GTA VI Oakley Frogskins sunglasses with Prizm Sapphire lenses\n• New Era 9FORTY A-Frame snapback with Vice City Leonida details\n• Macca the Gator magnetic mirror\n• Vice City swizzle spoon\n• Vice City razor blade keychain\n• Leonida Keys crossbody bag\n• Chunkee the Manatee shot glass\n• Leonida Keys enamel pin set in a metal tin\n• Premium stickers in a stash bag\n• Double-sided souvenir poster of the full Leonida landscape\n\nThe game is sold separately. Pre-orders are open at store.rockstargames.com, and Rockstar will share details for Asia, Latin America and Australia later.",
+      "status": "official",
+      "tags": [
+        "merchandise",
+        "collectors-edition",
+        "pre-order",
+        "macca-the-gator"
+      ],
+      "relationships": {
+        "locations": [
+          "location_leonida",
+          "location_vice_city",
+          "location_leonida_keys"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/9k2a49ook82o57/pre-order-the-goodtime-state-vice-city-collection-now-while-supplies-l",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "publishDate": "2026-09-24",
+      "author": "Rockstar Games Newswire",
+      "summary": "A limited Macca the Gator collector's box — figure, Oakley sunglasses, a Leonida poster and more — arrives November 19."
+    },
+    {
+      "id": "news_the_album",
+      "slug": "gta-vi-the-album",
+      "title": "GTA VI: The Album — 34 Original Tracks Arrive November 19",
+      "description": "Grand Theft Auto VI: The Album, the official soundtrack album made with Atlantic Records, launches November 19 alongside the game. It has 34 original tracks and can be pre-saved on all major streaming services, with vinyl and CD editions up for pre-order.\n\nSix singles came out with the announcement:\n• Yung Lean — That's It (feat. Future & Metro Boomin)\n• Travis Scott — RHYNO (prod. by Guy-Manuel de Homem-Christo)\n• CA7RIEL & Paco Amoroso, PinkPantheress, Fred again.. & Etienne de Crécy — Sexy Magic\n• Morgan Wallen — Last Thing You Need\n• Rauw Alejandro — Macacoa 2000\n• Keith Richards — Bright Lights, Big City\n\nTwo more singles are now listed on the official Music page: Fuerza Regida — Suzuki, and Cardi B — Don't Chart.\n\nThree physical exclusives are sold only at gtavi-thealbum.com: a limited liquid-filled vinyl, a splatter vinyl and a CD jewel case. Retailers including Best Buy, Walmart, Amazon, Target and Urban Outfitters carry their own vinyl colorways.",
+      "status": "official",
+      "tags": [
+        "music",
+        "soundtrack",
+        "album",
+        "announcement"
+      ],
+      "relationships": {
+        "locations": [
+          "location_vice_city",
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games Newswire",
+      "sourceUrl": "https://www.rockstargames.com/newswire/article/7599a881942544/announcing-grand-theft-auto-vi-the-album-coming-november-19",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "publishDate": "2026-09-17",
+      "author": "Rockstar Games Newswire",
+      "summary": "34 original tracks with Atlantic Records, out November 19. Eight singles are already streaming, from Travis Scott to Keith Richards."
+    },
+    {
+      "id": "news_extended_look_out",
+      "slug": "an-extended-look-out-now",
+      "title": "GTA VI: An Extended Look Is Out Now",
+      "description": "Grand Theft Auto VI: An Extended Look premiered on Netflix on August 27 and is now on the Rockstar Games YouTube channel and the official GTA VI site.\n\nEverything in it was captured from in-game footage on PlayStation 5. Rockstar calls it the biggest, most immersive evolution of the series yet.\n\nTap to watch it on YouTube.",
+      "status": "official",
+      "tags": [
+        "extended-look",
+        "trailer",
+        "video",
+        "netflix"
+      ],
+      "relationships": {
+        "characters": [
+          "character_lucia",
+          "character_jason"
+        ],
+        "locations": [
+          "location_leonida"
+        ]
+      },
+      "verified": true,
+      "source": "Rockstar Games on YouTube",
+      "sourceUrl": "https://www.youtube.com/watch?v=tJbzMqJGH4k",
+      "createdAt": "2026-10-13T00:00:00Z",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
+      "publishDate": "2026-08-27",
+      "author": "Rockstar Games",
+      "summary": "Captured entirely in-game on PS5 — the first new footage since Trailer 2 is now on YouTube and the official site."
+    },
     {
       "id": "news_extended_look",
       "slug": "an-extended-look-august-27",
@@ -95,12 +251,13 @@
       "id": "news_trailer_music",
       "slug": "sound-of-leonida-confirmed-songs",
       "title": "The Sound of Leonida: Every Song Confirmed So Far",
-      "description": "Six licensed tracks have been heard across Rockstar's official trailers and site videos so far: Love Is a Long Road by Tom Petty (Trailer 1), Hot Together by The Pointer Sisters (Trailer 2), Everybody Have Fun Tonight by Wang Chung, Talkin' to Myself Again by Tammy Wynette, Thunder Island by Jay Ferguson, and Child Support by Zenglen.\n\nThe full radio station lineup and soundtrack remain unannounced — expect the complete reveal closer to launch.",
+      "description": "Six licensed tracks have been heard across Rockstar's official trailers and site videos: Love Is a Long Road by Tom Petty (Trailer 1), Hot Together by The Pointer Sisters (Trailer 2), Everybody Have Fun Tonight by Wang Chung, Talkin' to Myself Again by Tammy Wynette, Thunder Island by Jay Ferguson, and Child Support by Zenglen.\n\nSince then Rockstar has revealed much more. Six in-game radio stations are confirmed — Cocoteo FM, Back Country Radio, AfroBank FM, The Chamber 106.6, Flash FM and Dirty South Classics — along with on-demand podcasts. GTA VI: The Album, an official soundtrack of 34 original tracks, arrives November 19, and eight of its singles are already out.\n\nThe full station list and the game's dynamic score are still to be detailed.",
       "status": "official",
       "tags": [
         "music",
         "radio",
-        "soundtrack"
+        "soundtrack",
+        "album"
       ],
       "relationships": {
         "locations": [
@@ -108,15 +265,15 @@
         ]
       },
       "verified": true,
-      "source": "Rockstar Games official trailers",
-      "sourceUrl": "https://www.rockstargames.com/VI",
+      "source": "Rockstar Games official site",
+      "sourceUrl": "https://www.rockstargames.com/VI/music",
       "createdAt": "2026-08-25T00:00:00Z",
-      "updatedAt": "2026-08-25T00:00:00Z",
-      "verifiedAt": "2026-08-25T00:00:00Z",
-      "version": "2.1.0",
+      "updatedAt": "2026-10-13T00:00:00Z",
+      "verifiedAt": "2026-10-13T00:00:00Z",
+      "version": "2.2.0",
       "publishDate": "2026-08-25",
       "author": "ViceBase Research",
-      "summary": "Six songs are confirmed via official trailers, from Tom Petty to Zenglen. The full radio lineup is still under wraps."
+      "summary": "Six trailer songs, six confirmed radio stations and an official 34-track album. The full station list is still to come."
     },
     {
       "id": "news_ps5_features",
