@@ -1,7 +1,79 @@
 {
-  "lastUpdated": "2026-10-19T15:15:09Z",
+  "lastUpdated": "2026-10-20T13:17:24Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "cec81c6afd1faf8b293e04e66e398187ff5ed95c3b3b6cf310c4d13f062349dd",
+      "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-20T12:51:41Z",
+      "description": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release. But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up.\n\n\n\nSensor Tower compiled preorder data for some of the biggest games release...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
+      "confidence": "high"
+    },
+    {
+      "id": "ba3eb89f71760fac3c6818f1b60664d3214ddcaac3c42c9b52e32d280d175d1a",
+      "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
+      "source": "Eurogamer",
+      "sourceId": "eurogamer",
+      "category": "News",
+      "publishedAt": "2026-10-20T11:20:20Z",
+      "description": "Red Dead Redemption 2's infamous animated horse testicles, which are realistic enough to contract in cold weather and expand again in the warmth, were apparently not a feature mandated by Rockstar. As iconic as they've become -  a symbol of extraordinary detail in the game - they didn't originate...",
+      "image": "https://assetsio.gnwcdn.com/red-dead-redemption-2-horse_oWpviPa.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
+      "url": "https://www.eurogamer.net/red-dead-redemption-2-horse-testicles-staff-autonomy-gta-6",
+      "confidence": "high"
+    },
+    {
+      "id": "0706f873945f57416d9fd0873334db465f581fe45778c7f0f96ce8addc076ca0",
+      "title": "Daft Punk reportedly turned down GTA 6 soundtrack deal despite “unlimited” budget",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "Rumor",
+      "publishedAt": "2026-10-20T10:12:59Z",
+      "description": "French music duo Daft Punk were reportedly offered an “unlimited budget” to work on Grand Theft Auto 6, but decided to turn down Rockstar Games’ advances.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/20/Daft-Punk-reportedly-turned-down-GTA-6-despite-22unlimited22-budget.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/daft-punk-reportedly-turned-down-gta-6-soundtrack-deal-despite-unlimited-budget-3420267/",
+      "confidence": "medium"
+    },
+    {
+      "id": "de499242423a072fad963e1323c8c4d399ee5a2a862f511165e9bc609a72a8ea",
+      "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-10-20T09:49:02Z",
+      "description": "More ads have been spotted on the streets of Miami advertising GTA 6, many of which feature true to form crude wording.\nThe post GTA 6 &#8216;Crude Ads&#8217; Surface Across Miami appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
+      "url": "https://insider-gaming.com/gta-6-crude-ads-surface-across-miami/",
+      "confidence": "high"
+    },
+    {
+      "id": "8f7e85ac458b24329e94b6c72a3e1ce7d49d7e2811cc95c8b76e08238c145696",
+      "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-19T21:06:17Z",
+      "description": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
+      "confidence": "high"
+    },
+    {
+      "id": "d2eeede3168fc288d4c7d4df615ac62edab931d4ca3f1eddb36ea8c89e306e0e",
+      "title": "GTA 6 devs tried “a million” weapon wheel alternatives as struggles with RDR2 realism led some to quit",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-19T18:20:08Z",
+      "description": "Rockstar spent ages experimenting with alternatives to GTA 6’s weapon wheel as devs struggled to balance RDR2’s realism with GTA’s arcade gameplay.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/12/30/gta-6-red-dead-redemption-2-concerned.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-devs-tried-a-million-weapon-wheel-alternatives-as-struggles-with-rdr2-realism-led-some-to-quit-3420111/",
+      "confidence": "medium"
+    },
     {
       "id": "a88e38ef73735a47c7f949e427940354f672b5362f88ab64790bf41b3724d37f",
       "title": "GTA 6 launch trailer recreated in GTA 5 and the difference is mind-blowing",
@@ -135,18 +207,6 @@
       "confidence": "medium"
     },
     {
-      "id": "941d0eb1111fe4a5666317ad2c98a4e1efb868d425c0f058ff3fa2fe89aa7d89",
-      "title": "GTA 5 Will Be Removed From PS Plus Just Before GTA 6 Releases, It Seems",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "Rumor",
-      "publishedAt": "2026-10-15T15:25:21Z",
-      "description": "One of the biggest games that PlayStation Plus subscribers can play as part of their membership is Rockstar's Grand Theft Auto 5. However, the game will reportedly get yanked from the service soon, just ahead of GTA 6's release.\n\n\n\nPeople on Reddit say they have received a notification telling th...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-5-will-be-removed-from-ps-plus-just-before-gta-6-releases-it-seems/",
-      "confidence": "high"
-    },
-    {
       "id": "35577ed9527f06bf67ede9b0ce09c91358ee9d892940b87720415321ecf50804",
       "title": "Activision says GTA 6 will help Modern Warfare 4 as other games are avoiding it",
       "source": "Dexerto",
@@ -180,66 +240,6 @@
       "description": "Modern Warfare 4 is out next week",
       "image": "https://www.videogameschronicle.com/files/2026/05/modernwarfare4-2560x1440.jpg",
       "url": "https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/",
-      "confidence": "high"
-    },
-    {
-      "id": "1fc76de34cd43c6389143ad8aae4622061f14f4c91c94056c323ce1e97726d93",
-      "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-10-15T13:24:51Z",
-      "description": "Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more",
-      "image": "https://assetsio.gnwcdn.com/gta-header_xwcN3Jm.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-      "confidence": "high"
-    },
-    {
-      "id": "18fabb10daeb351a663c97b8dafc7171738ba9fc8af43e9eec5d1f99ba96e118",
-      "title": "GTA 6 Launch Trailer Released",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-10-15T13:21:27Z",
-      "description": "The Grand Theft Auto VI Launch Trailer aka Trailer 3 has been released by Rockstar Games. It has been a whirlwind few days/weeks for fans with new screenshots of the game released plus details, marketing events and more. The trailer is 90 seconds long and has been published to all of Rockstar Gam...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/Grand-Theft-Auto-VI-Launch-Trailer-00-00-26-copy-1280.png",
-      "url": "https://rockstarintel.com/gta-6-launch-trailer-released/",
-      "confidence": "high"
-    },
-    {
-      "id": "702979b2162fb255d04125d55d67a5b108f6ba9b7a724c98ee36dc9f747436e7",
-      "title": "GTA 6 launch trailer finally released with fresh story details & mission hints",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-15T13:08:34Z",
-      "description": "Rockstar Games has finally revealed the third trailer for Grand Theft Auto 6 as the wait to land in Vice City is slowly coming to an end.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/06/24/gta-6-saras-unisex-salon.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-launch-trailer-finally-released-with-another-look-at-missions-3279076/",
-      "confidence": "medium"
-    },
-    {
-      "id": "ec56fab7b338194654954b30488009c220bcb1a3ff0e92ed962e55fdbb8644d9",
-      "title": "Sony Reminds PlayStation Plus Subscribers That GTA 5 Leaves the Library 2 Days Before GTA 6 Comes Out",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-15T12:19:51Z",
-      "description": "PS5 and PS4 players taking advantage of PS Plus to play GTA 5 and GTA Online better get their hours in because their days are numbered. GTA 5 is being removed from the PS Plus catalogue just two days before GTA 6’s launch in November.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/14/ultimate-edition-vice-city-style-01-1791974913899.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/playstation-plus-losing-gta-5-ahead-of-gta-6",
-      "confidence": "high"
-    },
-    {
-      "id": "253a1b6a8ad4f165fc6aebeea8a59013a9644233793ce05c3eddeba0cdfecc9f",
-      "title": "GTA 6 Will Make The Game Awards Cutoff Date for Eligibility by the Skin of Its Teeth, Confirming It Has a Chance at 2026 Game of the Year",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-15T12:05:36Z",
-      "description": "GTA 6 is officially in with a chance of winning the 2026 Game of the Year award at this year’s The Game Awards, after the show confirmed the cutoff date for eligibility.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/15/vintage-vice-city-pack-exclusive-looks-02-1792065796840.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-will-make-the-game-awards-cutoff-date-for-eligibility-by-the-skin-of-its-teeth-confirming-it-has-a-chance-at-2026-game-of-the-year",
       "confidence": "high"
     }
   ]
