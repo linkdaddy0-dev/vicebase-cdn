@@ -1,7 +1,127 @@
 {
-  "lastUpdated": "2026-10-20T13:17:24Z",
+  "lastUpdated": "2026-10-21T13:23:43Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "e3df25f5ff324a3d727dfe26488fb4a245e824e4f15b27efd461dfc67e43bc97",
+      "title": "GTA 6 Pre-Orders Are 146% More Than Any Other Game",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-10-21T10:22:20Z",
+      "description": "We knew that many people would be pre-ordering GTA 6 however a new report has revealed it&#8217;s on a scale unlike anything we&#8217;ve seen before. A new report from analytics firm Sensor Tower has revealed just how far ahead grand Theft Auto VI is in comparison to the biggest games of the past...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/08/mega-4-1787856672032-1280.webp",
+      "url": "https://rockstarintel.com/gta-6-pre-order-numbers-are-146-more-than-any-other-game/",
+      "confidence": "high"
+    },
+    {
+      "id": "ceb03fbca7c14f003c126dba9e7f4874668ea10365f27e3ceef46685961ef6d7",
+      "title": "GTA 6 Live Action Trailer Rumors Swirl As Miami Turns Into Vice City",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Rumor",
+      "publishedAt": "2026-10-21T09:43:11Z",
+      "description": "As Rockstar Games turns Miami into Vice City for GTA 6, a ton of speculation over a potential live action trailer has spread across social media. Off the back of the Vice City blimp, ads, building signage and more, filming crews were spotted in downtown Miami in the past few days. Camera were mou...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_GROTTI_CHEETAH_01-copy.webp",
+      "url": "https://rockstarintel.com/gta-6-live-action-trailer-rumors-swirl-as-miami-turns-into-vice-city/",
+      "confidence": "high"
+    },
+    {
+      "id": "47febf6554ce3795259fca3e69fcbf51cf23035fb2559ed7b1c0ed36a9083bc5",
+      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-21T09:36:28Z",
+      "description": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
+      "image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
+      "confidence": "high"
+    },
+    {
+      "id": "45f7c0100f0c5ca4cef17e2a0b4639cc2470c845b61b406ecfb7a3d1dc92f552",
+      "title": "Extended GTA 6 Launch Trailer Has Begun Airing On TV",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "News",
+      "publishedAt": "2026-10-21T09:19:05Z",
+      "description": "An alternative cut of the GTA 6 launch trailer has begun airing on TV. Following its release last week, Rockstar Games have begun promoting the trailer across different forms of media. It started with online ads found within social media feeds but now they&#8217;ve gone to a more traditional medi...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/Grand-Theft-Auto-VI-Launch-Trailer-00-01-03-copy.webp",
+      "url": "https://rockstarintel.com/extended-gta-6-launch-trailer-has-begun-airing-on-tv/",
+      "confidence": "high"
+    },
+    {
+      "id": "2c09891df75668432f4bbf745e4dee34c7ff1a8fd141e351723f50aec3e27867",
+      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "Rumor",
+      "publishedAt": "2026-10-20T22:48:37Z",
+      "description": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
+      "confidence": "high"
+    },
+    {
+      "id": "43cafea4435f41f2fbf0e4186a92e0ca208710efb0976b5e2678377fc0dcbab6",
+      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-20T21:07:11Z",
+      "description": "It appears that Rockstar may be preparing to sell beer brands from GTA 6 in real life.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/07/gta-6-1791374410439.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
+      "confidence": "high"
+    },
+    {
+      "id": "6af0e2f30c6651ceb648242ef4e82d493420759aef98da40da1fc58c78b3b8ec",
+      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-20T18:24:07Z",
+      "description": "Shrek 2 Remastered is real, and its release date is less than a month away.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/19/shrek-2-remastered-1792451754506.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
+      "confidence": "high"
+    },
+    {
+      "id": "05c0ce1489088bcd69baaeabd4146d1a555405bcec592930f3450306c686ba91",
+      "title": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-10-20T18:00:00Z",
+      "description": "With character designs by one of my fave artists.The vacuum created by GTA 6 expands into next year, with January already looking like a hectic period for PS5 games.Highlights include Ananta, Stranger Than Heaven, and Until Dawn 2 – but now Idea Factory International is throwing its hat into the ...",
+      "image": "https://images.pushsquare.com/8a643bd82cab8/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
+      "confidence": "medium"
+    },
+    {
+      "id": "e66af1a1320b3afad7fedb8bdddd402f2d55260eec2af964bb128bb46803d901",
+      "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-20T17:41:19Z",
+      "description": "Grand Theft Auto 6 fans could soon be drinking Pißwasser and Patriot beer in real life after official labels for three GTA-inspired drinks were discovered.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/20/gta-6-beers-no-mames-vice-city.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-beers-could-hit-real-world-stores-after-official-labels-found-in-us-database-3420539/",
+      "confidence": "medium"
+    },
+    {
+      "id": "9cdc87311c5e03e897e0980852f75ff9bc652616917128ae87dbb0a806fa1a3b",
+      "title": "Justice Is Keeping The GTA 6 Hype At Arm’s Length While Making Its Soundtrack",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-20T14:19:30Z",
+      "description": "Grand Theft Auto 6 doesn't just look visually impressive; it also has a killer sound thanks to French electronic music duo Justice. Composing the soundtrack for any game is no easy feat, but with GTA 6 generating an unprecedented amount of hype, the team of Gaspard Augé and Xavier de Rosnay are w...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/justice-is-keeping-the-gta-6-hype-at-arms-length-while-making-its-soundtrack/",
+      "confidence": "high"
+    },
     {
       "id": "cec81c6afd1faf8b293e04e66e398187ff5ed95c3b3b6cf310c4d13f062349dd",
       "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
@@ -48,18 +168,6 @@
       "description": "More ads have been spotted on the streets of Miami advertising GTA 6, many of which feature true to form crude wording.\nThe post GTA 6 &#8216;Crude Ads&#8217; Surface Across Miami appeared first on Insider Gaming.",
       "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
       "url": "https://insider-gaming.com/gta-6-crude-ads-surface-across-miami/",
-      "confidence": "high"
-    },
-    {
-      "id": "8f7e85ac458b24329e94b6c72a3e1ce7d49d7e2811cc95c8b76e08238c145696",
-      "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-19T21:06:17Z",
-      "description": "Rockstar Games gave the GTA 6 developers so much freedom to add cool details that not even the studio's top executives are aware of everything in the game.",
-      "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
       "confidence": "high"
     },
     {
@@ -111,6 +219,18 @@
       "confidence": "high"
     },
     {
+      "id": "dceb6f5e826b56b69582a4b1a0f6e449b53d42a0cc66578d269bd20dbaaf9692",
+      "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "Leak",
+      "publishedAt": "2026-10-16T18:21:13Z",
+      "description": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November it's a battle of Shrek vs. ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
+      "confidence": "high"
+    },
+    {
       "id": "0b2e41d89043e4f549504c5c3139d025336a98bb5afc742c59c2bf71213246bf",
       "title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
       "source": "Push Square",
@@ -121,126 +241,6 @@
       "image": "https://images.pushsquare.com/1d0c2bdb607be/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
       "confidence": "medium"
-    },
-    {
-      "id": "9f5e010a33388bcd340fc23d836c58a8653bff1ec4ef86c6b80ef77367d66404",
-      "title": "GTA 6 Is Taking Over Miami Amid Pushback From Officials: “We’re Depicting Miami Like A Murder Capital”",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-16T13:01:12Z",
-      "description": "GTA 6's takeover of real-life Miami is continuing, and in a big way, ahead of the open-world crime game's release in November. For anyone unaware, GTA 6 takes place in Vice City, which is a stand-in for Miami, and the game also takes players to surrounding areas of its version of Florida, known a...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-is-taking-over-miami-amid-pushback-from-officials-were-depicting-miami-like-a-murder-capital/",
-      "confidence": "high"
-    },
-    {
-      "id": "0f051edb08ca5c7eb6f1c916d7a16749079754673e503606113db6f3466753bf",
-      "title": "GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-16T11:00:00Z",
-      "description": "Vice City is real now.It was obvious already, but with an outrageous marketing push behind it, GTA 6 is clearly going to be absolutely massive when it arrives next month.The hotly anticipated open world action game is scheduled for 19th November, 2026, and Rockstar Games and parent company Take-T...",
-      "image": "https://images.pushsquare.com/12cf4c78a6dea/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push",
-      "confidence": "medium"
-    },
-    {
-      "id": "60dd3074098ac7aa9689ada4ec431800b9b8202bbe2b53930f73f1b8f7f03386",
-      "title": "Real-Life GTA 6 Cars Spotted in Miami",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Rumor",
-      "publishedAt": "2026-10-16T09:30:00Z",
-      "description": "Real-life cars from Grand Theft Auto 6 have taken to the streets in Miami as Rockstar Games' advertising steps up further.\nThe post Real-Life GTA 6 Cars Spotted in Miami appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/GTA-6-Vice-City-GI.jpg",
-      "url": "https://insider-gaming.com/real-life-gta-6-cars-spotted-in-miami/",
-      "confidence": "high"
-    },
-    {
-      "id": "d2d7c3152a7d4d50a90aac12d778e3471a2e59b53198336d796ba2bb4bfb680e",
-      "title": "Rockstar Mods Real Life Vehicles to Look Like GTA 6 Cars Before Driving Them Through Miami",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-16T09:13:30Z",
-      "description": "Rockstar’s wild marketing push for GTA 6 is well underway, with the latest seeing modded cars cruising around Miami.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/16/vintage-vice-city-pack-vapid-stanier-02-1792141997261.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/rockstar-mods-real-life-vehicles-gta-6-cars-miami",
-      "confidence": "high"
-    },
-    {
-      "id": "91d8811cd7acacc35ed24bb1fed10e32a0bde36dfc5613cc17a984a59086b89d",
-      "title": "GTA 6 Isn’t Showing Boobie In Promotional Material",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-15T17:31:32Z",
-      "description": "The marketing machine for Grand Theft Auto 6 is at full steam, and while Rockstar Games is showcasing many of the characters players will be encountering in the open-world crime game, one character with a very distinct name has been largely absent from promos.\n\n\n\nViewers of the GTA 6 Extended Loo...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-isnt-showing-boobie-in-promotional-material/",
-      "confidence": "high"
-    },
-    {
-      "id": "ce2a5e1b63d2188838b4381539d637b5d3378ffaa73d02abd194ee768273fa75",
-      "title": "GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?",
-      "source": "Eurogamer",
-      "sourceId": "eurogamer",
-      "category": "News",
-      "publishedAt": "2026-10-15T16:10:34Z",
-      "description": "This generation's mega-game, Grand Theft Auto 6, will be eligible for The Game Awards 2026 by a matter of one day. Read more",
-      "image": "https://assetsio.gnwcdn.com/VINTAGE_VICE_CITY_PACK_EXCLUSIVE_LOOKS_04.jpg?width=1200&amp;height=630&amp;fit=crop&amp;enable=upscale&amp;auto=webp",
-      "url": "https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley",
-      "confidence": "high"
-    },
-    {
-      "id": "de4548aad40ed7ecb9dc0e645dc30d7940e4db4870b8661cc5941ca6781f4163",
-      "title": "JRPG-Inspired Edge of Memories Ducks GTA 6, Delayed to a 'Quieter Period' on PS5",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-15T15:30:00Z",
-      "description": "It's for the best.Edge of Memories, the JRPG-inspired outing by French dev Midgar, had been one of the few games willing to go head-to-head with GTA 6.It was originally due out on 5th November, which is also when Nintendo’s Ocarina of Time remake drops, by the way.Read the full article on pushsqu...",
-      "image": "https://images.pushsquare.com/6178f902e6168/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/jrpg-inspired-edge-of-memories-ducks-gta-6-delayed-to-a-quieter-period-on-ps5",
-      "confidence": "medium"
-    },
-    {
-      "id": "35577ed9527f06bf67ede9b0ce09c91358ee9d892940b87720415321ecf50804",
-      "title": "Activision says GTA 6 will help Modern Warfare 4 as other games are avoiding it",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-15T15:02:01Z",
-      "description": "Activision believes the launch of Grand Theft Auto 6 will actually help Call of Duty: Modern Warfare 4 as they’re releasing close together.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2025/12/04/modern-warfare-4-captain-price.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/call-of-duty/activision-says-gta-6-will-help-modern-warfare-4-as-other-games-are-avoiding-it-3419192/",
-      "confidence": "medium"
-    },
-    {
-      "id": "0e227d9810caf5b73c5511a4d7ae7110d20b9bfa2cd3b307a4cd5774e1cf9dc2",
-      "title": "New GTA 6 Screenshot And Launch Trailer Artwork Released",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-10-15T13:56:45Z",
-      "description": "A brand new GTA 6 screenshot and couple of pieces of artwork for the the game has been officially released. Alongside the blockbuster GTA VI Launch Trailer, Rockstar published a few new images. Firstly, the artwork is the thumbnail for the new trailer and can be found within one of the various vi...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/Jason_Lucia_Lock_And_Load_landscape-1280.webp",
-      "url": "https://rockstarintel.com/new-gta-6-screenshot-and-launch-trailer-artwork-released/",
-      "confidence": "high"
-    },
-    {
-      "id": "48676008643961d46cfca7a8e0c75dfe498a344327ad45ad5df1915657833d60",
-      "title": "‘No offense to Zelda’ but GTA 6 and COD Modern Warfare 4 are ‘the two biggest games of the year’, Activision exec says",
-      "source": "VGC",
-      "sourceId": "vgc",
-      "category": "News",
-      "publishedAt": "2026-10-15T13:44:19Z",
-      "description": "Modern Warfare 4 is out next week",
-      "image": "https://www.videogameschronicle.com/files/2026/05/modernwarfare4-2560x1440.jpg",
-      "url": "https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/",
-      "confidence": "high"
     }
   ]
 }
