@@ -1,7 +1,115 @@
 {
-  "lastUpdated": "2026-10-21T13:23:43Z",
+  "lastUpdated": "2026-10-22T13:24:37Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "28fc912b0b8a05ff42fd0175b45631935150ca4a55c83b5b6ca8a1f9bd2620f8",
+      "title": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "News",
+      "publishedAt": "2026-10-22T13:04:33Z",
+      "description": "GTA 6’s in-universe branding, restaurants, cars, and more have been spotted around Miami",
+      "image": "https://www.videogameschronicle.com/files/2026/10/social-basic.jpg.jpg",
+      "url": "https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city/",
+      "confidence": "high"
+    },
+    {
+      "id": "09478c48b93be6406519c2c1632895d741353930f3db22c5fcac0acca9f3f691",
+      "title": "Mass Effect TV series ‘still in production’ despite BioWare closure, as game director writes: ‘At least I can play GTA 6’",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "Rumor",
+      "publishedAt": "2026-10-22T11:06:04Z",
+      "description": "Amazon's Mass Effect series is reportedly unaffected by this week's game cancellation",
+      "image": "https://www.videogameschronicle.com/files/2020/08/Mass-Effect-2-a.jpg",
+      "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
+      "confidence": "high"
+    },
+    {
+      "id": "0f76ce414b7ab7f811c82d1f481087168f2312a557824b67646f84a6e6029380",
+      "title": "GTA’s Burger Shot & Cluckin’ Bell are now real in Miami ahead of GTA 6",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-22T09:49:17Z",
+      "description": "Rockstar Games is taking its GTA 6 marketing to another level, with two of the series’ most famous fast food restaurants appearing in real life as part of its Miami takeover.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/22/GTAs-Burger-Shot-Cluckin-Bell-are-now-real-in-Miami-ahead-of-GTA-6.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gtas-burger-shot-cluckin-bell-are-now-real-in-miami-ahead-of-gta-6-3420945/",
+      "confidence": "medium"
+    },
+    {
+      "id": "27350f08fa42754fc4e1b4a5eafa8abdecf35dfa110bf89bddba33a05eab4af3",
+      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-21T23:15:44Z",
+      "description": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/21/burger-shot-1792623074820.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
+      "confidence": "high"
+    },
+    {
+      "id": "36f941daec3a9ad79a15fee5a3706d58e5c7ea551a050d3e89b5f42c99c61d7d",
+      "title": "Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-10-21T19:30:00Z",
+      "description": "Price and pre-order details confirmed.If you’re looking to upgrade your audio experience for GTA 6, Sony has confirmed that it will launch its new revamped PlayStation Pulse headset alongside Rockstar’s highly anticipated game on 19th November.Pre-orders will open on PS Direct next week, from 10A...",
+      "image": "https://images.pushsquare.com/b4b76355c836b/small.jpg",
+      "url": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
+      "confidence": "medium"
+    },
+    {
+      "id": "198c7737ce3ec17e8e4d3725a8ffa5058294ec861f2652b2a2808dd33704035d",
+      "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-21T16:16:36Z",
+      "description": "New details about Rockstar's GTA 6 continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier published a video recently in which he discussed some of the new things about GTA 6 that he learned when interviewing Rockstar, including how the ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
+      "confidence": "high"
+    },
+    {
+      "id": "1cf591f5821ffa3179c48cacac85a9f60962d582b8420e5f8fd27e12129d2ed2",
+      "title": "GTA 6 Might Give America A Very Expensive Sick Day",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-21T16:02:00Z",
+      "description": "Everyone wants to play Rockstar Games' upcoming heist-'em-up Grand Theft Auto 6--so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, which an economics professor estimates will set the country back roughly $1 billion.\n\n\n\nAccording to a...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
+      "confidence": "high"
+    },
+    {
+      "id": "26e1393e2d4c407a083342a466c21c84c40b76f397011a946cbafca40869c12c",
+      "title": "New PS5 Update Is Out Now, And Sony May Be Tightening Security Before GTA 6",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-21T13:46:30Z",
+      "description": "Another day, another PS5 update, as Sony tweaks its system with another minor upgrade. It looks like business as usual for PS5 Update Version: 26.07-14.20.00, with Sony focusing on overall usage and message readability, but there are murmurs that the patch could also be quietly plugging a few jai...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/new-ps5-update-is-out-now-and-sony-may-be-tightening-security-before-gta-6/",
+      "confidence": "high"
+    },
+    {
+      "id": "26e04c796fd4fd43d2bc97d93c5b3181a9c20a291a3403e4abd87e0b4519e4a7",
+      "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-21T12:29:03Z",
+      "description": "A man says he was fired from a job after leaking adverts for Grand Theft Auto 6 on Miami Beach, but he “understands” why.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/18/GTA-6-might-get-Liberty-City-DLC-as-massive-map-update-leaked.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/man-says-he-was-fired-after-leaking-gta-6-ads-worth-4-million-3420713/",
+      "confidence": "medium"
+    },
     {
       "id": "e3df25f5ff324a3d727dfe26488fb4a245e824e4f15b27efd461dfc67e43bc97",
       "title": "GTA 6 Pre-Orders Are 146% More Than Any Other Game",
@@ -75,18 +183,6 @@
       "confidence": "high"
     },
     {
-      "id": "6af0e2f30c6651ceb648242ef4e82d493420759aef98da40da1fc58c78b3b8ec",
-      "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-20T18:24:07Z",
-      "description": "Shrek 2 Remastered is real, and its release date is less than a month away.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/19/shrek-2-remastered-1792451754506.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
-      "confidence": "high"
-    },
-    {
       "id": "05c0ce1489088bcd69baaeabd4146d1a555405bcec592930f3450306c686ba91",
       "title": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
       "source": "Push Square",
@@ -123,18 +219,6 @@
       "confidence": "high"
     },
     {
-      "id": "cec81c6afd1faf8b293e04e66e398187ff5ed95c3b3b6cf310c4d13f062349dd",
-      "title": "GTA 6 Is 148% Ahead Of This Other Popular AAA Game So Far",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-20T12:51:41Z",
-      "description": "GTA 6 launches in November, and everyone expects it to be a giant, record-breaking release. But just how big will the release be? Early signs are pointing to an enormous, unprecedented launch, and new data backs that up.\n\n\n\nSensor Tower compiled preorder data for some of the biggest games release...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-is-148-ahead-of-this-other-popular-aaa-game-so-far/",
-      "confidence": "high"
-    },
-    {
       "id": "ba3eb89f71760fac3c6818f1b60664d3214ddcaac3c42c9b52e32d280d175d1a",
       "title": "GTA 6 is so detailed no single Rockstar employee knows it all - which is how we got shrinking horse testicles in Red Dead Redemption 2",
       "source": "Eurogamer",
@@ -156,90 +240,6 @@
       "description": "French music duo Daft Punk were reportedly offered an “unlimited budget” to work on Grand Theft Auto 6, but decided to turn down Rockstar Games’ advances.",
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/20/Daft-Punk-reportedly-turned-down-GTA-6-despite-22unlimited22-budget.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/daft-punk-reportedly-turned-down-gta-6-soundtrack-deal-despite-unlimited-budget-3420267/",
-      "confidence": "medium"
-    },
-    {
-      "id": "de499242423a072fad963e1323c8c4d399ee5a2a862f511165e9bc609a72a8ea",
-      "title": "GTA 6 ‘Crude Ads’ Surface Across Miami",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Rumor",
-      "publishedAt": "2026-10-20T09:49:02Z",
-      "description": "More ads have been spotted on the streets of Miami advertising GTA 6, many of which feature true to form crude wording.\nThe post GTA 6 &#8216;Crude Ads&#8217; Surface Across Miami appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/09/Jason_and_Lucia_09-scaled.jpg",
-      "url": "https://insider-gaming.com/gta-6-crude-ads-surface-across-miami/",
-      "confidence": "high"
-    },
-    {
-      "id": "d2eeede3168fc288d4c7d4df615ac62edab931d4ca3f1eddb36ea8c89e306e0e",
-      "title": "GTA 6 devs tried “a million” weapon wheel alternatives as struggles with RDR2 realism led some to quit",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-19T18:20:08Z",
-      "description": "Rockstar spent ages experimenting with alternatives to GTA 6’s weapon wheel as devs struggled to balance RDR2’s realism with GTA’s arcade gameplay.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/12/30/gta-6-red-dead-redemption-2-concerned.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-devs-tried-a-million-weapon-wheel-alternatives-as-struggles-with-rdr2-realism-led-some-to-quit-3420111/",
-      "confidence": "medium"
-    },
-    {
-      "id": "a88e38ef73735a47c7f949e427940354f672b5362f88ab64790bf41b3724d37f",
-      "title": "GTA 6 launch trailer recreated in GTA 5 and the difference is mind-blowing",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-19T10:32:08Z",
-      "description": "A Grand Theft Auto fan has made the GTA 6 launch trailer in GTA 5, and it’s safe to say that the difference in quality between the two games is pretty mind-blowing.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/19/GTA-6-trailer-recreated-in-GTA-5-and-the-difference-is-mind-blowing.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-launch-trailer-recreated-in-gta-5-and-the-difference-is-mind-blowing-3419960/",
-      "confidence": "medium"
-    },
-    {
-      "id": "8e072e0530a1e17da27bffecf4284fd95a748352a286b3a0b233a9be9063db8c",
-      "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-18T00:00:00Z",
-      "description": "\"That's quite extravagant\".Sony introduced QSSR earlier this month, bringing a version of the PS5 Pro’s acclaimed PSSR upscaler to base PS5 hardware.While the technology is currently only incorporated into first-party titles Marvel’s Wolverine and Ghost of Yotei, it will be made available to thir...",
-      "image": "https://images.pushsquare.com/37a7a18543bcf/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
-      "confidence": "medium"
-    },
-    {
-      "id": "5727ac2b1dad91f695ddeee8cdf1a79f33ce50b6ae75468fdc8ddfcdc3690568",
-      "title": "All The Records GTA 6 Will Break, We Think",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-16T20:27:22Z",
-      "description": "After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. \n\n\n\nBut just how big will the launch be? And wh...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
-      "confidence": "high"
-    },
-    {
-      "id": "dceb6f5e826b56b69582a4b1a0f6e449b53d42a0cc66578d269bd20dbaaf9692",
-      "title": "Watch Out GTA 6, A Shrek 2 Remaster Was Just Announced",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "Leak",
-      "publishedAt": "2026-10-16T18:21:13Z",
-      "description": "A remaster of 2004's Shrek 2: The Game is on the way, according to an Xbox.com listing that was published too soon. Following the leak, Aspyr officially announced the Shrek 2 remaster, and it's releasing on November 10. That's just 9 days before GTA 6, so this November it's a battle of Shrek vs. ...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/shrek-2-remaster-leaks-looks-amazing-and-i-need-it-now/",
-      "confidence": "high"
-    },
-    {
-      "id": "0b2e41d89043e4f549504c5c3139d025336a98bb5afc742c59c2bf71213246bf",
-      "title": "Sony's Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-16T13:30:00Z",
-      "description": "\"I’m most definitely playing on a PS5\".Sony’s unprecedented multi-million dollar GTA 6 PS5 marketing push is already reaping dividends. A short reaction video published by juggernaut streamer IShowSpeed shows the platform holder’s approach working in real time.The manufacturer has paid handsomely...",
-      "image": "https://images.pushsquare.com/1d0c2bdb607be/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working",
       "confidence": "medium"
     }
   ]
