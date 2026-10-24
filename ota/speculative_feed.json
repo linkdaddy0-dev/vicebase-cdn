@@ -1,7 +1,67 @@
 {
-  "lastUpdated": "2026-10-23T13:03:00Z",
+  "lastUpdated": "2026-10-24T12:25:53Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "ec0cfb65f48b9926763855e57605ce3422b8052a5aa9094149a7cf5209590e82",
+      "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-23T18:43:16Z",
+      "description": "The latter part of 2026 has been packed with excellent games, all leading up to GTA 6 on November 19, so it's not surprising that PS5 sales have jumped over last month.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/29/wolverine-ending-explained-blogroll-1790703344423.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/ahead-of-gta-6-playstation-5-sales-were-up-22-likely-due-to-wolverine",
+      "confidence": "high"
+    },
+    {
+      "id": "d88d4aa16779897cf640bcc5ae3cf7c6a11b5c81bf2ff219cafe06ed814b77ab",
+      "title": "Poll: Are You Taking Time Off for GTA 6?",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-10-23T16:00:00Z",
+      "description": "USA set for a massive financial hit on 19th November.We're now less than a month away from the arrival of GTA 6, and according to recent reporting, its launch day alone may cost America $1 billion.That's because an estimated 1.5 million workers are planning to take 19th November 2026 as a day off...",
+      "image": "https://images.pushsquare.com/7c5a6fd3be635/small.jpg",
+      "url": "https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6",
+      "confidence": "medium"
+    },
+    {
+      "id": "12c6129a50bed5afbc6c43bf1facb9db44faca8134e2740c8c8593d748439a99",
+      "title": "Finger Out How To Prep For GTA 6 With These Exercises",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-23T15:39:56Z",
+      "description": "We're just weeks away from Grand Theft Auto VI launching, and you might think you're set to spend hours upon hours in the open-world game right now. But PureGym asks if your body is actually ready like former Nintendo of America president Reggie Fils-Aime's--as well as your thumbs. \n\n\n\nWith that ...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/",
+      "confidence": "high"
+    },
+    {
+      "id": "47560447bb2bd676c6d60d091597741771a6d46f645f5143c067f0222f8d6ad7",
+      "title": "GTA 6 Burgers Will Be Available In Florida Throughout The Year",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-23T15:13:13Z",
+      "description": "Rockstar Games and the burger company Skinny Louie have announced a partnership to promote GTA 6, during which its stores will convert to Burger Shots through the end of the year. Burger Shot is the Burger King parody in the world of GTA.\n\n\n\nPeople in South Florida can buy GTA 6 burgers at the Ka...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/",
+      "confidence": "high"
+    },
+    {
+      "id": "9e1b55a5dc146627464ea4f4000034f635f233c630108c51509e71a66556a994",
+      "title": "Laid off Mass Effect 5 director happy he no longer has to call in sick for GTA 6",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-23T13:25:15Z",
+      "description": "BioWare‘s Michael Gamble, who oversaw the development of Mass Effect 5 before its cancellation, has responded to the layoffs at the studio with a light-hearted spin.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/10/gta-6-security-online-details.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/laid-off-mass-effect-5-director-happy-he-no-longer-has-to-call-in-sick-for-gta-6-3421294/",
+      "confidence": "medium"
+    },
     {
       "id": "cf3ab84879d9fb6256b17cadc6e4dce08ea3c7592d92f073ac1cfc49116a2d34",
       "title": "GTA 6 Has Millions Of People Skipping Work On Launch Day, Study Finds",
@@ -111,30 +171,6 @@
       "confidence": "medium"
     },
     {
-      "id": "198c7737ce3ec17e8e4d3725a8ffa5058294ec861f2652b2a2808dd33704035d",
-      "title": "GTA 6 Will Feature Lots Of Small Details Like Red Dead’s Dynamic Horse Testicle Physics",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-21T16:16:36Z",
-      "description": "New details about Rockstar's GTA 6 continue to come to light ahead of the highly anticipated crime game's release in November. Reporter Jason Schreier published a video recently in which he discussed some of the new things about GTA 6 that he learned when interviewing Rockstar, including how the ...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
-      "confidence": "high"
-    },
-    {
-      "id": "1cf591f5821ffa3179c48cacac85a9f60962d582b8420e5f8fd27e12129d2ed2",
-      "title": "GTA 6 Might Give America A Very Expensive Sick Day",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-21T16:02:00Z",
-      "description": "Everyone wants to play Rockstar Games' upcoming heist-'em-up Grand Theft Auto 6--so much so that some 1.5 million Americans are projected to call in sick to work on November 19 to play the game, which an economics professor estimates will set the country back roughly $1 billion.\n\n\n\nAccording to a...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/gta-6-might-give-america-a-very-expensive-sick-day/",
-      "confidence": "high"
-    },
-    {
       "id": "26e04c796fd4fd43d2bc97d93c5b3181a9c20a291a3403e4abd87e0b4519e4a7",
       "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
       "source": "Dexerto",
@@ -147,8 +183,8 @@
       "confidence": "medium"
     },
     {
-      "id": "e3df25f5ff324a3d727dfe26488fb4a245e824e4f15b27efd461dfc67e43bc97",
-      "title": "GTA 6 Pre-Orders Are 146% More Than Any Other Game",
+      "id": "5d8045fea988a6fc44f02f6ad0c9915edc47021828fefcee00188883b059fada",
+      "title": "GTA 6 Pre-Orders Are 148% More Than Any Other Game",
       "source": "RockstarINTEL",
       "sourceId": "rockstarintel",
       "category": "News",
@@ -205,42 +241,6 @@
       "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
       "confidence": "high"
-    },
-    {
-      "id": "43cafea4435f41f2fbf0e4186a92e0ca208710efb0976b5e2678377fc0dcbab6",
-      "title": "It Looks Like GTA 6's Beer Brands Are About to Become Real",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-20T21:07:11Z",
-      "description": "It appears that Rockstar may be preparing to sell beer brands from GTA 6 in real life.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/07/gta-6-1791374410439.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/it-looks-like-gta-6s-beer-brands-are-about-to-become-real",
-      "confidence": "high"
-    },
-    {
-      "id": "05c0ce1489088bcd69baaeabd4146d1a555405bcec592930f3450306c686ba91",
-      "title": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-20T18:00:00Z",
-      "description": "With character designs by one of my fave artists.The vacuum created by GTA 6 expands into next year, with January already looking like a hectic period for PS5 games.Highlights include Ananta, Stranger Than Heaven, and Until Dawn 2 – but now Idea Factory International is throwing its hat into the ...",
-      "image": "https://images.pushsquare.com/8a643bd82cab8/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/jrpg-villion-code-adds-to-the-insanity-of-ps5s-january-release-schedule",
-      "confidence": "medium"
-    },
-    {
-      "id": "e66af1a1320b3afad7fedb8bdddd402f2d55260eec2af964bb128bb46803d901",
-      "title": "GTA 6 beers could hit real-world stores after official labels found in US database",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-20T17:41:19Z",
-      "description": "Grand Theft Auto 6 fans could soon be drinking Pißwasser and Patriot beer in real life after official labels for three GTA-inspired drinks were discovered.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/20/gta-6-beers-no-mames-vice-city.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-beers-could-hit-real-world-stores-after-official-labels-found-in-us-database-3420539/",
-      "confidence": "medium"
     }
   ]
 }
