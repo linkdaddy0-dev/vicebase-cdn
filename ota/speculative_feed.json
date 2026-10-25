@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T12:25:53Z",
+  "lastUpdated": "2026-10-25T12:56:03Z",
   "articleCount": 20,
   "articles": [
     {
@@ -13,6 +13,18 @@
       "image": "https://assets-prd.ignimgs.com/2026/09/29/wolverine-ending-explained-blogroll-1790703344423.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/ahead-of-gta-6-playstation-5-sales-were-up-22-likely-due-to-wolverine",
       "confidence": "high"
+    },
+    {
+      "id": "3eb21f11b36d4fb6c5e881a531f7a1d85914a3aab58505de2d33fe3a3476151f",
+      "title": "GTA 6-inspired CS2 map makes you save leaker Cyberleek from Rockstar mansion",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-23T16:23:57Z",
+      "description": "A new Counter-Strike 2 community map tasks players with rescuing GTA 6 leaker Cyberleek from a mansion supposedly belonging to Rockstar Games.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/23/vice-heist-cs2.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/counter-strike-2/gta-6-inspired-cs2-map-makes-you-save-leaker-cyberleek-from-rockstar-mansion-3421409/",
+      "confidence": "medium"
     },
     {
       "id": "d88d4aa16779897cf640bcc5ae3cf7c6a11b5c81bf2ff219cafe06ed814b77ab",
@@ -168,18 +180,6 @@
       "description": "Price and pre-order details confirmed.If you’re looking to upgrade your audio experience for GTA 6, Sony has confirmed that it will launch its new revamped PlayStation Pulse headset alongside Rockstar’s highly anticipated game on 19th November.Pre-orders will open on PS Direct next week, from 10A...",
       "image": "https://images.pushsquare.com/b4b76355c836b/small.jpg",
       "url": "https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november",
-      "confidence": "medium"
-    },
-    {
-      "id": "26e04c796fd4fd43d2bc97d93c5b3181a9c20a291a3403e4abd87e0b4519e4a7",
-      "title": "Man says he was fired after leaking GTA 6 ads worth $4 million",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-21T12:29:03Z",
-      "description": "A man says he was fired from a job after leaking adverts for Grand Theft Auto 6 on Miami Beach, but he “understands” why.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/18/GTA-6-might-get-Liberty-City-DLC-as-massive-map-update-leaked.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/man-says-he-was-fired-after-leaking-gta-6-ads-worth-4-million-3420713/",
       "confidence": "medium"
     },
     {
