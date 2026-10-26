@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-10-25T12:56:03Z",
+  "lastUpdated": "2026-10-26T14:49:07Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "8a2bed6af07b6f8cccdf70bfc2c62c8dabfc2d7505f9c83f9f8bfad6c2b1c878",
+      "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
+      "source": "GameSpot",
+      "sourceId": "gamespot",
+      "category": "News",
+      "publishedAt": "2026-10-26T13:54:17Z",
+      "description": "While Rockstar's GTA 6 won't release until November 19, you can now buy officially licensed GTA 6 coffee from a local company in Miami.\n\n\n\nVice City Bean has partnered with Rockstar Games for a new blend called Leonida, but it's not cheap. A 10oz bag of beans is going for $23, and that's before s...",
+      "image": null,
+      "url": "https://www.gamespot.com/articles/gta-6-coffee-is-here-to-keep-you-warm-until-the-game-releases/",
+      "confidence": "high"
+    },
+    {
+      "id": "8a31a6c199382b077b607554d86246d82162fd76d555d7babda94d15eb076926",
+      "title": "GTA 6 fans are reselling rare merch for crazy amounts of money",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-26T12:30:22Z",
+      "description": "Grand Theft Auto 6 fans have started reselling some limited-edition merch from Miami, and it is going for more than the $400 Collector’s Edition.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/08/GTA-6-reveals-six-radio-stations-you-can-listen-to-right-now.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/gta-6-fans-are-reselling-rare-merch-for-crazy-amounts-of-money-3421830/",
+      "confidence": "medium"
+    },
+    {
+      "id": "0752f3751ceaacabc36f2eb4d064430a592fc07dfe859703ed4b7c293e2288f8",
+      "title": "The actor rumoured to be playing Lucia in GTA 6 actively ignored questions about it during an introductory livestream",
+      "source": "VGC",
+      "sourceId": "vgc",
+      "category": "Rumor",
+      "publishedAt": "2026-10-26T11:29:36Z",
+      "description": "Manni L. Perez smiled and didn't read out comments about Rockstar's game",
+      "image": "https://www.videogameschronicle.com/files/2025/05/Lucia_Caminos_06.jpg",
+      "url": "https://www.videogameschronicle.com/news/the-actor-rumoured-to-be-playing-lucia-in-gta-6-actively-ignored-questions-about-it-during-an-introductory-livestream/",
+      "confidence": "high"
+    },
+    {
+      "id": "bb1f7f43fb3a3d56e8e16c54313226abe2000795d41f4b8d09f44d340d4c879b",
+      "title": "Rumored Lucia Actress Goes Viral After Dodging Swarm of GTA 6 Comments During Livestream",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "Rumor",
+      "publishedAt": "2026-10-25T15:14:17Z",
+      "description": "Manni L. Perez, the actress long rumored to be playing Lucia in GTA 6, has gone viral after dodging a swarm of comments from Grand Theft Auto fans during a recent livestream.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/24/lucia-hi-res-headshot-artwork-1787583598249.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/rumored-lucia-actress-goes-viral-after-dodging-swarm-of-gta-6-comments-during-livestream",
+      "confidence": "high"
+    },
     {
       "id": "ec0cfb65f48b9926763855e57605ce3422b8052a5aa9094149a7cf5209590e82",
       "title": "Ahead of GTA 6, PlayStation 5 Sales Were Up 22%, Likely Due To Wolverine",
@@ -111,18 +159,6 @@
       "confidence": "medium"
     },
     {
-      "id": "69020866ac458a0c07d909b001db513ed62981bc3fd27963724a21b415739236",
-      "title": "You Can Now Buy GTA 6 Burgers And Fried Chicken IRL, But It’s Not Cheap",
-      "source": "GameSpot",
-      "sourceId": "gamespot",
-      "category": "News",
-      "publishedAt": "2026-10-22T13:26:08Z",
-      "description": "Rockstar's marketing efforts for GTA 6 are ramping up, and this now includes burgers and fried chicken that you can buy in real life. \n\n\n\nRockstar's partnership with Miami's Kaseya Center expanded this week with the introduction of the restaurants \"Burger Shot\" and \"Cluckin' Bell\" at Heat games. ...",
-      "image": null,
-      "url": "https://www.gamespot.com/articles/you-can-now-buy-gta-6-burgers-and-fried-chicken-irl-but-its-not-cheap/",
-      "confidence": "high"
-    },
-    {
       "id": "28fc912b0b8a05ff42fd0175b45631935150ca4a55c83b5b6ca8a1f9bd2620f8",
       "title": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City",
       "source": "VGC",
@@ -145,18 +181,6 @@
       "image": "https://www.videogameschronicle.com/files/2020/08/Mass-Effect-2-a.jpg",
       "url": "https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/",
       "confidence": "high"
-    },
-    {
-      "id": "0f76ce414b7ab7f811c82d1f481087168f2312a557824b67646f84a6e6029380",
-      "title": "GTA’s Burger Shot & Cluckin’ Bell are now real in Miami ahead of GTA 6",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "News",
-      "publishedAt": "2026-10-22T09:49:17Z",
-      "description": "Rockstar Games is taking its GTA 6 marketing to another level, with two of the series’ most famous fast food restaurants appearing in real life as part of its Miami takeover.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/22/GTAs-Burger-Shot-Cluckin-Bell-are-now-real-in-Miami-ahead-of-GTA-6.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gtas-burger-shot-cluckin-bell-are-now-real-in-miami-ahead-of-gta-6-3420945/",
-      "confidence": "medium"
     },
     {
       "id": "27350f08fa42754fc4e1b4a5eafa8abdecf35dfa110bf89bddba33a05eab4af3",
@@ -216,30 +240,6 @@
       "description": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
       "image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
-      "confidence": "high"
-    },
-    {
-      "id": "45f7c0100f0c5ca4cef17e2a0b4639cc2470c845b61b406ecfb7a3d1dc92f552",
-      "title": "Extended GTA 6 Launch Trailer Has Begun Airing On TV",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-10-21T09:19:05Z",
-      "description": "An alternative cut of the GTA 6 launch trailer has begun airing on TV. Following its release last week, Rockstar Games have begun promoting the trailer across different forms of media. It started with online ads found within social media feeds but now they&#8217;ve gone to a more traditional medi...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/Grand-Theft-Auto-VI-Launch-Trailer-00-01-03-copy.webp",
-      "url": "https://rockstarintel.com/extended-gta-6-launch-trailer-has-begun-airing-on-tv/",
-      "confidence": "high"
-    },
-    {
-      "id": "2c09891df75668432f4bbf745e4dee34c7ff1a8fd141e351723f50aec3e27867",
-      "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "Rumor",
-      "publishedAt": "2026-10-20T22:48:37Z",
-      "description": "Eagle-eyed Rockstar fans have noticed camera crews recording convoys of flashy GTA-themed cars in Miami, creating speculation over a new live-action trailer.",
-      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
       "confidence": "high"
     }
   ]
