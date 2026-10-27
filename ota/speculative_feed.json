@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-10-26T14:49:07Z",
+  "lastUpdated": "2026-10-27T13:55:02Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "79fd0a7716a83f0cd42b05bc04bf4903194b9d3255ee75edbbb71606ca7f3b29",
+      "title": "Analyst says GTA 6 won’t hurt Fortnite and Roblox as “not everyone” will play it",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "News",
+      "publishedAt": "2026-10-27T10:09:11Z",
+      "description": "A video game analyst believes that “not everyone” wants to play Grand Theft Auto 6 when it finally releases, and that the fear of releasing games near it has been “overblown.”",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/09/gta-6-jason-lucia-escape.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/gta/analyst-says-gta-6-wont-hurt-fortnite-and-roblox-as-not-everyone-will-play-it-3422026/",
+      "confidence": "medium"
+    },
+    {
+      "id": "1781e2663d443a2ee05313d655db7a1b69266b946ac158455383a398d06e79f6",
+      "title": "Hunger Games Director Hopes You Aren't Too Distracted With GTA 6 to See Sunrise on the Reaping",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-26T21:53:31Z",
+      "description": "Francis Lawrence, director of Netflix’s BioShock movie, opened up to IGN about his favorite video games of all time, and we have to admit that he knows ball.",
+      "image": "https://assets-prd.ignimgs.com/2026/08/06/gtaonothumb-1786018055324.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/hunger-games-director-hopes-you-arent-too-distracted-with-gta-6-to-see-sunrise-on-the-reaping",
+      "confidence": "high"
+    },
+    {
+      "id": "e90d2ebb67ac699392034a92e8daef3ccf303e4a64feea088ccca958e0852135",
+      "title": "GTA 6 Causes 17% Spike in Time Off Requests on Game's Release Date",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-26T21:42:48Z",
+      "description": "GTA 6's release has led to as much as a 17% increase in time-off requests, according to a new report.",
+      "image": "https://assets-prd.ignimgs.com/2026/09/17/gta-6-soundtrack-1789662158949.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/gta-6-causes-17-spike-in-time-off-requests-on-games-release-date",
+      "confidence": "high"
+    },
+    {
+      "id": "33ae86ca64b31894a0c66d8d4a41d0800c9598c543c535aaea862fc164246c9d",
+      "title": "GTA 6 Has Just Been Sent Out Early To Reviewers",
+      "source": "RockstarINTEL",
+      "sourceId": "rockstarintel",
+      "category": "Rumor",
+      "publishedAt": "2026-10-26T16:55:57Z",
+      "description": "A highly reputable leaker has just revealed information regarding GTA 6 reviews. We now know when reviewers will be getting the game plus what day reviews will go live. There has been a lot of speculation regarding the review period of GTA 6. We&#8217;ve seen quite a few gamers online think that ...",
+      "image": "https://rockstarintel.com/wp-content/uploads/2026/09/Lucia_Caminos_10-copy.webp",
+      "url": "https://rockstarintel.com/gta-6-has-just-been-sent-out-early-to-reviewers/",
+      "confidence": "high"
+    },
     {
       "id": "8a2bed6af07b6f8cccdf70bfc2c62c8dabfc2d7505f9c83f9f8bfad6c2b1c878",
       "title": "GTA 6 Coffee Is Here To Keep You Warm Until The Game Releases",
@@ -147,18 +195,6 @@
       "confidence": "high"
     },
     {
-      "id": "96cced63057c38e7a60fa2ffb32d6b2a1350fdcde1456708d097c96c3dbbf249",
-      "title": "GTA 6 sick days predicted to cost the US $1 billion",
-      "source": "Dexerto",
-      "sourceId": "dexerto_gta",
-      "category": "Rumor",
-      "publishedAt": "2026-10-22T14:35:09Z",
-      "description": "The release of GTA 6 could cost the US economy around $1 billion, with an estimated 1.5 million people reportedly planning to take time off work to play Rockstar’s long-awaited sequel.",
-      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/22/GTA-6-sick-days-predicted-to-cost-the-US-1-billion.jpg?width=1080&quality=75&format=auto",
-      "url": "https://www.dexerto.com/gta/gta-6-sick-days-predicted-to-cost-the-us-1-billion-3421034/",
-      "confidence": "medium"
-    },
-    {
       "id": "28fc912b0b8a05ff42fd0175b45631935150ca4a55c83b5b6ca8a1f9bd2620f8",
       "title": "Rockstar is quietly transforming the real Miami into GTA 6’s Vice City",
       "source": "VGC",
@@ -183,18 +219,6 @@
       "confidence": "high"
     },
     {
-      "id": "27350f08fa42754fc4e1b4a5eafa8abdecf35dfa110bf89bddba33a05eab4af3",
-      "title": "GTA 6's Fast Food Restaurant, Burger Shot, Is Coming to Real Life in the Miami Heat's Arena",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-21T23:15:44Z",
-      "description": "One of the most iconic fast food restaurants from the GTA universe is becoming real ahead of GTA 6's release.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/21/burger-shot-1792623074820.jpg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6s-fast-food-restaurant-burger-shot-is-coming-to-real-life-in-the-miami-heats-arena",
-      "confidence": "high"
-    },
-    {
       "id": "36f941daec3a9ad79a15fee5a3706d58e5c7ea551a050d3e89b5f42c99c61d7d",
       "title": "Sony's Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November",
       "source": "Push Square",
@@ -216,30 +240,6 @@
       "description": "We knew that many people would be pre-ordering GTA 6 however a new report has revealed it&#8217;s on a scale unlike anything we&#8217;ve seen before. A new report from analytics firm Sensor Tower has revealed just how far ahead grand Theft Auto VI is in comparison to the biggest games of the past...",
       "image": "https://rockstarintel.com/wp-content/uploads/2026/08/mega-4-1787856672032-1280.webp",
       "url": "https://rockstarintel.com/gta-6-pre-order-numbers-are-146-more-than-any-other-game/",
-      "confidence": "high"
-    },
-    {
-      "id": "ceb03fbca7c14f003c126dba9e7f4874668ea10365f27e3ceef46685961ef6d7",
-      "title": "GTA 6 Live Action Trailer Rumors Swirl As Miami Turns Into Vice City",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "Rumor",
-      "publishedAt": "2026-10-21T09:43:11Z",
-      "description": "As Rockstar Games turns Miami into Vice City for GTA 6, a ton of speculation over a potential live action trailer has spread across social media. Off the back of the Vice City blimp, ads, building signage and more, filming crews were spotted in downtown Miami in the past few days. Camera were mou...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/06/ULTIMATE_EDITION_GROTTI_CHEETAH_01-copy.webp",
-      "url": "https://rockstarintel.com/gta-6-live-action-trailer-rumors-swirl-as-miami-turns-into-vice-city/",
-      "confidence": "high"
-    },
-    {
-      "id": "47febf6554ce3795259fca3e69fcbf51cf23035fb2559ed7b1c0ed36a9083bc5",
-      "title": "Sony Issues New PS5 Firmware Update as Jailbreak Race Heats Up Ahead of GTA 6 Release",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-21T09:36:28Z",
-      "description": "Sony has issued a new PlayStation 5 firmware update amid the homebrew community's ongoing effort to jailbreak the console.",
-      "image": "https://assets-prd.ignimgs.com/2025/02/26/ps5console-1740609475402.jpeg?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/sony-issues-new-ps5-firmware-update-as-jailbreak-race-heats-up-ahead-of-gta-6-release",
       "confidence": "high"
     }
   ]
