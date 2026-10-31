@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-30T14:47:59Z",
+  "lastUpdated": "2026-10-31T14:15:36Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "3dbf374907994d261e91f3e7e0cd9f749cb02fb267eceb4776d3cb80424d78b3",
+      "title": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)",
+      "source": "Push Square",
+      "sourceId": "pushsquare",
+      "category": "News",
+      "publishedAt": "2026-10-31T12:00:00Z",
+      "description": "Godzilla: Destroy All Monsters! CRYMELIGHT! Zero Parades!We’re fast approaching the GTA 6 evacuation zone, so expect the number of new releases to dip dramatically in November.There are some noteworthy titles this time, though, with highlights including the PS5 version of Zero Parades as well as ...",
+      "image": "https://images.pushsquare.com/79d1f80a87960/small.jpg",
+      "url": "https://www.pushsquare.com/guides/these-28plus-ps5-and-ps-plus-games-are-coming-out-next-week-2nd-8th-november",
+      "confidence": "medium"
+    },
+    {
+      "id": "f8d184adca7d71ca0a990d12f64a0fa4a12eaecd021c95db91c93e93e4e25acd",
+      "title": "Grand Theft Auto VI: The Original Score Is Up for Preorder",
+      "source": "IGN",
+      "sourceId": "ign",
+      "category": "News",
+      "publishedAt": "2026-10-30T19:15:32Z",
+      "description": "Grand Theft Auto VI: The Original Score is a three-hour compilation of new music from Justice, and it's available to preorder now on CD and vinyl.",
+      "image": "https://assets-prd.ignimgs.com/2026/10/30/untitled-design-1793387100239.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
+      "url": "https://www.ign.com/articles/grand-theft-auto-vi-the-original-score-where-to-buy",
+      "confidence": "high"
+    },
     {
       "id": "4f62caa0f264d27adb6d0091b952fd49e6c56d32aa4648a3e7818fb09d679b80",
       "title": "GTA 6’s Attention To Detail Is Getting A Little Ridiculous",
@@ -217,30 +241,6 @@
       "image": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
       "url": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
       "confidence": "high"
-    },
-    {
-      "id": "9a8f5c85e19fc75a1cfb00530f34779eb0ec22fb5977dc7317aa13700b97b4a4",
-      "title": "New GTA 6 Gameplay Released In An Episode Of South Park",
-      "source": "RockstarINTEL",
-      "sourceId": "rockstarintel",
-      "category": "News",
-      "publishedAt": "2026-10-29T09:37:46Z",
-      "description": "New GTA 6 gameplay was revealed in a new episode of South Park on Wednesday night.&#160;The show, which was renamed South America for its 29th season, has had recurring GTA 6 jokes throughout its latest run. It went a step further last night with some interesting official gameplay given out by Ro...",
-      "image": "https://rockstarintel.com/wp-content/uploads/2026/10/jason-beach-screenshot-1280.webp",
-      "url": "https://rockstarintel.com/new-gta-6-gameplay-released-in-an-episode-of-south-park/",
-      "confidence": "high"
-    },
-    {
-      "id": "c16fa1f4409087fe137e4f9090db5c146562aa51c2b96460f2c48e3f5056fb34",
-      "title": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
-      "source": "Push Square",
-      "sourceId": "pushsquare",
-      "category": "News",
-      "publishedAt": "2026-10-29T09:30:00Z",
-      "description": "GTA 6 briefly appears in South Park.In exactly three weeks' time, GTA 6 will be out on PS5. You have probably already seen enough to know whether you are playing it or not (and we have got details on the GTA 6 release times and preload date), but for anyone still on the fence, Rockstar has even m...",
-      "image": "https://images.pushsquare.com/98426c4608c94/small.jpg",
-      "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
-      "confidence": "medium"
     }
   ]
 }
