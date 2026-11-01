@@ -1,7 +1,31 @@
 {
-  "lastUpdated": "2026-10-31T14:15:36Z",
+  "lastUpdated": "2026-11-01T14:42:18Z",
   "articleCount": 20,
   "articles": [
+    {
+      "id": "307d6ef04669cee7550bd89d54bb924259d12fe73f2f1b651b0f27377bb47e25",
+      "title": "How GTA 6 Can Save You $5,000, According to a ‘Self-Made Millionaire’ in a Viral Video",
+      "source": "Insider Gaming",
+      "sourceId": "insidergaming",
+      "category": "Rumor",
+      "publishedAt": "2026-11-01T08:21:10Z",
+      "description": "In a viral social media post, a self-made millionaire has suggested that GTA 6 could save you up to $5,000, and he's not entirely wrong.\nThe post How GTA 6 Can Save You $5,000, According to a &#8216;Self-Made Millionaire&#8217; in a Viral Video appeared first on Insider Gaming.",
+      "image": "https://insider-gaming.com/wp-content/uploads/2025/05/Raul_Bautista_02-scaled.jpg",
+      "url": "https://insider-gaming.com/gta-6-save-you-5000-according-to-millionaire/",
+      "confidence": "high"
+    },
+    {
+      "id": "d7cae125b9d85fb7ea58e796a6f3ab17f82bc8314808aac520bb2873d77aa486",
+      "title": "Rockstar reportedly teaming up with and Nike for $130 GTA 6 sneakers",
+      "source": "Dexerto",
+      "sourceId": "dexerto_gta",
+      "category": "Rumor",
+      "publishedAt": "2026-10-31T16:28:19Z",
+      "description": "Rockstar Games is reportedly teaming up with Travis Scott and Nike to release a collection of Grand Theft Auto 6-themed sneakers in time for the game’s launch.",
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/31/sneaker-market-romania.jpg?width=1080&quality=75&format=auto",
+      "url": "https://www.dexerto.com/entertainment/rockstar-reportedly-teaming-up-with-and-nike-for-130-gta-6-sneakers-3423514/",
+      "confidence": "medium"
+    },
     {
       "id": "3dbf374907994d261e91f3e7e0cd9f749cb02fb267eceb4776d3cb80424d78b3",
       "title": "Guide: These 28+ PS5 and PS Plus Games Are Coming Out Next Week (2nd-8th November)",
@@ -135,18 +159,6 @@
       "confidence": "high"
     },
     {
-      "id": "789590e03a509b9eca826ea5f1ec3a8387db950b176ec57350948ff05e6a4ed6",
-      "title": "GTA 6 ‘Roleplay’ Depth Outlined: ‘You Can Have Your Life In The Game’",
-      "source": "Insider Gaming",
-      "sourceId": "insidergaming",
-      "category": "Rumor",
-      "publishedAt": "2026-10-29T13:09:00Z",
-      "description": "Whilst plenty of fans will be cruising through Grand Theft Auto 6's campaign, many will want the chance to simply live in its open world\nThe post GTA 6 &#8216;Roleplay&#8217; Depth Outlined: &#8216;You Can Have Your Life In The Game&#8217; appeared first on Insider Gaming.",
-      "image": "https://insider-gaming.com/wp-content/uploads/2026/10/GTA6Screen1.webp",
-      "url": "https://insider-gaming.com/gta-6-roleplay-depth-outlined-you-can-have-your-life-in-the-game/",
-      "confidence": "high"
-    },
-    {
       "id": "1a0c3a285774da1b20af18c02a84829ec1e455785798a4b2ed10def935ee86da",
       "title": "GTA 6 forces you to take your time with the main story instead of speedrunning it",
       "source": "Dexerto",
@@ -229,18 +241,6 @@
       "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/29/police-radio-gta-6.jpg?width=1080&quality=75&format=auto",
       "url": "https://www.dexerto.com/gta/gta-6s-police-upgrades-confirmed-alongside-new-gameplay-footage-in-south-park-3422612/",
       "confidence": "medium"
-    },
-    {
-      "id": "94c2977ccc75f3634bd0a89dc0ab5881aa433c9f84afe0380a428b2d0d9243e4",
-      "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
-      "source": "IGN",
-      "sourceId": "ign",
-      "category": "News",
-      "publishedAt": "2026-10-29T09:40:44Z",
-      "description": "GTA 6 made a surprise appearance on South Park with just shy of 20 seconds of genuine, exclusive gameplay that showcased dog poop.",
-      "image": "https://assets-prd.ignimgs.com/2026/10/29/gta-6-1793266830270.png?width=1280&amp;format=jpg&amp;auto=webp&amp;quality=80",
-      "url": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
-      "confidence": "high"
     }
   ]
 }
